@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Project name="Combat Space Enhancement"> 
+	<Package name="cse_sys_cc">
+		<Container ID="Configuration">
+            <Key ID="STR_OPEN_CC_DEVICE_CONFIGURATION_TITLE">
+                <Original>open BFT Tablet/PDA</Original>
+            </Key>
+            <Key ID="STR_OPEN_CC_DEVICE_CONFIGURATION_DESC">
+                <Original>Opens the tablet or PDA from CC if you have one in your inventory. Tablet takes priority above PDA.</Original>
+            </Key>
+
+            <Key ID="STR_OPEN_CC_ONBOARD_CONFIGURATION_TITLE">
+                <Original>open On board BFT Device</Original>
+            </Key>
+            <Key ID="STR_OPEN_CC_ONBOARD_CONFIGURATION_DESC">
+                <Original>Opens the onboard BFT device of the vehicle the player is currently in, if available.
+                </Original>
+            </Key>            
+		</Container>
+
+        <Container ID="CfgWeapons">
+            <Key ID="STR_ITEM_CSE_M_TABLET_DISPLAY">
+                <Original>Military Tablet (NATO)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_TABLET_DESC">
+                <Original>Military Tablet (NATO)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_TABLET_DESC_USE">
+                <Original>Military Tablet (NATO)</Original>
+            </Key>
+
+            <Key ID="STR_ITEM_CSE_M_PDA_DISPLAY">
+                <Original>PDA (NATO)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_PDA_DESC">
+                <Original>A PDA for use in the field (NATO)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_PDA_DESC_USE">
+                <Original>A PDA, for use in the field (NATO)</Original>
+            </Key>
+
+            <Key ID="STR_ITEM_CSE_M_TABLET_UK_DISPLAY">
+                <Original>Military Tablet (UK/NATO)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_TABLET_UK_DESC">
+                <Original>A Tablet for use in the field (UK/NATO)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_TABLET_UK_DESC_USE">
+                <Original>UK Tablet. Functions with NATO side.</Original>
+            </Key>
+
+              <Key ID="STR_ITEM_CSE_M_TABLET_O_DISPLAY">
+                <Original>Military Tablet (OPFOR)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_TABLET_O_DESC">
+                <Original>Military Tablet for OPFOR</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_TABLET_O_DESC_USE">
+                <Original>OPFOR Tablet</Original>
+            </Key>
+
+            <Key ID="STR_ITEM_CSE_M_PDA_O_DISPLAY">
+                <Original>PDA (OPFOR)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_PDA_O_DESC">
+                <Original>A PDA for use in the field (OPFOR)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_PDA_O_DESC_USE">
+                <Original>OPFOR PDA</Original>
+            </Key>
+
+
+              <Key ID="STR_ITEM_CSE_M_TABLET_G_DISPLAY">
+                <Original>Military Tablet (IND)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_TABLET_G_DESC">
+                <Original>Military Tablet for IND</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_TABLET_G_DESC_USE">
+                <Original>Independent Tablet</Original>
+            </Key>
+
+            <Key ID="STR_ITEM_CSE_M_PDA_G_DISPLAY">
+                <Original>PDA (IND)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_PDA_G_DESC">
+                <Original>A PDA for use in the field (IND)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_M_PDA_G_DESC_USE">
+                <Original>Independent PDA</Original>
+            </Key>
+    
+            <Key ID="STR_ITEM_CSE_HELMET_CAMERA_DISPLAY">
+                <Original>Helmet Camera (NATO)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_HELMET_CAMERA_DESC">
+                <Original>Helmet Camera for NATO forces</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_HELMET_CAMERA_DESC_SHORT">
+                <Original>NATO Helmet Camera</Original>
+            </Key>
+
+            <Key ID="STR_ITEM_CSE_HELMET_CAMERA_O_DISPLAY">
+                <Original>Helmet Camera (OPFOR)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_HELMET_CAMERA_O_DESC">
+                <Original>Helmet Camera for OPFOR forces</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_HELMET_CAMERA_O_DESC_SHORT">
+                <Original>OPFOR Helmet Camera</Original>
+            </Key>
+
+            <Key ID="STR_ITEM_CSE_HELMET_CAMERA_G_DISPLAY">
+                <Original>Helmet Camera (IND)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_HELMET_CAMERA_G_DESC">
+                <Original>Helmet Camera for Independent</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_HELMET_CAMERA_G_DESC_SHORT">
+                <Original>IND Helmet Camera</Original>
+            </Key>
+
+
+            <Key ID="STR_ITEM_CSE_TRACKERITEM_G_DISPLAY">
+                <Original>Blue Force Tracker (IND)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_TRACKERITEM_G_DESC">
+                <Original>Blue Force Tracker for Independent</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_TRACKERITEM_G_DESC_SHORT">
+                <Original>Blue Force Tracker (IND)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_TRACKERITEM_O_DISPLAY">
+                <Original>Blue Force Tracker (OPFOR)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_TRACKERITEM_O_DESC">
+                <Original>Blue Force Tracker for OPFOR</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_TRACKERITEM_O_DESC_SHORT">
+                <Original>Blue Force Tracker (OPFOR)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_TRACKERITEM_W_DISPLAY">
+                <Original>Blue Force Tracker (BLUFOR)</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_TRACKERITEM_W_DESC">
+                <Original>Blue Force Tracker for BLUFOR</Original>
+            </Key>
+            <Key ID="STR_ITEM_CSE_TRACKERITEM_W_DESC_SHORT">
+                <Original>Blue Force Tracker (BLUFOR)</Original>
+            </Key>
+        </Container>
+	</Package> 
+</Project>

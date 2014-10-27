@@ -1,0 +1,767 @@
+﻿﻿<?xml version="1.0"encoding="UTF-8"?>
+<Project name="Combat Space Enhancement">
+    <Package name="Combat Medical System">
+ 
+        <Container ID="Configuration">
+            <Key ID="STR_OPEN_CMS_MENU_TITLE">
+                <Original>Open Combat Medical System Menu</Original>
+            </Key>
+            <Key ID="STR_OPEN_CMS_MENU_DESC">
+                <Original>Opens the CMS menu</Original>
+            </Key>
+        </Container>
+ 
+        <Container name="CMS_OptionsAirway">
+            <Key ID="STR_CSE_ACTION_APPLY_NPA">
+                <Original>Nasopharyngeal Tube</Original>
+                <Spanish>Cánula Nasofaríngea</Spanish>
+                <French>Canule Nasopharyngée</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_APPLY_NPA_TOOLTIP">
+                <Original>Used to keep the airway patent</Original>
+                <Spanish>Mantiene libre las vías aéreas</Spanish>
+                <French>Maintien les voix respiratoires libres</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_REMOVE_NPA">
+                <Original>Remove Nasopharyngeal</Original>
+                <Spanish>Retirar Cánula Nasofaríngea</Spanish>
+                <French>Retirer la Canule Nasopharyngée</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_REMOVE_NPA_TOOLTIP">
+                <Original>Remove the Nasopharyngeal Tube</Original>
+                <Spanish>Retirar Cánula Nasofaríngea</Spanish>
+                <French>Retirer la Canule Nasopharyngée </French>
+            </Key>
+        </Container>
+ 
+        <Container name="CMS_OptionsAdvanced">
+            <Key ID="STR_CSE_ACTION_BLOODIV_1000ml">
+                <Original>Give Blood IV (1000ml)</Original>
+                <English>Give Blood IV (1000ml)</English>
+                <German>Intravenöse Blutspende (1000ml)</German>
+                <Spanish>Sangre Intravenosa (1000ml)</Spanish>
+                <French>Cullot Sanguin IV (1000ml)</French>             
+            </Key>
+            <Key ID="STR_CSE_ACTION_BLOODIV_500ML">
+                <Original>Give Blood IV (500ml)</Original>
+                <English>Give Blood IV (500ml)</English>
+                <German>Intravenöse Blutspende (500ml)</German>
+                <Spanish>Sangre Intravenosa (500ml)</Spanish>
+                <French>Cullot Sanguin IV (500ml)</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_BLOODIV_250ML">
+                <Original>Give Blood IV (250ml)</Original>
+                <English>Give Blood IV (250ml)</English>
+                <German>Intravenöse Blutspende (250ml)</German>
+                <Spanish>Sangre Intravenosa (250ml)</Spanish>
+                <French>Cullot Sanguin IV (250ml)</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PLASMAIV_1000ML">
+                <Original>Give Plasma IV (1000ml)</Original>
+                <English>Give Plasma IV (1000ml)</English>
+                <German>Intravenöse Plasmaspende (1000ml)</German>
+                <Spanish>Plasma Intravenoso (1000ml)</Spanish>
+                <French>Plasma Sanguin IV (1000ml)</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PLASMAIV_500ML">
+                <Original>Give Plasma IV (500ml)</Original>
+                <English>Give Plasma IV (500ml)</English>              
+                <German>Intravenöse Plasmaspende (500ml)</German>
+                <Spanish>Plasma Intravenoso (500ml)</Spanish>
+                <French>Plasma Sanguin IV (500ml)</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PLASMAIV_250ML">
+                <Original>Give Plasma IV (250ml)</Original>
+                <English>Give Plasma IV (250ml)</English>
+                <German>Intravenöse Plasmaspende (250ml)</German>
+                <Spanish>Plasma Intravenoso (250ml)</Spanish>
+                <French>Plasma Sanguin IV (250ml)</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_SALINEIV_1000ML">
+                <Original>Give Saline IV (1000ml)</Original>
+                <English>Give Saline IV (1000ml)</English>
+                <German>Intravenöse Kochsalzlösung (1000ml)</German>
+                <Spanish>Solución Salina Intravenosa (1000ml)</Spanish>
+                <French>Solution Saline 0.9% IV (1000ml)</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_SALINEIV_500ML">
+                <Original>Give Saline IV (500ml)</Original>
+                <English>Give Saline IV (500ml)</English>
+                <German>Intravenöse Kochsalzlösung (500ml)</German>
+                <Spanish>Solución Salina Intravenosa (500ml)</Spanish>
+                <French>Solution Saline 0.9% IV (500ml)</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_SALINEIV_250ML">
+                <Original>Give Saline IV (250ml)</Original>
+                <English>Give Saline IV (250ml)</English>              
+                <German>Intravenöse Kochsalzlösung (250ml)</German>
+                <Spanish>Solución Salina Intravenosa (250ml)</Spanish>
+                <French>Solution Saline 0.9% IV (250ml)</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PERSONAL_AID_KIT">
+                <Original>Full Heal (Personal Aid Kit)</Original>
+                <English>Full Heal (Personal Aid Kit)</English>
+                <German>Ambulante Versorgung (Erste-Hilfe-Tasche)</German>
+                <Spanish>Tratamiento Avanzado (Kit de Soporte Vital Avanzado)</Spanish>
+                <French>Soin Complet (Équipement de support vitale</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PERFORM_CPR">
+                <Original>Perform CPR</Original>
+                <English>Perform CPR</English>
+                <German>Herz-Lungen-Wiederbelebung</German>
+                <Spanish>Realizar CPR</Spanish>
+                <French>Effectuer RCR</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_STOP_CPR">
+                <Original>Stop CPR</Original>
+                <English>Stop CPR</English>
+            </Key>
+
+
+            <Key ID="STR_CSE_ACTION_BLOODIV_1000ML_TOOLTIP">
+                <Original>Give the patient a Blood IV of 1000ml. Read the label for further information.</Original>
+                <English>Give the patient a Blood IV of 1000ml. Read the label for further information.</English>
+                <German>Verabreicht dem Patienten 1000ml Spenderblut. Weitere Informationen auf der Verpackung.</German>
+                <Spanish>Administrar Sangre de 1000ml. Lea la etiqueta para más información.</Spanish>
+                <French>Administrer Cullot Sanguin de 1000ml. Lire l'étiquette pour plus d'information.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_BLOODIV_500ML_TOOLTIP">
+                <Original>Give the patient a Blood IV of 500ml. Read the label for further information.</Original>
+                <English>Give the patient a Blood IV of 500ml. Read the label for further information.</English>
+                <German>Verabreicht dem Patienten 500ml Spenderblut. Weitere Informationen auf der Verpackung.</German>
+                <Spanish>Administrar Sangre de 500ml. Lea la etiqueta para más información.</Spanish>
+                <French>Administrer Cullot Sanguin de 500ml. Lire l'étiquette pour plus d'information.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_BLOODIV_250ML_TOOLTIP">
+                <Original>Give the patient a Blood IV of 250ml. Read the label for further information.</Original>
+                <English>Give the patient a Blood IV of 250ml. Read the label for further information.</English>
+                <German>Verabreicht dem Patienten 250ml Spenderblut. Weitere Informationen auf der Verpackung.</German>
+                <Spanish>Administrar Sangre de 250ml. Lea la etiqueta para más información.</Spanish>
+                <French>Administrer Cullot Sanguin de 250ml. Lire l'étiquette pour plus d'information.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PLASMAIV_1000ML_TOOLTIP">
+                <Original>Give the patient a Plasma IV of 1000ml. Read the label for further information.</Original>
+                <English>Give the patient a Plasma IV of 1000ml. Read the label for further information.</English>
+                <German>Verabreicht dem Patienten 1000ml Blutplasma. Weitere Informationen auf der Verpackung.</German>
+                <Spanish>Administrar Plasma de 1000ml. Lea la etiqueta para más información.</Spanish>
+                <French>Administrer Plasma Sanguin de 1000ml. Lire l'étiquette pour plus d'information.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PLASMAIV_500ML_TOOLTIP">
+                <Original>Give the patient a Plasma IV of 500ml. Read the label for further information.</Original>
+                <English>Give the patient a Plasma IV of 500ml. Read the label for further information.</English>  
+                <German>Verabreicht dem Patienten 500ml Blutplasma. Weitere Informationen auf der Verpackung.</German>
+                <Spanish>Administrar Plasma de 500ml. Lea la etiqueta para más información.</Spanish>
+                <French>Administrer Plasma Sanguin de 500ml. Lire l'étiquette pour plus d'information.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PLASMAIV_250ML_TOOLTIP">
+                <Original>Give the patient a Plasma IV of 250ml. Read the label for further information.</Original>
+                <English>Give the patient a Plasma IV of 250ml. Read the label for further information.</English>
+                <German>Verabreicht dem Patienten 250ml Blutplasma. Weitere Informationen auf der Verpackung.</German>
+                <Spanish>Administrar Plasma de 250ml. Lea la etiqueta para más información.</Spanish>
+                <French>Administrer Plasma Sanguin de 250ml. Lire l'étiquette pour plus d'information.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_SALINEIV_1000ML_TOOLTIP">
+                <Original>Give the patient a Saline IV of 1000ml. Read the label for further information.</Original>
+                <English>Give the patient a Saline IV of 1000ml. Read the label for further information.</English>
+                <German>Verabreicht dem Patienten 1000ml Kochsalzlösung. Weitere Informationen auf der Verpackung.</German>
+                <Spanish>Administrar Solución Salina de 1000ml. Lea la etiqueta para más información.</Spanish>
+                <French>Administrer Solution Saline 0.9% de 1000ml. Lire l'étiquette pour plus d'information.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_SALINEIV_500ML_TOOLTIP">
+                <Original>Give the patient a Saline IV of 500ml. Read the label for further information.</Original>
+                <English>Give the patient a Saline IV of 500ml. Read the label for further information.</English>
+                <German>Verabreicht dem Patienten 500ml Kochsalzlösung. Weitere Informationen auf der Verpackung.</German>
+                <Spanish>Administrar Solución Salina de 500ml. Lea la etiqueta para más información.</Spanish>
+                <French>Administrer Solution Saline 0.9% de 500ml. Lire l'étiquette pour plus d'information.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_SALINEIV_250ML_TOOLTIP">
+                <Original>Give the patient a Saline IV of 250ml. Read the label for further information.</Original>
+                <English>Give the patient a Saline IV of 250ml. Read the label for further information.</English>
+                <German>Verabreicht dem Patienten 250ml Kochsalzlösung. Weitere Informationen auf der Verpackung.</German>
+                <Spanish>Administrar Solución Salina de 250ml. Lea la etiqueta para más información.</Spanish>
+                <French>Administrer Solution Saline 0.9% de 250ml. Lire l'étiquette pour plus d'information.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PERSONAL_AID_KIT_TOOLTIP">
+                <Original>Fully heal a soldier.</Original>
+                <English>Fully heal a soldier.</English>
+                <German>Heilt einen Soldaten vollständig.</German>
+                <Spanish>Curar completamente al herido.</Spanish>
+                <French>Soigner Complêtement le Soldat.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_PERFORM_CPR_TOOLTIP">
+                <Original>Perform CPR. Success can stabilize heart rate and blood pressure.</Original>
+                <English>Perform CPR. Success can stabilize heart rate and blood pressure.</English>
+                <German>Herz-Lungen-Wiederbelebung, bei Erfolg können sich Puls und Blutdruck stabilisieren.</German>
+                <Spanish>Realizar CPR. Puede estabilizar la frecuencia cardiaca y la presión arterial.</Spanish>
+                <French>Effectuer RCR. Le succes de la maneuvre peut retablir un pouls et une tention artériel.</French>
+            </Key>
+            <Key ID="STR_CSE_ACTION_STOP_CPR_TOOLTIP">
+                <Original>Stop providing CPR.</Original>
+                <English>Stop providing CPR.</English>
+            </Key>
+        </Container>
+ 
+        <Container name="UI">
+            <Key ID="STR_CSE_UI_EXAMINE_TREATMENT">
+                <Original>EXAMINE &amp; TREATMENT</Original>
+                <English>EXAMINE &amp; TREATMENT</English>
+                <Spanish>EXAMINAR &amp; TRATAMIENTO</Spanish>
+                <French>EXAMINER &amp; TRAITEMENTS</French>
+            </Key>
+            <Key ID="STR_CSE_UI_STATUS">
+                <Original>STATUS</Original>
+                <English>STATUS</English>
+                <Spanish>ESTADO</Spanish>
+                <French>ÉTATS</French>
+            </Key>
+            <Key ID="STR_CSE_UI_OVERVIEW">
+                <Original>OVERVIEW</Original>
+                <English>OVERVIEW</English>
+                <Spanish>DESCRIPCIÓN</Spanish>
+                <French>DESCRIPTION</French>
+            </Key>
+            <Key ID="STR_CSE_UI_ACTIVITY_LOG">
+                <Original>ACTIVITY LOG</Original>
+                <English>ACTIVITY LOG</English>
+                <Spanish>REGISTRO DE ACTIVIDAD</Spanish>
+                <French>REGISTRE DES SOINS</French>
+            </Key>
+            <Key ID="STR_CSE_UI_QUICK_VIEW">
+                <Original>QUICK VIEW</Original>
+                <English>QUICK VIEW</English>
+                <Spanish>VISTA RÁPIDA</Spanish>
+                <French>VUE RAPIDE</French>
+            </Key>
+            <Key ID="STR_CSE_UI_TRIAGE_NONE">
+                <Original>None</Original>
+                <Spanish>Ninguno</Spanish>
+                <French>Aucun</French>
+            </Key>
+            <Key ID="STR_CSE_UI_TRIAGE_MINOR">
+                <Original>Minor</Original>
+                <Spanish>Menor</Spanish>
+                <French>Mineur</French>
+            </Key>
+            <Key ID="STR_CSE_UI_TRIAGE_DELAYED">
+                <Original>Delayed</Original>
+                <Spanish>Diferido</Spanish>
+                <French>Urgent</French>
+            </Key>
+            <Key ID="STR_CSE_UI_TRIAGE_IMMEDIATE">
+                <Original>Immediate</Original>
+                <Spanish>Inmediato</Spanish>
+                <French>Immédiat</French>
+            </Key>
+            <Key ID="STR_CSE_UI_TRIAGE_DECEASED">
+                <Original>Deceased</Original>
+                <Spanish>Fallecido</Spanish>
+                <French>Décédé</French>
+            </Key>
+            <Key ID="STR_CSE_UI_VIEW_TRIAGE_CARD">
+                <Original>View triage Card</Original>
+                <Spanish>Ver Triage</Spanish>
+                <French>Voir Carte de Triage</French>
+            </Key>
+            <Key ID="STR_CSE_UI_EXAMINE_PATIENT">
+                <Original>Examine Patient</Original>
+                <Spanish>Examinar Paciente</Spanish>
+                <French>Examiner Patient</French>
+            </Key>
+            <Key ID="STR_CSE_UI_BANDAGE_FRACTURES">
+                <Original>Bandage / Fractures</Original>
+                <Spanish>Vendajes / Fracturas </Spanish>
+                <French>Bandages / Fractures</French>
+            </Key>
+            <Key ID="STR_CSE_UI_MEDICATION">
+                <Original>Medication</Original>
+                <Spanish>Medicación</Spanish>
+                <French>Médications</French>
+            </Key>
+            <Key ID="STR_CSE_UI_AIRWAY_MANAGEMENT">
+                <Original>Airway Management</Original>
+                <Spanish>Vías Aéreas</Spanish>
+                <French>Gestion Des Voie REspiratoire</French>
+            </Key>
+            <Key ID="STR_CSE_UI_ADVANCED_TREATMENT">
+                <Original>Advanced Treatments</Original>
+                <Spanish>Tratamientos Avanzados</Spanish>
+                <French>Traitement Avancé</French>
+            </Key>
+            <Key ID="STR_CSE_UI_DRAG_CARRY">
+                <Original>Drag/Carry</Original>
+                <Spanish>Arrastrar/Cargar</Spanish>
+                <French>Glisser/Porter</French>
+            </Key>
+            <Key ID="STR_CSE_UI_TOGGLE_SELF">
+                <Original>Toggle (Self)</Original>
+                <French>Activer (sois)</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SELECT_TRIAGE_STATUS">
+                <Original>Select triage status</Original>
+                <Spanish>Seleccionar estado de Triage</Spanish>
+                <French>Selectioner l'état de Triage</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SELECT_HEAD">
+                <Original>Select Head</Original>
+                <Spanish>Seleccionar Cabeza</Spanish>
+                <French>Selectioner Tête</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SELECT_TORSO">
+                <Original>Select Torso</Original>
+                <Spanish>Seleccionar Torso</Spanish>
+                <French>Selectioner Torse</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SELECT_ARM_L">
+                <Original>Select Left Arm</Original>
+                <Spanish>Seleccionar Brazo Izquierdo</Spanish>
+                <French>Selectioner Bras Gauche</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SELECT_ARM_R">
+                <Original>Select Right Arm</Original>
+                <Spanish>Seleccionar Brazo Derecho</Spanish>
+                <French>Selectioner Bras Droit</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SELECT_LEG_L">
+                <Original>Select Left Leg</Original>
+                <Spanish>Seleccionar Pierna Izquierda</Spanish>
+                <French>Selectioner Jambe Gauche</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SELECT_LEG_R">
+                <Original>Select Right Leg</Original>
+                <Spanish>Seleccionar Pierna Derecha</Spanish>
+                <French>Selectioner Jambe Droite</French>
+            </Key>
+            <Key ID="STR_CSE_UI_HEAD">
+                <Original>Head</Original>
+                <Spanish>Cabeza</Spanish>
+                <French>Tête</French>
+            </Key>
+            <Key ID="STR_CSE_UI_TORSO">
+                <Original>Torso</Original>
+                <French>Torse</French>
+            </Key>
+            <Key ID="STR_CSE_UI_ARM_L">
+                <Original>Left Arm</Original>
+                <Spanish>Brazo Izquierdo</Spanish>
+                <French>Bras Gauche</French>
+            </Key>
+            <Key ID="STR_CSE_UI_ARM_R">
+                <Original>Right Arm</Original>
+                <Spanish>Brazo Derecho</Spanish>
+                <French>Bras Droit</French>
+            </Key>
+            <Key ID="STR_CSE_UI_LEG_L">
+                <Original>Left Leg</Original>
+                <Spanish>Pierna Izquierda</Spanish>
+                <French>Jambe Gauche</French>
+            </Key>
+            <Key ID="STR_CSE_UI_LEG_R">
+                <Original>Right Leg</Original>
+                <Spanish>Pierna Derecha</Spanish>
+                <French>Jambe Droite</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SELECTED_BODY_PART">
+                <Original>Body Part: %1</Original>
+                <Spanish>Parte del cuerpo: %1</Spanish>
+                <French>Partie du corps: %1</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SMALL">
+                <Original>Small</Original>
+                <Spanish>Pequeña</Spanish>
+                <French>Petite</French>
+            </Key>
+            <Key ID="STR_CSE_UI_MEDIUM">
+                <Original>Medium</Original>
+                <Spanish>Mediana</Spanish>
+                <French>moyenne</French>
+            </Key>
+            <Key ID="STR_CSE_UI_LARGE">
+                <Original>Large</Original>
+                <Spanish>Grande</Spanish>
+                <French>Grande</French>
+            </Key>
+            <Key ID="STR_CSE_UI_MULTIPLE_OPEN_WOUNDS">
+                <Original>There are %2 %1 Open Wounds</Original>
+                <Spanish>Hay %2 Heridas Abiertas %1</Spanish>
+                <French>Il y a %2 %1 Blessure Ouverte</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SINGLE_OPEN_WOUND">
+                <Original>There is 1 %1 Open Wound</Original>
+                <Spanish>Hay 1 Herida Abierta %1</Spanish>
+                <French>Il y a 1 blessure ouverte %1</French>
+            </Key>
+            <Key ID="STR_CSE_UI_PARTIAL_OPEN_WOUND">
+                <Original>There is a partial %1 Open wound</Original>
+                <Spanish>Hay una herida parcial abierta %1</Spanish>
+                <French>Il y a une Blessure Patiellement Ouverte %1</French>
+            </Key>
+            <Key ID="STR_CSE_UI_MULTIPLE_BANDAGED_WOUNDS">
+                <Original>There are %2 %1 Bandaged Wounds</Original>
+                <Spanish>Hay %2 Heridas %1 Vendadas</Spanish>
+                <French>Il y a %2 %1 Blessure Bandée</French>
+            </Key>
+            <Key ID="STR_CSE_UI_SINGLE_BANDAGED_WOUND">
+                <Original>There is 1 %1 Bandaged Wound</Original>
+                <Spanish>Hay 1 Herida Vendada %1</Spanish>
+                <French>Il y a 1 %1 Blessure Bandée</French>
+            </Key>
+            <Key ID="STR_CSE_UI_PARTIAL_BANDAGED_WOUND">
+                <Original>There is a partial %1 Bandaged wound</Original>
+                <Spanish>Hay una Herida parcial %1 Vendada</Spanish>
+                <French>Il y a %1 Blessure Partielment Bandée</French>
+            </Key>
+            <Key ID="STR_CSE_UI_NORMAL_BREATHING">
+                <Original>Normal breathing</Original>
+                <Spanish>Respiración normal</Spanish>
+                <French>Respiration Normale</French>
+            </Key>
+            <Key ID="STR_CSE_UI_NO_BREATHING">
+                <Original>No breathing</Original>
+                <Spanish>No respira</Spanish>
+                <French>Apnée</French>
+            </Key>
+            <Key ID="STR_CSE_UI_DIFFICULT_BREATHING">
+                <Original>Difficult breathing</Original>
+                <Spanish>Dificultad para respirar</Spanish>
+                <French>Difficultée Respiratoire</French>
+            </Key>
+            <Key ID="STR_CSE_UI_ALMOST_NO_BREATHING">
+                <Original>Almost no breathing</Original>
+                <Spanish>Casi sin respirar</Spanish>
+                <French>Respiration Faible</French>
+            </Key>
+            <Key ID="STR_CSE_UI_STATUS_BLEEDING">
+                <Original>Bleeding</Original>
+                <Spanish>Sangrando</Spanish>
+                <French>Seignement</French>
+            </Key>
+            <Key ID="STR_CSE_UI_STATUS_PAIN">
+                <Original>in Pain</Original>
+                <Spanish>Con Dolor</Spanish>
+                <French>A De La Douleur</French>
+            </Key>
+            <Key ID="STR_CSE_UI_STATUS_LOST_BLOOD">
+                <Original>Lost a lot of Blood</Original>
+                <Spanish>Mucha Sangre perdida</Spanish>
+                <French>A Perdu Bcp de Sang</French>
+            </Key>
+            <Key ID="STR_CSE_UI_STATUS_TOURNIQUET_APPLIED">
+                <Original>Tourniquet [CAT]</Original>
+                <Spanish>Torniquete [CAT]</Spanish>
+                <French>Garot [CAT]</French>
+            </Key>
+            <Key ID="STR_CSE_UI_STATUS_NPA_APPLIED">
+                <Original>Nasopharyngeal Tube [NPA]</Original>
+                <Spanish>Torniquete [CAT]</Spanish>
+                <French>Canule Naseaupharyngée [NPA]</French>
+            </Key>
+        </Container> 
+ 
+        <Container name="CfgMagazines">
+            <Key ID="STR_CSE_MAG_BANDAGE_BASIC_DISPLAY">
+                <Original>Bandage (Basic)</Original>
+                <Spanish>Bendaje (Básico)</Spanish>
+                <French>Bandage (Standard)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_BANDAGE_BASIC_DESC_SHORT">
+                <Original>Used to cover a wound</Original>
+                <Spanish>Utilizado para cubrir una herida</Spanish>
+                <French>Utilisé Pour Couvrir Une Blessure</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_BANDAGE_BASIC_DESC_USE">
+                <Original>A dressing, that is a particular material used to cover a wound, which is applied over the wound once bleeding has been stemmed.</Original>
+                <Spanish>Un apósito, material específico utilizado para cubrir una herida, se aplica sobre la herida una vez ha dejado de sangrar.</Spanish>
+                <French>C'est un bandage, qui est fait d'un matériel spécial utiliser pour couvrir une blessure, qui peut etre appliquer des que le seignement as ete stopper.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DISPLAY">
+                <Original>Packing Bandage</Original>
+                <Spanish>Vendaje Compresivo</Spanish>
+                <French>Bandage Mèche</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DESC_SHORT">
+                <Original>Used to pack medium to large wounds and stem the bleeding</Original>
+                <Spanish>Se utiliza para vendar heridas medianas y grandes y detener el sangrado</Spanish>
+                <French>Utiliser pour remplire la cavité créé dans une blessure moyenne et grande.</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DESC_USE">
+                <Original>A bandage used to pack the wound to stem bleeding and facilitate wound healing. Packing a wound is an option in large polytrauma injuries.</Original>
+                <Spanish>Se utiliza para detener la hemorragia de una herida y favorecer su cicatrización. Se usa en grandes lesiones o politraumatismos.</Spanish>
+                <French>Un bandage servent a etre inseré dans les blessure pour éponger le seignement et faciliter la guerrison. Ce bandage est une option pour soigner les lession de politrauma.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_BANDAGE_ELASTIC_DISPLAY">
+                <Original>Bandage (Elastic)</Original>
+                <Spanish>Vendaje (Elástico)</Spanish>
+                <French>Bandage (Élastique)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_BANDAGE_ELASTIC_DESC_SHORT">
+                <Original>Bandage kit, Elastic</Original>
+                <Spanish>Vendaje (Elástico)</Spanish>
+                <French>Bandage Compressif Élastique</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_BANDAGE_ELASTIC_DESC_USE">
+                <Original></Original>
+                <French>Ce bandage peut etre utiliser pour compresser la plaie afin de ralentire le seignement et assurer la tenue du bandage lors de mouvment.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_TOURNIQUET_DISPLAY">
+                <Original>Tourniquet (CAT)</Original>
+                <Spanish>Torniquete (CAT)</Spanish>
+                <French>Garot (CAT)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_TOURNIQUET_DESC_SHORT">
+                <Original>Slows down blood loss when bleeding</Original>
+                <Spanish>Reduce la velocidad de pérdida de sangre</Spanish>
+                <French>Ralentit le seignement</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_TOURNIQUET_DESC_USE">
+                <Original>A constricting device used to compress venous and arterial circulation in effect inhibiting or slowing blood flow and therefore decreasing loss of blood.</Original>
+                <Spanish>Dispositivo utilizado para eliminar el pulso distal y de ese modo controlar la pérdida de sangre</Spanish> 
+                <French>Un appareil servent a compresser les artères et veines afin de reduire la perte de sang.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_SPLINT_DISPLAY">
+                <Original>Splint</Original>
+                <Spanish>Férula</Spanish>
+                <French>Attelle</French>
+                
+            </Key>
+            <Key ID="STR_CSE_MAG_SPLINT_DESC_SHORT">
+                <Original>An immobilization device used to support, immobilize and to a degree compress the associated wound. Usually used on the limbs but can be used on the hip.</Original>
+                <Spanish>Un dispositivo de inmovilización utilizado para apoyar, inmovilizar y comprimir la herida asociada. Normalmente se usa en las extremidades, pero puede ser utilizado en la cadera.</Spanish>
+                <French>Un dispositif d'immobilisation servant a supporter, immobiliser, et meme comprimer les blessure relier a une fracture. Normalement utiliser sur les extrémités</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_SPLINT_DESC_USE">
+                <Original>A Splint, for broken bones</Original>
+                <Spanish>Férula, para huesos rotos</Spanish>
+                <French>Une attelle, pour les os brisé</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_MORPHINE_DISPLAY">
+                <Original>Morphine auto-injector</Original>
+                <Spanish>Morfina auto-inyectable</Spanish>
+                <French>Auto-injecteur de Morphine</French> 
+            </Key>
+            <Key ID="STR_CSE_MAG_MORPHINE_DESC_SHORT">
+                <Original>Used to combat moderate to severe pain experiences</Original>
+                <Spanish>Usado para combatir los estados dolorosos moderados a severos</Spanish>
+                <French>Utiliser pour contrer les douleurs modéré à severes.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_MORPHINE_DESC_USE">
+                <Original>An analgesic used to combat moderate to severe pain experiences.</Original>
+                <Spanish>Analgésico usado para combatir los estados dolorosos de moderado a severo.</Spanish>
+                <French>Un Analgésique puissant servant a contrer les douleur modéré a severe.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_ATROPINE_DISPLAY">
+                <Original>Atropin auto-injector</Original>
+                <Spanish>Atropina auto-inyectable</Spanish>
+                <French>Auto-injecteur d'Atropine</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_ATROPINE_DESC_SHORT">
+                <Original>Used in NBC scenarios</Original>;
+                <Spanish>Usado en escenarios NBC</Spanish>
+                <French>Utiliser en cas d'attaque CBRN</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_ATROPINE_DESC_USE">
+                <Original>A drug used by the Military in NBC scenarios.</Original>
+                <Spanish>Medicamento usado por Militares en escenarios NBC</Spanish>
+                <French>Médicament utilisé par l'armée en cas d'attaque CBRN</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_EPINEPHRINE_DISPLAY">   
+                <Original>Epinephrine auto-injector</Original>
+                <Spanish>Epinefrina auto-inyectable</Spanish>
+                <French>Auto-injecteur d'épinéphrine</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_EPINEPHRINE_DESC_SHORT">
+                <Original>Increase heart rate and counter effects given by allergic reactions</Original>
+                <Spanish>Aumenta la frecuencia cardiaca y contraresta los efectos de las reacciones alérgicas</Spanish>
+                <French>Augmente la Fréquance cadiaque et contré les effet d'une reaction Anaphylactique</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_EPINEPHRINE_DESC_USE">
+                <Original>A drug that works on a sympathetic response to dilate the bronchi, increase heart rate and counter such effects given by allergic reactions (anaphylaxis). Used in sudden cardiac arrest scenarios with decreasing positive outcomes.</Original>
+                <Spanish>Medicamento que dilata los bronquios, aumenta la frecuencia cardiaca y contrarresta los efectos de las reacciones alérgicas (anafilaxis). Se utiliza en caso de paros cardiacos repentinos.</Spanish>
+                <French>Un medicament qui fonctione sur le systeme sympatique créan une dilatation des bronches, augmente la fréquance cardiaque et contre les effet d'une reaction alergique (anaphylaxie). Utiliser lors d'arret cardio-respiratoire pour augmenté les chances retrouver un ryhtme.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_PLASMA_IV">
+                <Original>Plasma IV (1000ml)</Original>
+                <Spanish>Plasma Intravenoso (1000ml)</Spanish>
+                <French>Plasma Sanguin IV (1000ml)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_PLASMA_IV_DESC_SHORT">
+                <Original>A volume-expanding blood supplement.</Original>
+                <Spanish>Suplemento para expandir el volumen sanguíneo.</Spanish>
+                <French>Supplement visant a remplacer les volume sanguin</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_PLASMA_IV_DESC_USE">
+                <Original>A volume-expanding blood supplement.</Original>
+                <Spanish>Suplemento para expandir el volumen sanguíneo.</Spanish>
+                <French>Supplement visant a remplacer le volume sanguin et remplace les plaquettes.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_PLASMA_IV_500">
+                <Original>Plasma IV (500ml)</Original>
+                <Spanish>Plasma Intravenoso (500ml)</Spanish>
+                <French>Plasma Sanguin IV (500ml)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_PLASMA_IV_250">
+                <Original>Plasma IV (250ml)</Original>
+                <Spanish>Plasma Intravenoso (250ml)</Spanish>
+                <French>Plasma Sanguin (250ml)</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_BLOOD_IV">
+                <Original>Blood IV (1000ml)</Original>
+                <Spanish>Sangre Intravenosa (1000ml)</Spanish>
+                <French>Cullot Sanguin IV (1000ml)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_BLOOD_IV_DESC_SHORT">
+                <Original>Blood IV, for restoring a patients blood (keep cold)</Original>
+                <Spanish>Sangre Intravenosa, para restarurar el volumen sanguíneo (mantener frío)</Spanish>
+                <French>Cullot Sanguin IV, pour remplacer le volume sanguin (garder Réfrigeré)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_BLOOD_IV_DESC_USE">
+                <Original>O Negative infusion blood used in strict and rare events to replenish blood supply usually conducted in the transport phase of medical care.</Original>
+                <French>Cullot Sanguin O- ,utiliser seulement lors de perte sanguine majeur afin de remplacer le volume sanguin perdu. Habituelment utiliser lors du transport ou dans un etablisement de soin. </French>
+            </Key>
+            <Key ID="STR_CSE_MAG_BLOOD_IV_500">
+                <Original>Blood IV (500ml)</Original>
+                <Spanish>Sangre Intravenosa (500ml)</Spanish>
+                <French>Cullot Sanguin IV (500ml)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_BLOOD_IV_250">
+                <Original>Blood IV (250ml)</Original>
+                <Spanish>Sangre Intravenosa (250ml)</Spanish>
+                <French>Cullot Sanguin IV (250ml)</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_SALINE_IV">
+                <Original>Saline IV (1000ml)</Original>
+                <Spanish>Solución Salina Intravenosa (1000ml)</Spanish>
+                <French>solution Saline 0.9% IV (1000ml)</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_SALINE_IV_DESC_SHORT">
+                <Original>Saline IV, for restoring a patients blood</Original>
+                <Spanish>Solución Salina Intravenosa, para restaurar el volumen sanguíneo</Spanish>
+                <French>Solution Saline 0.9% IV, pour retablir temporairement la tention arteriel</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_SALINE_IV_DESC_USE">
+                <Original>A medical volume-replenishing agent introduced into the blood system through an IV infusion.</Original>
+                <Spanish>Suero fisiológico inoculado al torrente sanguíneo de forma intravenosa.</Spanish>
+                <French> Un remplacment temporaire pour rétablir la tention artériel lors de perte sanguine, étant ajouter par intraveineuse</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_SALINE_IV_500">
+                <Original>Saline IV (500ml)</Original>
+                <Spanish>Solución Salina Intravenosa (500ml)</Spanish>
+                <French>Solution Saline 0.9% IV (500ml)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_SALINE_IV_250">
+                <Original>Saline IV (250ml)</Original>
+                <Spanish>Solución Salina Intravenosa (250ml)</Spanish>
+                <French>Solution Saline 0.9% IV (250ml)</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_QUIKCLOT_DISPLAY">
+                <Original>Basic Field Dressing (QuikClot)</Original>
+                <Spanish>Vendaje Básico (Coagulante)</Spanish>
+                <French>Bandage Regulier (Coagulant)</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_QUIKCLOT_DESC_SHORT">
+                <Original>QuikClot bandage</Original>
+                <Spanish>Venda Coagulante</Spanish>
+                <French>Bandage coagulant</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_QUIKCLOT_DESC_USE">
+                <Original></Original>
+                <French>Un bandage servant a coaguler les seignements mineur à moyen.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_NPA_DISPLAY">
+                <Original>Nasopharyngeal tube</Original>
+                <Spanish>Cánula Nasofaríngea</Spanish>
+                <French>Canule Nasopharyngée</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_NPA_DESC_SHORT">
+                <Original>Nasopharyngeal tube, for mataining the airway</Original>
+                <Spanish>Cánula Nasofaríngea, mantiene despejadas las vías aéreas</Spanish>
+                <French>Canule Naso, sert a mintenir ouverte les voix respiratoire.</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_NPA_DESC_USE">
+                <Original>Nasopharyngeal airway. An airway adjunct inserted nasally which is then used to keep the airway patent which allows the field medic to ventilate the patient as appropriate.</Original>
+                <Spanish>Cánula Nasofaríngea. Dispositivo de vía aérea insertado por vía nasal que se utiliza para mantener libre la vía aérea permitiendo ventilar al paciente según sea apropiado.</Spanish>
+                <French>Canule Naso. Dispositif, incere par le nez, servant a maintenir les voie respiratoire du patient ouverte, permetant sa ventilation par le personel medical.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_OPA_DISPLAY">
+                <Original>Oropharyngeal tube</Original>
+                <Spanish>Cánula Orofaríngea</Spanish>
+                <French>Canule Oropharyngée</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_OPA_DESC_SHORT">
+                <Original>Oropharyngeal Airway, for maintaining the airway</Original>
+                <Spanish>Cánula Orofaríngea, para mantener despejada la vía aérea</Spanish>
+                <French>Canule Oropharyngée, sert a maintenir les voie respiratoires ouverte.</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_OPA_DESC_USE">
+                <Original>Oropharyngeal airway. An airway adjunct inserted via the oral airway (i.e. mouth) which is then used to keep the airway patent which allows the field medic to ventilate the patient as appropriate.</Original>
+                <Spanish>Cánula Orofaríngea. Dispositivo de vía aérea insertado a través de la vía respiratoria oral (es decir, la boca) que se utiliza para mantener despejada la vía aérea permitiendo ventilar al paciente según sea apropiado.</Spanish>
+                <French>Canule Oropharyngée. Un dispositif, inseré par la bouche, qui est utiliser pour garder les voie respiratoire overte et permetre la ventilation par le personel de soin.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_LIQUID_SKIN_DISPLAY">
+                <Original>Liquid skin</Original>
+                <Spanish>Pomada tópica</Spanish>
+                <French>Pomade Topique</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_LIQUID_SKIN_DESC_SHORT">
+                <Original>Liquid Skin, for use on burns</Original>
+                <Spanish>Pomada tópica, para quemaduras</Spanish>
+                <French>Pomade Topique, appliquer sur les brulures.</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_LIQUID_SKIN_DESC_USE">
+                <Original>Liquid bandage is a topical skin treatment for minor cuts and sores that is sold by several companies. The products are mixtures of chemicals which create a polymeric layer which binds to the skin. This protects the wound by keeping dirt and germs out, and keeping moisture in.</Original>
+                <French>Bandage liquide est un traitement de la peau topique pour les coupures et les plaies mineures qui est vendu par plusieurs compagnies. Les produits sont des mélanges de produits chimiques qui créent une couche polymère qui se lie à la peau. Cela protège la plaie en gardant la saleté et les germes, et de garder l'humidité.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_CHEST_SEAL_DISPLAY">
+                <Original>Chest seal</Original>
+                <Spanish>Parche Oclusivo</Spanish>
+                <French>Bandage Occlusif</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_CHEST_SEAL_DESC_SHORT">
+                <Original>A Chest seal</Original>
+                <Spanish>Parche Torácico</Spanish>
+                <French>Bandage toracique pour les pneumothorax</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_CHEST_SEAL_DESC_USE">
+                <Original>Chest Seal is a  high performance occlusive dressing designed to treat penetrating chest wounds along with securing other wound dressings. The patented hydro-gel provides superior adhesion to the wound area even when moisture, pleural fluids or blood is present. It will work on patients with heavy perspiration or very wet environments. The highly aggressive tack adhesive of the hydro-gel will enable the dressing to conform and hold to the patient's body.</Original>
+                <French>Le pensement occlusif est un pansement occlusif de haute performance conçu pour traiter les plaies pénétrantes de la poitrine ainsi que la sécurisation d'autres pansements. L'hydro-gel brevetée offre une adhérence supérieure à la surface de la plaie, même lorsque l'humidité, liquide pleural ou le sang est présent, elle le laisse couller. Il fonctionne sur les patients atteints d'une transpiration abondante ou dans des environnements très humides.</French>
+            </Key>
+ 
+            <Key ID="STR_CSE_MAG_AID_KIT_DISPLAY">
+                <Original>Personal Aid Kit</Original>
+                <Spanish>Kit de Soporte Vital Avanzado</Spanish>
+                <French>Équipement de support Vitale</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_AID_KIT_DESC_SHORT">
+                <Original>Includes various treatment kit needed for stitching or advanced treatment</Original>
+                <Spanish>Incluye material médico para tratamientos avanzados</Spanish>
+                <French>Inclue du matériel medical pour les traitement avancé, tel les point de suture.</French>
+            </Key>
+            <Key ID="STR_CSE_MAG_AID_KIT_DESC_USE">
+                <Original></Original>
+                <French></French>
+            </Key>
+        </Container>
+ 
+    </Package>
+</Project>

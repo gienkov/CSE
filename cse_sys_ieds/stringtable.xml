@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Project name="Combat Space Enhancement"> 
+	<Package name="cse_sys_ieds">
+		<Container ID="Items">
+
+			<Key ID="STR_CSE_ITEM_IED_PRESSUREPLATE_SMALL">
+				<Original>Pressure Plate IED (Small)</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_IED_PRESSUREPLATE_LARGE">
+				<Original>Pressure Plate IED (Large)</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_IED_RADIO_SMALL">
+				<Original>Radio IED (Small)</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_IED_RADIO_LARGE">
+				<Original>Radio IED (Large)</Original>
+			</Key>
+		</Container>
+	</Package> 
+</Project>

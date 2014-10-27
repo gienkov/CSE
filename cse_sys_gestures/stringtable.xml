@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Project name="Combat Space Enhancement"> 
+	<Package name="cse_sys_gestures">
+		<Container ID="GestureActions">
+			<Key ID="STR_CSE_GESTURE_FREEZE_SHORT">
+				<Original>Freeze!</Original>
+				<English>Freeze!</English>
+				<German>Halt!</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_FOLLOW_SHORT">
+				<Original>Follow!</Original>
+				<English>Follow!</English>
+				<German>Mitkommen!</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_CEASEFIRE_SHORT">
+				<Original>Cease Fire!</Original>
+				<English>Cease Fire!</English>
+				<German>Feuer einstellen!</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_COVER_SHORT">
+				<Original>Cover!</Original>
+				<English>Cover!</English>
+				<German>In Deckung!</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_GO_SHORT">
+				<Original>Go!</Original>
+				<English>Go!</English>
+				<German>Los, Los, Los!</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_POINT_SHORT">
+				<Original>Point!</Original>
+				<English>Point!</English>
+				<German>Fingerzeig.</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_FREEZE_TOOLTIP">
+				<Original>Play Gesture Freeze</Original>
+				<English>Play Gesture Freeze</English>
+				<German>'Halt!' Geste ausführen</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_FOLLOW_TOOLTIP">
+				<Original>Play Gesture Follow</Original>
+				<English>Play Gesture Follow</English>
+				<German>'Mitkommen!' Geste ausführen</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_CEASEFIRE_TOOLTIP">
+				<Original>Play Gesture Cease Fire</Original>
+				<English>Play Gesture Cease Fire</English>
+				<German>'Feuer einstellen!' Geste ausführen</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_COVER_TOOLTIP">
+				<Original>Play Gesture Cover</Original>
+				<English>Play Gesture Cover</English>
+				<German>'In Deckung!' Geste ausführen</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_GO_TOOLTIP">
+				<Original>Play Gesture Go</Original>
+				<English>Play Gesture Go</English>
+				<German>'Los, Los, Los!' Geste ausführen</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_POINT_TOOLTIP">
+				<Original>Play Gesture Point</Original>
+				<English>Play Gesture Point</English>
+				<German>Zeigt nach Vorne.</German>
+			</Key>
+
+			<Key ID="STR_CSE_GESTURE_GESTUREACTION_SHORT">
+				<Original>Gestures</Original>
+				<English>Gestures</English>
+				<German>Gesten</German>
+			</Key>
+			<Key ID="STR_CSE_GESTURE_GESTUREACTION_TOOLTIP">
+				<Original>Use Gesture</Original>
+				<English>Use Gesture</English>
+				<German>Gesten ausführen</German>
+			</Key>
+		</Container>
+	</Package> 
+</Project>

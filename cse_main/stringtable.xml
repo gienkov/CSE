@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Project name="Combat Space Enhancement"> 
+	<Package name="cse_main">
+		<Container ID="main">
+			<Key ID="STR_CSE_ACTION_ACCEPT_REQUEST_KEY_TITLE">
+				<Original>Accept Requests</Original>
+			</Key>
+			<Key ID="STR_CSE_ACTION_DECLINE_REQUEST_KEY_TITLE">
+				<Original>Decline Requests</Original>
+			</Key>
+			<Key ID="STR_CSE_ACTION_ACCEPT_REQUEST_KEY_TOOLTIP">
+				<Original>Accept Requests send by other players. These can be requests to use / share equipment, perform certain actions.</Original>
+			</Key>
+			<Key ID="STR_CSE_ACTION_DECLINE_REQUEST_KEY_TOOLTIP">
+				<Original>Decline Requests send by other players. These can be requests to use / share equipment, perform certain actions.</Original>
+			</Key>
+		</Container>
+	</Package> 
+</Project>

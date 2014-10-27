@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Project name="Combat Space Enhancement"> 
+	<Package name="cse_sys_groups">
+		<Container ID="Groups">
+			<Key ID="STR_CSE_GROUP_FORM_COLUMN_SHORT">
+				<Original>Column</Original>
+				<English>Column</English>
+				<German>Kolonne</German>
+			</Key>
+			<Key ID="STR_CSE_GROUP_FORM_STAG_SHORT">
+				<Original>Stag Column</Original>
+				<English>Stag Column</English>
+				<German>Gest.Kolonne</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_WEDGE_SHORT">
+				<Original>Wedge</Original>
+				<English>Wedge</English>
+				<German>Keil</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_ECHL_SHORT">
+				<Original>Echelon L</Original>
+				<English>Echelon L</English>
+				<German>Staffel L</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_ECHR_SHORT">
+				<Original>Echelon R</Original>
+				<English>Echelon R</English>
+				<German>Staffel R</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_VEE_SHORT">
+				<Original>Vee</Original>
+				<English>Vee</English>
+				<German>V-Form.</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_LINE_SHORT">
+				<Original>Line</Original>
+				<English>Line</English>
+				<German>Linie</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_FILE_SHORT">
+				<Original>File</Original>
+				<English>File</English>
+				<German>Komp.Kolonne</German>
+			</Key>
+			<Key ID="STR_CSE_GROUP_FORM_DIAMOND_SHORT">
+				<Original>Diamond</Original>
+				<English>Diamond</English>
+				<German>Raute</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_COLUMN_TOOLTIP">
+				<Original>Column</Original>
+				<English>Column</English>
+				<German>Kolonnenformation</German>
+			</Key>
+			<Key ID="STR_CSE_GROUP_FORM_STAG_TOOLTIP">
+				<Original>Staggered Column</Original>
+				<English>Staggered Column</English>
+				<German>Gestaffelte Kolonne</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_WEDGE_TOOLTIP">
+				<Original>Wedge formation</Original>
+				<English>Wedge formation</English>
+				<German>Keilformation</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_ECHL_TOOLTIP">
+				<Original>Echelon Left</Original>
+				<English>Echelon Left</English>
+				<German>Staffel Links</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_ECHR_TOOLTIP">
+				<Original>Echelon Right</Original>
+				<English>Echelon Right</English>
+				<German>Staffel Rechts</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_VEE_TOOLTIP">
+				<Original>Vee formation</Original>
+				<English>Vee formation</English>
+				<German>V-Formation</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_LINE_TOOLTIP">
+				<Original>Line formation</Original>
+				<English>Line formation</English>
+				<German>Linienformation</German>
+			</Key>
+
+			<Key ID="STR_CSE_GROUP_FORM_FILE_TOOLTIP">
+				<Original>File formation</Original>
+				<English>File formation</English>
+				<German>Kompakte Kolonnenformation</German>
+			</Key>
+			<Key ID="STR_CSE_GROUP_FORM_DIAMOND_TOOLTIP">
+				<Original>Diamond formation</Original>
+				<English>Diamond formation</English>
+				<German>Rautenformation</German>
+			</Key>
+
+
+			<Key ID="STR_CSE_GROUP_SWITCHFORMATION_SHORT">
+				<Original>Formations</Original>
+				<English>Formations</English>
+				<German>Formationen</German>
+			</Key>
+			<Key ID="STR_CSE_GROUP_SWITCHFORMATION_TOOLTIP">
+				<Original>Order Formation</Original>
+				<English>Order Formation</English>
+				<German>Formationsbefehl</German>
+			</Key>
+
+
+
+			<Key ID="STR_CSE_GROUP_REQUESTLEADER_SHORT">
+				<Original>Lead Group</Original>
+				<English>Lead Group</English>
+				<German>Gruppe anführen</German>
+			</Key>
+			<Key ID="STR_CSE_GROUP_REQUESTLEADER_TOOLTIP">
+				<Original>Request group leader to take over group leader</Original>
+				<English>Request group leader to take over group leader</English>
+				<German>Gruppenführerschaft anfordern</German>
+			</Key>
+			<Key ID="STR_CSE_GROUP_REQUESTLEADER_MESSAGE">
+				<Original>%1 requests to be leader of this group</Original>
+				<English>%1 requests to be leader of this group</English>
+				<German>%1 bittet um Gruppenführerschaft</German>
+			</Key>
+
+
+
+			<Key ID="STR_CSE_SHOULDER_TAPPED_GRP">
+				<Original>Your shoulder was tapped!</Original>
+				<English>Your shoulder was tapped!</English>
+				<German>Jemand hat dich angestupst!</German>
+			</Key>
+			<Key ID="STR_CSE_SHOULDER_TAP_GRP">
+				<Original>Shoulder Tap</Original>
+				<English>Shoulder Tap</English>
+				<German>Schultergriff</German>
+			</Key>
+
+
+
+			<Key ID="STR_CSE_SHOULDER_TAP_TITLE">
+				<Original>Shoulder Tap</Original>
+				<English>Shoulder Tap</English>
+				<German>Schultergriff</German>
+			</Key>
+			<Key ID="STR_CS_SHOULDER_TAP_DESC">
+				<Original>When pressed, you tap the shoulder of the unit in front of you. This depends on the Shoulder Tap settings from the Groups Module.</Original>
+				<English>When pressed, you tap the shoulder of the unit in front of you. This depends on the Shoulder Tap settings from the Groups Module.</English>
+				<German>Stupst die Einheit vor dir an der Schulter an. Dies hängt von den Schulter-Check Einstellungen im Gruppenmodul ab.</German>
+			</Key>
+
+
+
+			<Key ID="STR_CSE_GROUP_REQUESTJOINGRP_SHORT">
+				<Original>Join Group</Original>
+			</Key>
+			<Key ID="STR_CSE_GROUP_REQUESTJOINGRP_TOOLTIP">
+				<Original>Join target Group</Original>
+			</Key>
+			<Key ID="STR_CSE_GROUP_REQUESTJOINGRP_MESSAGE">
+				<Original>%1 requests to join your group</Original>
+			</Key>
+
+
+			<Key ID="STR_CSE_GROUP_LEAVEGRP_SHORT">
+				<Original>Leave Group</Original>
+			</Key>
+			<Key ID="STR_CSE_GROUP_LEAVEGRP_TOOLTIP">
+				<Original>Leave Current Group</Original>
+			</Key>
+
+		</Container>
+	</Package> 
+</Project>

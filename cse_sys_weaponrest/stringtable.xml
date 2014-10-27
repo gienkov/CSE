@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Project name="Combat Space Enhancement"> 
+	<Package name="cse_sys_weaponrest">
+		<Container ID="Configuration">
+            <Key ID="STR_DEPLOY_WEAPON_REST_TTTLE">
+                <Original>Rest Weapon/Deploy Bipod</Original>
+            </Key>
+            <Key ID="STR_DEPLOY_WEAPON_REST_DESC">
+                <Original>Lets the player rest his weapon / deploy the bipod. This is part of the 'Weapon Rest [CSE]' module.</Original>
+            </Key>
+		</Container>
+	</Package> 
+</Project>
