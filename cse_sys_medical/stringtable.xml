@@ -805,11 +805,13 @@
                 <Original>Liquid skin</Original>
                 <Spanish>Pomada tópica</Spanish>
                 <French>Pomade Topique</French>
+                <Polish>Bandaż w płynie</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_LIQUID_SKIN_DESC_SHORT">
                 <Original>Liquid Skin, for use on burns</Original>
                 <Spanish>Pomada tópica, para quemaduras</Spanish>
                 <French>Pomade Topique, appliquer sur les brulures.</French>
+                <Polish>Bandaż w płynie, używany na poparzenia</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_LIQUID_SKIN_DESC_USE">
                 <Original>Liquid bandage is a topical skin treatment for minor cuts and sores that is sold by several companies. The products are mixtures of chemicals which create a polymeric layer which binds to the skin. This protects the wound by keeping dirt and germs out, and keeping moisture in.</Original>
@@ -820,7 +822,7 @@
                 <Original>Chest seal</Original>
                 <Spanish>Parche Oclusivo</Spanish>
                 <French>Bandage Occlusif</French>
-                <Polish>Opatrunek uszczelniający Chest Seal</Polish>
+                <Polish>Opatrunek Chest Seal</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_CHEST_SEAL_DESC_SHORT">
                 <Original>A Chest seal</Original>
