@@ -542,28 +542,31 @@
                 <Original>Bandage (Basic)</Original>
                 <Spanish>Bendaje (Básico)</Spanish>
                 <French>Bandage (Standard)</French>
-                <Polish>Opatrunek </Polish>
+                <Polish>Bandaż (jałowy)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BANDAGE_BASIC_DESC_SHORT">
                 <Original>Used to cover a wound</Original>
                 <Spanish>Utilizado para cubrir una herida</Spanish>
                 <French>Utilisé Pour Couvrir Une Blessure</French>
+                <Polish>Używany w celu przykrycia i ochrony miejsca zranienia</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BANDAGE_BASIC_DESC_USE">
                 <Original>A dressing, that is a particular material used to cover a wound, which is applied over the wound once bleeding has been stemmed.</Original>
                 <Spanish>Un apósito, material específico utilizado para cubrir una herida, se aplica sobre la herida una vez ha dejado de sangrar.</Spanish>
                 <French>C'est un bandage, qui est fait d'un matériel spécial utiliser pour couvrir une blessure, qui peut etre appliquer des que le seignement as ete stopper.</French>
+                <Polish>Opatrunek materiałowy, używany do przykrywania ran, zakładany na ranę po zatamowaniu krwawienia.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DISPLAY">
                 <Original>Packing Bandage</Original>
                 <Spanish>Vendaje Compresivo</Spanish>
-                <French>Bandage Mèche</French>
+                <French>Bandaż uszczelniający</French>
             </Key>
             <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DESC_SHORT">
                 <Original>Used to pack medium to large wounds and stem the bleeding</Original>
                 <Spanish>Se utiliza para vendar heridas medianas y grandes y detener el sangrado</Spanish>
                 <French>Utiliser pour remplire la cavité créé dans une blessure moyenne et grande.</French>
+                <Polish>Używany w celu opatrywania średnich i dużych ran oraz tamowania krwawienia.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DESC_USE">
                 <Original>A bandage used to pack the wound to stem bleeding and facilitate wound healing. Packing a wound is an option in large polytrauma injuries.</Original>
