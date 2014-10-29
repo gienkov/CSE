@@ -723,82 +723,97 @@
                 <Original>Blood IV (250ml)</Original>
                 <Spanish>Sangre Intravenosa (250ml)</Spanish>
                 <French>Cullot Sanguin IV (250ml)</French>
+                <Polish>Krew</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_SALINE_IV">
                 <Original>Saline IV (1000ml)</Original>
                 <Spanish>Solución Salina Intravenosa (1000ml)</Spanish>
                 <French>solution Saline 0.9% IV (1000ml)</French>
+                <Polish>Solanka 0,9% IV (1000ml)</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_SALINE_IV_DESC_SHORT">
                 <Original>Saline IV, for restoring a patients blood</Original>
                 <Spanish>Solución Salina Intravenosa, para restaurar el volumen sanguíneo</Spanish>
                 <French>Solution Saline 0.9% IV, pour retablir temporairement la tention arteriel</French>
+                <Polish>Solanka 0,9%, podawana dożylnie (IV), używana w celu uzupełnienia krwi u pacjenta</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_SALINE_IV_DESC_USE">
                 <Original>A medical volume-replenishing agent introduced into the blood system through an IV infusion.</Original>
                 <Spanish>Suero fisiológico inoculado al torrente sanguíneo de forma intravenosa.</Spanish>
                 <French> Un remplacment temporaire pour rétablir la tention artériel lors de perte sanguine, étant ajouter par intraveineuse</French>
+                <Polish>Używany w medycynie w formie płynu infuzyjnego jako środek nawadniający i uzupełniający niedobór elektrolitów, podawany dożylnie (IV).</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_SALINE_IV_500">
                 <Original>Saline IV (500ml)</Original>
                 <Spanish>Solución Salina Intravenosa (500ml)</Spanish>
                 <French>Solution Saline 0.9% IV (500ml)</French>
+                <Polish>Solanka 0,9% IV (500ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_SALINE_IV_250">
                 <Original>Saline IV (250ml)</Original>
                 <Spanish>Solución Salina Intravenosa (250ml)</Spanish>
                 <French>Solution Saline 0.9% IV (250ml)</French>
+                <Polish>Solanka 0,9% IV (250ml)</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_QUIKCLOT_DISPLAY">
                 <Original>Basic Field Dressing (QuikClot)</Original>
                 <Spanish>Vendaje Básico (Coagulante)</Spanish>
                 <French>Bandage Regulier (Coagulant)</French>
+                <Polish>Opatrunek QuikClot</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_QUIKCLOT_DESC_SHORT">
                 <Original>QuikClot bandage</Original>
                 <Spanish>Venda Coagulante</Spanish>
                 <French>Bandage coagulant</French>
+                <Polish>Podstawowy opatrunek stosowany na rany</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_QUIKCLOT_DESC_USE">
                 <Original></Original>
                 <French>Un bandage servant a coaguler les seignements mineur à moyen.</French>
+                <Polish>Proszkowy opatrunek adsorbcyjny przeznaczony do tamowania zagrażających życiu krwawień średniej i dużej intensywności.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_NPA_DISPLAY">
                 <Original>Nasopharyngeal tube</Original>
                 <Spanish>Cánula Nasofaríngea</Spanish>
                 <French>Canule Nasopharyngée</French>
+                <Polish>Rurka nosowo-gardłowa</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_NPA_DESC_SHORT">
                 <Original>Nasopharyngeal tube, for mataining the airway</Original>
                 <Spanish>Cánula Nasofaríngea, mantiene despejadas las vías aéreas</Spanish>
                 <French>Canule Naso, sert a mintenir ouverte les voix respiratoire.</French>
+                <Polish>Rurka nosowo-gardłowa, używana w celu udrożnienia dróg oddechowych</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_NPA_DESC_USE">
                 <Original>Nasopharyngeal airway. An airway adjunct inserted nasally which is then used to keep the airway patent which allows the field medic to ventilate the patient as appropriate.</Original>
                 <Spanish>Cánula Nasofaríngea. Dispositivo de vía aérea insertado por vía nasal que se utiliza para mantener libre la vía aérea permitiendo ventilar al paciente según sea apropiado.</Spanish>
                 <French>Canule Naso. Dispositif, incere par le nez, servant a maintenir les voie respiratoire du patient ouverte, permetant sa ventilation par le personel medical.</French>
+                <Polish>Rurki nosowo-gardłowe stosuje się do ratunkowego udrożnienia dróg oddechowych u osób nieprzytomnych. Rurka nosowo-gardłowa jest znacznie lepiej tolerowana np. przez osobę przytomną, niż rurka ustno-gardłowa.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_OPA_DISPLAY">
                 <Original>Oropharyngeal tube</Original>
                 <Spanish>Cánula Orofaríngea</Spanish>
                 <French>Canule Oropharyngée</French>
+                <Polish>Rurka ustno-gardłowa</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_OPA_DESC_SHORT">
                 <Original>Oropharyngeal Airway, for maintaining the airway</Original>
                 <Spanish>Cánula Orofaríngea, para mantener despejada la vía aérea</Spanish>
                 <French>Canule Oropharyngée, sert a maintenir les voie respiratoires ouverte.</French>
+                <Polish>Rurka ustno-gardłowa, używana w celu udrożnienia dróg oddechowych</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_OPA_DESC_USE">
                 <Original>Oropharyngeal airway. An airway adjunct inserted via the oral airway (i.e. mouth) which is then used to keep the airway patent which allows the field medic to ventilate the patient as appropriate.</Original>
                 <Spanish>Cánula Orofaríngea. Dispositivo de vía aérea insertado a través de la vía respiratoria oral (es decir, la boca) que se utiliza para mantener despejada la vía aérea permitiendo ventilar al paciente según sea apropiado.</Spanish>
                 <French>Canule Oropharyngée. Un dispositif, inseré par la bouche, qui est utiliser pour garder les voie respiratoire overte et permetre la ventilation par le personel de soin.</French>
+                <Polish>Rurkę ustno - gardłową stosuje się podczas zabiegów sztucznej wentylacji płuc. Zadaniem rurki ustno - gardłowej jest zapewnienie drożności górnych dróg oddechowych, a użycie jej zapewnia ratownikowi komfort prowadzenia zabiegów i podnosi skuteczność prowadzonej akcji.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_LIQUID_SKIN_DISPLAY">
@@ -811,11 +826,12 @@
                 <Original>Liquid Skin, for use on burns</Original>
                 <Spanish>Pomada tópica, para quemaduras</Spanish>
                 <French>Pomade Topique, appliquer sur les brulures.</French>
-                <Polish>Bandaż w płynie, używany na poparzenia</Polish>
+                <Polish>Bandaż w płynie, używany na poparzenia i lekkie urazy</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_LIQUID_SKIN_DESC_USE">
                 <Original>Liquid bandage is a topical skin treatment for minor cuts and sores that is sold by several companies. The products are mixtures of chemicals which create a polymeric layer which binds to the skin. This protects the wound by keeping dirt and germs out, and keeping moisture in.</Original>
                 <French>Bandage liquide est un traitement de la peau topique pour les coupures et les plaies mineures qui est vendu par plusieurs compagnies. Les produits sont des mélanges de produits chimiques qui créent une couche polymère qui se lie à la peau. Cela protège la plaie en gardant la saleté et les germes, et de garder l'humidité.</French>
+                <Polish>Opatrunek nakładany na skórę atomizerem tworzący na powierzchni skóry warstwę przyśpieszającą gojenie - stosowany przy drobnych ranach i poparzeniach.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_CHEST_SEAL_DISPLAY">
@@ -840,13 +856,13 @@
                 <Original>Personal Aid Kit</Original>
                 <Spanish>Kit de Soporte Vital Avanzado</Spanish>
                 <French>Équipement de support Vitale</French>
-                <Polish>Apteczka</Polish>
+                <Polish>Apteczka osobista</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_AID_KIT_DESC_SHORT">
                 <Original>Includes various treatment kit needed for stitching or advanced treatment</Original>
                 <Spanish>Incluye material médico para tratamientos avanzados</Spanish>
                 <French>Inclue du matériel medical pour les traitement avancé, tel les point de suture.</French>
-                <Polish>Zawiera różnego rodzaju przyrządy wymagane do zszywania ran i zaawansowanej opieki</Polish>
+                <Polish>Zestaw środków medycznych do opatrywania ran i dodatkowego leczenia po-urazowego</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_AID_KIT_DESC_USE">
                 <Original></Original>
