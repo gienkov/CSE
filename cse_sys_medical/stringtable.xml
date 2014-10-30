@@ -560,7 +560,8 @@
             <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DISPLAY">
                 <Original>Packing Bandage</Original>
                 <Spanish>Vendaje Compresivo</Spanish>
-                <French>Bandaż uszczelniający</French>
+                <French>Bandage Mèche</French>
+                <Polish>Bandaż (uciskowy)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DESC_SHORT">
                 <Original>Used to pack medium to large wounds and stem the bleeding</Original>
@@ -572,158 +573,186 @@
                 <Original>A bandage used to pack the wound to stem bleeding and facilitate wound healing. Packing a wound is an option in large polytrauma injuries.</Original>
                 <Spanish>Se utiliza para detener la hemorragia de una herida y favorecer su cicatrización. Se usa en grandes lesiones o politraumatismos.</Spanish>
                 <French>Un bandage servent a etre inseré dans les blessure pour éponger le seignement et faciliter la guerrison. Ce bandage est une option pour soigner les lession de politrauma.</French>
+                <Polish>Opatrunek stosowany w celu zatrzymania krwawienia i osłony większych ran.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_BANDAGE_ELASTIC_DISPLAY">
                 <Original>Bandage (Elastic)</Original>
                 <Spanish>Vendaje (Elástico)</Spanish>
                 <French>Bandage (Élastique)</French>
+                <Polish>Bandaż (elastyczny)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BANDAGE_ELASTIC_DESC_SHORT">
                 <Original>Bandage kit, Elastic</Original>
                 <Spanish>Vendaje (Elástico)</Spanish>
                 <French>Bandage Compressif Élastique</French>
+                <Polish>Zestaw bandaży elastycznych.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BANDAGE_ELASTIC_DESC_USE">
                 <Original></Original>
                 <French>Ce bandage peut etre utiliser pour compresser la plaie afin de ralentire le seignement et assurer la tenue du bandage lors de mouvment.</French>
+                <Polish>Elastyczna opaska podtrzymująca opatrunek oraz usztywniająca okolice stawów.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_TOURNIQUET_DISPLAY">
                 <Original>Tourniquet (CAT)</Original>
                 <Spanish>Torniquete (CAT)</Spanish>
                 <French>Garot (CAT)</French>
+                <Polish>Staza (typ. CAT)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_TOURNIQUET_DESC_SHORT">
                 <Original>Slows down blood loss when bleeding</Original>
                 <Spanish>Reduce la velocidad de pérdida de sangre</Spanish>
                 <French>Ralentit le seignement</French>
+                <Polish>Zmniejsza ubytek krwi z kończyn w przypadku krwawienia.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_TOURNIQUET_DESC_USE">
                 <Original>A constricting device used to compress venous and arterial circulation in effect inhibiting or slowing blood flow and therefore decreasing loss of blood.</Original>
                 <Spanish>Dispositivo utilizado para eliminar el pulso distal y de ese modo controlar la pérdida de sangre</Spanish> 
                 <French>Un appareil servent a compresser les artères et veines afin de reduire la perte de sang.</French>
+                <Polish>Opaska zaciskowa CAT służy do tamowanie krwotoków w sytuacji zranienia kończyn z masywnym krwawieniem tętniczym lub żylnym.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_SPLINT_DISPLAY">
                 <Original>Splint</Original>
                 <Spanish>Férula</Spanish>
                 <French>Attelle</French>
+                <Polish>Szyna</Polish>
                 
             </Key>
             <Key ID="STR_CSE_MAG_SPLINT_DESC_SHORT">
                 <Original>An immobilization device used to support, immobilize and to a degree compress the associated wound. Usually used on the limbs but can be used on the hip.</Original>
                 <Spanish>Un dispositivo de inmovilización utilizado para apoyar, inmovilizar y comprimir la herida asociada. Normalmente se usa en las extremidades, pero puede ser utilizado en la cadera.</Spanish>
                 <French>Un dispositif d'immobilisation servant a supporter, immobiliser, et meme comprimer les blessure relier a une fracture. Normalement utiliser sur les extrémités</French>
+                <Polish>Szyna jest urządzeniem służącym do wsparcia lub unieruchomienia kończyny lub kręgosłupa.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_SPLINT_DESC_USE">
                 <Original>A Splint, for broken bones</Original>
                 <Spanish>Férula, para huesos rotos</Spanish>
                 <French>Une attelle, pour les os brisé</French>
+                <Polish>Szyna, na złamane kości.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_MORPHINE_DISPLAY">
                 <Original>Morphine auto-injector</Original>
                 <Spanish>Morfina auto-inyectable</Spanish>
-                <French>Auto-injecteur de Morphine</French> 
+                <French>Auto-injecteur de Morphine</French>
+                <Polish>Autostrzykawka z morfiną</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_MORPHINE_DESC_SHORT">
                 <Original>Used to combat moderate to severe pain experiences</Original>
                 <Spanish>Usado para combatir los estados dolorosos moderados a severos</Spanish>
                 <French>Utiliser pour contrer les douleurs modéré à severes.</French>
+                <Polish>Morfina. Ma silne działanie przeciwbólowe.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_MORPHINE_DESC_USE">
                 <Original>An analgesic used to combat moderate to severe pain experiences.</Original>
                 <Spanish>Analgésico usado para combatir los estados dolorosos de moderado a severo.</Spanish>
                 <French>Un Analgésique puissant servant a contrer les douleur modéré a severe.</French>
+                <Polish>Organiczny związek chemiczny z grupy alkaloidów. Ma silne działanie przeciwbólowe.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_ATROPINE_DISPLAY">
                 <Original>Atropin auto-injector</Original>
                 <Spanish>Atropina auto-inyectable</Spanish>
                 <French>Auto-injecteur d'Atropine</French>
+                <Polish>Autostrzykawka AtroPen</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_ATROPINE_DESC_SHORT">
                 <Original>Used in NBC scenarios</Original>;
                 <Spanish>Usado en escenarios NBC</Spanish>
                 <French>Utiliser en cas d'attaque CBRN</French>
+                <Polish>Atropina. Stosowana jako lek rozkurczowy i środek rozszerzający źrenice.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_ATROPINE_DESC_USE">
                 <Original>A drug used by the Military in NBC scenarios.</Original>
                 <Spanish>Medicamento usado por Militares en escenarios NBC</Spanish>
                 <French>Médicament utilisé par l'armée en cas d'attaque CBRN</French>
+                <Polish>Atropina. Stosowana jako lek rozkurczowy i środek rozszerzający źrenice. Środek stosowany w przypadku zagrożeń NBC.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_EPINEPHRINE_DISPLAY">   
                 <Original>Epinephrine auto-injector</Original>
                 <Spanish>Epinefrina auto-inyectable</Spanish>
                 <French>Auto-injecteur d'épinéphrine</French>
+                <Polish>Autostrzykawka EpiPen</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_EPINEPHRINE_DESC_SHORT">
                 <Original>Increase heart rate and counter effects given by allergic reactions</Original>
                 <Spanish>Aumenta la frecuencia cardiaca y contraresta los efectos de las reacciones alérgicas</Spanish>
                 <French>Augmente la Fréquance cadiaque et contré les effet d'une reaction Anaphylactique</French>
+                <Polish>Adrenalina. Zwiększa puls i przeciwdziała efektom wywołanym przez reakcje alergiczne</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_EPINEPHRINE_DESC_USE">
                 <Original>A drug that works on a sympathetic response to dilate the bronchi, increase heart rate and counter such effects given by allergic reactions (anaphylaxis). Used in sudden cardiac arrest scenarios with decreasing positive outcomes.</Original>
                 <Spanish>Medicamento que dilata los bronquios, aumenta la frecuencia cardiaca y contrarresta los efectos de las reacciones alérgicas (anafilaxis). Se utiliza en caso de paros cardiacos repentinos.</Spanish>
                 <French>Un medicament qui fonctione sur le systeme sympatique créan une dilatation des bronches, augmente la fréquance cardiaque et contre les effet d'une reaction alergique (anaphylaxie). Utiliser lors d'arret cardio-respiratoire pour augmenté les chances retrouver un ryhtme.</French>
+                <Polish>EpiPen z adrenaliną ma działanie sympatykomimetyczne, tj. pobudza receptory alfa- i beta-adrenergiczne. Pobudzenie układu współczulnego prowadzi do zwiększenia częstotliwości pracy serca, zwiększenia pojemności wyrzutowej serca i przyśpieszenia krążenia wieńcowego. Pobudzenie oskrzelowych receptorów beta-adrenergicznych wywołuje rozkurcz mięśni gładkich oskrzeli, co w efekcie zmniejsza towarzyszące oddychaniu świsty i duszności.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_PLASMA_IV">
                 <Original>Plasma IV (1000ml)</Original>
                 <Spanish>Plasma Intravenoso (1000ml)</Spanish>
                 <French>Plasma Sanguin IV (1000ml)</French>
+                <Polish>Osocze IV (1000ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PLASMA_IV_DESC_SHORT">
                 <Original>A volume-expanding blood supplement.</Original>
                 <Spanish>Suplemento para expandir el volumen sanguíneo.</Spanish>
                 <French>Supplement visant a remplacer les volume sanguin</French>
+                <Polish>Składnik krwi, używany do zwiększenia jej objętości.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PLASMA_IV_DESC_USE">
                 <Original>A volume-expanding blood supplement.</Original>
                 <Spanish>Suplemento para expandir el volumen sanguíneo.</Spanish>
                 <French>Supplement visant a remplacer le volume sanguin et remplace les plaquettes.</French>
+                <Polish>Składnik krwi, używany do zwiększenia jej objętości.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_PLASMA_IV_500">
                 <Original>Plasma IV (500ml)</Original>
                 <Spanish>Plasma Intravenoso (500ml)</Spanish>
                 <French>Plasma Sanguin IV (500ml)</French>
+                <Polish>Osocze IV (500ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PLASMA_IV_250">
                 <Original>Plasma IV (250ml)</Original>
                 <Spanish>Plasma Intravenoso (250ml)</Spanish>
                 <French>Plasma Sanguin (250ml)</French>
+                <Polish>Osocze IV (250ml)</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_BLOOD_IV">
                 <Original>Blood IV (1000ml)</Original>
                 <Spanish>Sangre Intravenosa (1000ml)</Spanish>
                 <French>Cullot Sanguin IV (1000ml)</French>
+                <Polish>Krew IV (1000ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BLOOD_IV_DESC_SHORT">
                 <Original>Blood IV, for restoring a patients blood (keep cold)</Original>
                 <Spanish>Sangre Intravenosa, para restarurar el volumen sanguíneo (mantener frío)</Spanish>
                 <French>Cullot Sanguin IV, pour remplacer le volume sanguin (garder Réfrigeré)</French>
+                <Polish>Krew IV, używana do uzupełnienia krwi u pacjenta, trzymać w warunkach chłodniczych</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BLOOD_IV_DESC_USE">
                 <Original>O Negative infusion blood used in strict and rare events to replenish blood supply usually conducted in the transport phase of medical care.</Original>
                 <French>Cullot Sanguin O- ,utiliser seulement lors de perte sanguine majeur afin de remplacer le volume sanguin perdu. Habituelment utiliser lors du transport ou dans un etablisement de soin. </French>
+                <Polish>Krew 0 Rh-, używana w rzadkich i szczególnych przypadkach do uzupełnienia krwi u pacjenta, zazwyczaj w trakcie fazie transportu rannej osoby do szpitala.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BLOOD_IV_500">
                 <Original>Blood IV (500ml)</Original>
                 <Spanish>Sangre Intravenosa (500ml)</Spanish>
                 <French>Cullot Sanguin IV (500ml)</French>
+                <Polish>Krew IV (500ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BLOOD_IV_250">
                 <Original>Blood IV (250ml)</Original>
                 <Spanish>Sangre Intravenosa (250ml)</Spanish>
                 <French>Cullot Sanguin IV (250ml)</French>
-                <Polish>Krew</Polish>
+                <Polish>Krew IV (250ml)</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_SALINE_IV">
@@ -820,7 +849,7 @@
                 <Original>Liquid skin</Original>
                 <Spanish>Pomada tópica</Spanish>
                 <French>Pomade Topique</French>
-                <Polish>Bandaż w płynie</Polish>
+                <Polish>Bandaż (w płynie)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_LIQUID_SKIN_DESC_SHORT">
                 <Original>Liquid Skin, for use on burns</Original>
