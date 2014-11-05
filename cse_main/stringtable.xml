@@ -4,15 +4,19 @@
 		<Container ID="main">
 			<Key ID="STR_CSE_ACTION_ACCEPT_REQUEST_KEY_TITLE">
 				<Original>Accept Requests</Original>
+				<Polish>Akceptuj prośby</Polish>
 			</Key>
 			<Key ID="STR_CSE_ACTION_DECLINE_REQUEST_KEY_TITLE">
 				<Original>Decline Requests</Original>
+				<Polish>Ignoruj prośby</Polish>
 			</Key>
 			<Key ID="STR_CSE_ACTION_ACCEPT_REQUEST_KEY_TOOLTIP">
 				<Original>Accept Requests send by other players. These can be requests to use / share equipment, perform certain actions.</Original>
+				<Polish>Akceptuj prośby wysłane przez innych graczy. Akceptacji wymagają między innymi akcje używania / współdzielenia wyposażenia, wykonywania określonych czynności.</Polish>
 			</Key>
 			<Key ID="STR_CSE_ACTION_DECLINE_REQUEST_KEY_TOOLTIP">
 				<Original>Decline Requests send by other players. These can be requests to use / share equipment, perform certain actions.</Original>
+				<Polish>Ignoruj prośby wysłane przez innych graczy. Akceptacji wymagają między innymi akcje używania / współdzielenia wyposażenia, wykonywania określonych czynności.</Polish>
 			</Key>
 		</Container>
 	</Package> 

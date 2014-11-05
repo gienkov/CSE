@@ -4,15 +4,19 @@
 		<Container ID="Configuration">
             <Key ID="STR_INCREASE_NVG_BIRGHTNESS_TITLE">
                 <Original>Increase NVG Brightness</Original>
+                <Polish>Zwiększ czułość NVG</Polish>
             </Key>
             <Key ID="STR_INCREASE_NVG_BIRGHTNESS_DESC">
                 <Original>Allows the player to increase the NVG brightness.</Original>
+                <Polish>Pozwala graczowi zwiększyć czułość noktowizji.</Polish>
             </Key>
             <Key ID="STR_DECREASE_NVG_BIRGHTNESS_TITLE">
                 <Original>Decrease NVG Brightness</Original>
+                <Polish>Zmniejsz czułość NVG</Polish>
             </Key>
             <Key ID="STR_DECREASE_NVG_BIRGHTNESS_DESC">
                 <Original>Allows the player to decrease the NVG brightness.</Original>
+                <Polish>Pozwala graczowi zmniejszyć czułość noktowizji.</Polish>
             </Key>
 		</Container>
 	</Package> 

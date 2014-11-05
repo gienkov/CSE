@@ -5,15 +5,19 @@
 
 			<Key ID="STR_CSE_ITEM_IED_PRESSUREPLATE_SMALL">
 				<Original>Pressure Plate IED (Small)</Original>
+				<Polish>IED z zapalnikiem naciskowym (mały)</Polish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_IED_PRESSUREPLATE_LARGE">
 				<Original>Pressure Plate IED (Large)</Original>
+				<Polish>IED z zapalnikiem naciskowym (duży)</Polish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_IED_RADIO_SMALL">
 				<Original>Radio IED (Small)</Original>
+				<Polish>IED z zapalnikiem radiowym (mały)</Polish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_IED_RADIO_LARGE">
 				<Original>Radio IED (Large)</Original>
+				<Polish>IED z zapalnikiem radiowym (duży)</Polish>
 			</Key>
 		</Container>
 	</Package> 
