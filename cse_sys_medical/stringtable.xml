@@ -1,16 +1,16 @@
-<?xml version="1.0"encoding="UTF-8"?>
+﻿<?xml version="1.0"encoding="UTF-8"?>
 <Project name="Combat Space Enhancement">
     <Package name="Combat Medical System">
  
         <Container ID="Configuration">
             <Key ID="STR_OPEN_CMS_MENU_TITLE">
                 <Original>Open Combat Medical System Menu</Original>
-				<Russian>Открыть меню медицинской системы CMS </Russian>
+		<Russian>Открыть меню медицинской системы CMS </Russian>
                 <Polish>Otwórz menu Combat Medical System</Polish>
             </Key>
             <Key ID="STR_OPEN_CMS_MENU_DESC">
                 <Original>Opens the CMS menu</Original>
-				<Russian>Открывает меню CMS</Russian>
+		<Russian>Открывает меню CMS</Russian>
                 <Polish>Otwiera menu CMS</Polish>
             </Key>
         </Container>
@@ -18,28 +18,28 @@
         <Container name="CMS_OptionsAirway">
             <Key ID="STR_CSE_ACTION_APPLY_NPA">
                 <Original>Nasopharyngeal Tube</Original>
-				<Russian>Назотрахеальная трубка</Russian>
+		<Russian>Назотрахеальная трубка</Russian>
                 <Spanish>Cánula Nasofaríngea</Spanish>
                 <French>Canule Nasopharyngée</French>
                 <Polish>Rurka nosowo-gardłowa</Polish>
             </Key>
             <Key ID="STR_CSE_ACTION_APPLY_NPA_TOOLTIP">
                 <Original>Used to keep the airway patent</Original>
-				<Russian>Для обеспечения проходимости дыхательных путей</Russian>
+		<Russian>Для обеспечения проходимости дыхательных путей</Russian>
                 <Spanish>Mantiene libre las vías aéreas</Spanish>
                 <French>Maintien les voix respiratoires libres</French>
                 <Polish>Używana w celu udrożnienia dróg oddechowych</Polish>
             </Key>
             <Key ID="STR_CSE_ACTION_REMOVE_NPA">
                 <Original>Remove Nasopharyngeal</Original>
-				<Russian>Извлечь назотрахеальную трубку</Russian>
+		<Russian>Извлечь назотрахеальную трубку</Russian>
                 <Spanish>Retirar Cánula Nasofaríngea</Spanish>
                 <French>Retirer la Canule Nasopharyngée</French>
                 <Polish>Wyjmij rurkę nosowo-gardłową</Polish>
             </Key>
             <Key ID="STR_CSE_ACTION_REMOVE_NPA_TOOLTIP">
                 <Original>Remove the Nasopharyngeal Tube</Original>
-				<Russian>Извлечь назотрахеальную трубку</Russian>
+		<Russian>Извлечь назотрахеальную трубку</Russian>
                 <Spanish>Retirar Cánula Nasofaríngea</Spanish>
                 <French>Retirer la Canule Nasopharyngée </French>
                 <Polish>Wyjmuje rurkę nosowo-gardłową</Polish>
@@ -49,7 +49,7 @@
         <Container name="CMS_OptionsAdvanced">
             <Key ID="STR_CSE_ACTION_BLOODIV_1000ml">
                 <Original>Give Blood IV (1000ml)</Original>
-				<Russian>Перелить кровь (1000 мл)</Russian>
+		<Russian>Перелить кровь (1000 мл)</Russian>
                 <English>Give Blood IV (1000ml)</English>
                 <German>Intravenöse Blutspende (1000ml)</German>
                 <Spanish>Sangre Intravenosa (1000ml)</Spanish>
@@ -58,7 +58,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_BLOODIV_500ML">
                 <Original>Give Blood IV (500ml)</Original>
-				<Russian>Перелить кровь (500 мл)</Russian>
+		<Russian>Перелить кровь (500 мл)</Russian>
                 <English>Give Blood IV (500ml)</English>
                 <German>Intravenöse Blutspende (500ml)</German>
                 <Spanish>Sangre Intravenosa (500ml)</Spanish>
@@ -67,7 +67,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_BLOODIV_250ML">
                 <Original>Give Blood IV (250ml)</Original>
-				<Russian>Перелить кровь (250 мл)</Russian>
+		<Russian>Перелить кровь (250 мл)</Russian>
                 <English>Give Blood IV (250ml)</English>
                 <German>Intravenöse Blutspende (250ml)</German>
                 <Spanish>Sangre Intravenosa (250ml)</Spanish>
@@ -76,7 +76,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PLASMAIV_1000ML">
                 <Original>Give Plasma IV (1000ml)</Original>
-				<Russian>Влить плазму (1000 мл)</Russian>
+		<Russian>Влить плазму (1000 мл)</Russian>
                 <English>Give Plasma IV (1000ml)</English>
                 <German>Intravenöse Plasmaspende (1000ml)</German>
                 <Spanish>Plasma Intravenoso (1000ml)</Spanish>
@@ -85,7 +85,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PLASMAIV_500ML">
                 <Original>Give Plasma IV (500ml)</Original>
-				<Russian>Влить плазму (500 мл)</Russian>
+		<Russian>Влить плазму (500 мл)</Russian>
                 <English>Give Plasma IV (500ml)</English>              
                 <German>Intravenöse Plasmaspende (500ml)</German>
                 <Spanish>Plasma Intravenoso (500ml)</Spanish>
@@ -94,7 +94,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PLASMAIV_250ML">
                 <Original>Give Plasma IV (250ml)</Original>
-				<Russian>Влить плазму (250 мл)</Russian>
+		<Russian>Влить плазму (250 мл)</Russian>
                 <English>Give Plasma IV (250ml)</English>
                 <German>Intravenöse Plasmaspende (250ml)</German>
                 <Spanish>Plasma Intravenoso (250ml)</Spanish>
@@ -103,7 +103,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_SALINEIV_1000ML">
                 <Original>Give Saline IV (1000ml)</Original>
-				<Russian>Влить физраствор (1000 мл)</Russian>
+		<Russian>Влить физраствор (1000 мл)</Russian>
                 <English>Give Saline IV (1000ml)</English>
                 <German>Intravenöse Kochsalzlösung (1000ml)</German>
                 <Spanish>Solución Salina Intravenosa (1000ml)</Spanish>
@@ -112,7 +112,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_SALINEIV_500ML">
                 <Original>Give Saline IV (500ml)</Original>
-				<Russian>Влить физраствор (500 мл)</Russian>
+		<Russian>Влить физраствор (500 мл)</Russian>
                 <English>Give Saline IV (500ml)</English>
                 <German>Intravenöse Kochsalzlösung (500ml)</German>
                 <Spanish>Solución Salina Intravenosa (500ml)</Spanish>
@@ -121,7 +121,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_SALINEIV_250ML">
                 <Original>Give Saline IV (250ml)</Original>
-				<Russian>Влить физраствор (250 мл)</Russian>
+		<Russian>Влить физраствор (250 мл)</Russian>
                 <English>Give Saline IV (250ml)</English>              
                 <German>Intravenöse Kochsalzlösung (250ml)</German>
                 <Spanish>Solución Salina Intravenosa (250ml)</Spanish>
@@ -130,7 +130,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PERSONAL_AID_KIT">
                 <Original>Full Heal (Personal Aid Kit)</Original>
-				<Russian>Полное лечение (аптечка)</Russian>
+		<Russian>Полное лечение (аптечка)</Russian>
                 <English>Full Heal (Personal Aid Kit)</English>
                 <German>Ambulante Versorgung (Erste-Hilfe-Tasche)</German>
                 <Spanish>Tratamiento Avanzado (Kit de Soporte Vital Avanzado)</Spanish>
@@ -139,7 +139,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PERFORM_CPR">
                 <Original>Perform CPR</Original>
-				<Russian>Провести СЛР</Russian>
+		<Russian>Провести СЛР</Russian>
                 <English>Perform CPR</English>
                 <German>Herz-Lungen-Wiederbelebung</German>
                 <Spanish>Realizar CPR</Spanish>
@@ -148,7 +148,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_STOP_CPR">
                 <Original>Stop CPR</Original>
-				<Russian>Прекратить СЛР</Russian>
+		<Russian>Прекратить СЛР</Russian>
                 <English>Stop CPR</English>
                 <Polish>Przerwij RKO</Polish>
             </Key>
@@ -156,7 +156,7 @@
 
             <Key ID="STR_CSE_ACTION_BLOODIV_1000ML_TOOLTIP">
                 <Original>Give the patient a Blood IV of 1000ml. Read the label for further information.</Original>
-				<Russian>Перелить пациенту 1000 мл крови. См. информацию на этикетке.</Russian>
+		<Russian>Перелить пациенту 1000 мл крови. См. информацию на этикетке.</Russian>
                 <English>Give the patient a Blood IV of 1000ml. Read the label for further information.</English>
                 <German>Verabreicht dem Patienten 1000ml Spenderblut. Weitere Informationen auf der Verpackung.</German>
                 <Spanish>Administrar Sangre de 1000ml. Lea la etiqueta para más información.</Spanish>
@@ -165,7 +165,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_BLOODIV_500ML_TOOLTIP">
                 <Original>Give the patient a Blood IV of 500ml. Read the label for further information.</Original>
-				<Russian>Перелить пациенту 500 мл крови. См. информацию на этикетке.</Russian>
+		<Russian>Перелить пациенту 500 мл крови. См. информацию на этикетке.</Russian>
                 <English>Give the patient a Blood IV of 500ml. Read the label for further information.</English>
                 <German>Verabreicht dem Patienten 500ml Spenderblut. Weitere Informationen auf der Verpackung.</German>
                 <Spanish>Administrar Sangre de 500ml. Lea la etiqueta para más información.</Spanish>
@@ -174,7 +174,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_BLOODIV_250ML_TOOLTIP">
                 <Original>Give the patient a Blood IV of 250ml. Read the label for further information.</Original>
-				<Russian>Перелить раненому 500 мл крови. См. информацию на этикетке.</Russian>
+		<Russian>Перелить раненому 500 мл крови. См. информацию на этикетке.</Russian>
                 <English>Give the patient a Blood IV of 250ml. Read the label for further information.</English>
                 <German>Verabreicht dem Patienten 250ml Spenderblut. Weitere Informationen auf der Verpackung.</German>
                 <Spanish>Administrar Sangre de 250ml. Lea la etiqueta para más información.</Spanish>
@@ -183,7 +183,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PLASMAIV_1000ML_TOOLTIP">
                 <Original>Give the patient a Plasma IV of 1000ml. Read the label for further information.</Original>
-				<Russian>Влить раненому 1000 мл плазмы. См. информацию на этикетке.</Russian>
+		<Russian>Влить раненому 1000 мл плазмы. См. информацию на этикетке.</Russian>
                 <English>Give the patient a Plasma IV of 1000ml. Read the label for further information.</English>
                 <German>Verabreicht dem Patienten 1000ml Blutplasma. Weitere Informationen auf der Verpackung.</German>
                 <Spanish>Administrar Plasma de 1000ml. Lea la etiqueta para más información.</Spanish>
@@ -192,7 +192,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PLASMAIV_500ML_TOOLTIP">
                 <Original>Give the patient a Plasma IV of 500ml. Read the label for further information.</Original>
-				<Russian>Влить раненому 500 мл плазмы. См. информацию на этикетке.</Russian>
+		<Russian>Влить раненому 500 мл плазмы. См. информацию на этикетке.</Russian>
                 <English>Give the patient a Plasma IV of 500ml. Read the label for further information.</English>  
                 <German>Verabreicht dem Patienten 500ml Blutplasma. Weitere Informationen auf der Verpackung.</German>
                 <Spanish>Administrar Plasma de 500ml. Lea la etiqueta para más información.</Spanish>
@@ -201,7 +201,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PLASMAIV_250ML_TOOLTIP">
                 <Original>Give the patient a Plasma IV of 250ml. Read the label for further information.</Original>
-				<Russian>Влить раненому 250 мл плазмы. См. информацию на этикетке.</Russian>
+		<Russian>Влить раненому 250 мл плазмы. См. информацию на этикетке.</Russian>
                 <English>Give the patient a Plasma IV of 250ml. Read the label for further information.</English>
                 <German>Verabreicht dem Patienten 250ml Blutplasma. Weitere Informationen auf der Verpackung.</German>
                 <Spanish>Administrar Plasma de 250ml. Lea la etiqueta para más información.</Spanish>
@@ -210,7 +210,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_SALINEIV_1000ML_TOOLTIP">
                 <Original>Give the patient a Saline IV of 1000ml. Read the label for further information.</Original>
-				<Russian>Влить раненому 1000 мл физраствора. См. информацию на этикетке.</Russian>
+		<Russian>Влить раненому 1000 мл физраствора. См. информацию на этикетке.</Russian>
                 <English>Give the patient a Saline IV of 1000ml. Read the label for further information.</English>
                 <German>Verabreicht dem Patienten 1000ml Kochsalzlösung. Weitere Informationen auf der Verpackung.</German>
                 <Spanish>Administrar Solución Salina de 1000ml. Lea la etiqueta para más información.</Spanish>
@@ -219,7 +219,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_SALINEIV_500ML_TOOLTIP">
                 <Original>Give the patient a Saline IV of 500ml. Read the label for further information.</Original>
-				<Russian>Влить раненому 500 мл физраствора. См. информацию на этикетке.</Russian>
+		<Russian>Влить раненому 500 мл физраствора. См. информацию на этикетке.</Russian>
                 <English>Give the patient a Saline IV of 500ml. Read the label for further information.</English>
                 <German>Verabreicht dem Patienten 500ml Kochsalzlösung. Weitere Informationen auf der Verpackung.</German>
                 <Spanish>Administrar Solución Salina de 500ml. Lea la etiqueta para más información.</Spanish>
@@ -228,7 +228,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_SALINEIV_250ML_TOOLTIP">
                 <Original>Give the patient a Saline IV of 250ml. Read the label for further information.</Original>
-				<Russian>Влить раненому 250 мл физраствора. См. информацию на этикетке.</Russian>
+		<Russian>Влить раненому 250 мл физраствора. См. информацию на этикетке.</Russian>
                 <English>Give the patient a Saline IV of 250ml. Read the label for further information.</English>
                 <German>Verabreicht dem Patienten 250ml Kochsalzlösung. Weitere Informationen auf der Verpackung.</German>
                 <Spanish>Administrar Solución Salina de 250ml. Lea la etiqueta para más información.</Spanish>
@@ -237,7 +237,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PERSONAL_AID_KIT_TOOLTIP">
                 <Original>Fully heal a soldier.</Original>
-				<Russian>Полностью вылечить раненого.</Russian>
+		<Russian>Полностью вылечить раненого.</Russian>
                 <English>Fully heal a soldier.</English>
                 <German>Heilt einen Soldaten vollständig.</German>
                 <Spanish>Curar completamente al herido.</Spanish>
@@ -246,7 +246,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_PERFORM_CPR_TOOLTIP">
                 <Original>Perform CPR. Success can stabilize heart rate and blood pressure.</Original>
-				<Russian>Провести сердечно-легочную реанимацию. В случае успеха стабилизируются пульс и давление.</Russian>
+		<Russian>Провести сердечно-легочную реанимацию. В случае успеха стабилизируются пульс и давление.</Russian>
                 <English>Perform CPR. Success can stabilize heart rate and blood pressure.</English>
                 <German>Herz-Lungen-Wiederbelebung, bei Erfolg können sich Puls und Blutdruck stabilisieren.</German>
                 <Spanish>Realizar CPR. Puede estabilizar la frecuencia cardiaca y la presión arterial.</Spanish>
@@ -255,7 +255,7 @@
             </Key>
             <Key ID="STR_CSE_ACTION_STOP_CPR_TOOLTIP">
                 <Original>Stop providing CPR.</Original>
-				<Russian>Прекратить сердечно-легочную реанимацию.</Russian>
+		<Russian>Прекратить сердечно-легочную реанимацию.</Russian>
                 <English>Stop providing CPR.</English>
                 <Polish>Przerwij wykonywanie RKO.</Polish>
             </Key>
@@ -264,7 +264,7 @@
         <Container name="UI">
             <Key ID="STR_CSE_UI_EXAMINE_TREATMENT">
                 <Original>EXAMINE &amp; TREATMENT</Original>
-				<Russian>ОСМОТР И ЛЕЧЕНИЕ</Russian>
+		<Russian>ОСМОТР И ЛЕЧЕНИЕ</Russian>
                 <English>EXAMINE &amp; TREATMENT</English>
                 <Spanish>EXAMINAR &amp; TRATAMIENTO</Spanish>
                 <French>EXAMINER &amp; TRAITEMENTS</French>
@@ -272,7 +272,7 @@
             </Key>
             <Key ID="STR_CSE_UI_STATUS">
                 <Original>STATUS</Original>
-				<Russian>СОСТОЯНИЕ</Russian>
+		<Russian>СОСТОЯНИЕ</Russian>
                 <English>STATUS</English>
                 <Spanish>ESTADO</Spanish>
                 <French>ÉTATS</French>
@@ -280,7 +280,7 @@
             </Key>
             <Key ID="STR_CSE_UI_OVERVIEW">
                 <Original>OVERVIEW</Original>
-				<Russian>ОБЩАЯ ИНФОРМАЦИЯ</Russian>
+		<Russian>ОБЩАЯ ИНФОРМАЦИЯ</Russian>
                 <English>OVERVIEW</English>
                 <Spanish>DESCRIPCIÓN</Spanish>
                 <French>DESCRIPTION</French>
@@ -288,7 +288,7 @@
             </Key>
             <Key ID="STR_CSE_UI_ACTIVITY_LOG">
                 <Original>ACTIVITY LOG</Original>
-				<Russian>ПРОВЕДЕННЫЕ МАНИПУЛЯЦИИ</Russian>
+		<Russian>ПРОВЕДЕННЫЕ МАНИПУЛЯЦИИ</Russian>
                 <English>ACTIVITY LOG</English>
                 <Spanish>REGISTRO DE ACTIVIDAD</Spanish>
                 <French>REGISTRE DES SOINS</French>
@@ -296,7 +296,7 @@
             </Key>
             <Key ID="STR_CSE_UI_QUICK_VIEW">
                 <Original>QUICK VIEW</Original>
-				<Russian>БЫСТРЫЙ ОСМОТР</Russian>
+		<Russian>БЫСТРЫЙ ОСМОТР</Russian>
                 <English>QUICK VIEW</English>
                 <Spanish>VISTA RÁPIDA</Spanish>
                 <French>VUE RAPIDE</French>
@@ -304,49 +304,49 @@
             </Key>
             <Key ID="STR_CSE_UI_TRIAGE_NONE">
                 <Original>None</Original>
-				<Russian>Не ранен</Russian>
+		<Russian>Не ранен</Russian>
                 <Spanish>Ninguno</Spanish>
                 <French>Aucun</French>
                 <Polish>Brak</Polish>
             </Key>
             <Key ID="STR_CSE_UI_TRIAGE_MINOR">
                 <Original>Minor</Original>
-				<Russian>Несрочная помощь</Russian>
+		<Russian>Несрочная помощь</Russian>
                 <Spanish>Menor</Spanish>
                 <French>Mineur</French>
                 <Polish>Normalny</Polish>
             </Key>
             <Key ID="STR_CSE_UI_TRIAGE_DELAYED">
                 <Original>Delayed</Original>
-				<Russian>Срочная помощь</Russian>
+		<Russian>Срочная помощь</Russian>
                 <Spanish>Diferido</Spanish>
                 <French>Urgent</French>
                 <Polish>Opóźniony</Polish>
             </Key>
             <Key ID="STR_CSE_UI_TRIAGE_IMMEDIATE">
                 <Original>Immediate</Original>
-				<Russian>Неотложная помощь</Russian>
+		<Russian>Неотложная помощь</Russian>
                 <Spanish>Inmediato</Spanish>
                 <French>Immédiat</French>
                 <Polish>Natychmiastowy</Polish>
             </Key>
             <Key ID="STR_CSE_UI_TRIAGE_DECEASED">
                 <Original>Deceased</Original>
-				<Russian>Морг</Russian>
+		<Russian>Морг</Russian>
                 <Spanish>Fallecido</Spanish>
                 <French>Décédé</French>
                 <Polish>Nie żyje</Polish>
             </Key>
             <Key ID="STR_CSE_UI_VIEW_TRIAGE_CARD">
                 <Original>View triage Card</Original>
-				<Russian>Смотреть первичную карточку</Russian>
+		<Russian>Смотреть первичную карточку</Russian>
                 <Spanish>Ver Triage</Spanish>
                 <French>Voir Carte de Triage</French>
                 <Polish>Pokaż kartę segregacyjną</Polish>
             </Key>
             <Key ID="STR_CSE_UI_EXAMINE_PATIENT">
                 <Original>Examine Patient</Original>
-				<Russian>Осмотреть пациента</Russian>
+		<Russian>Осмотреть пациента</Russian>
                 <Spanish>Examinar Paciente</Spanish>
                 <French>Examiner Patient</French>
                 <Polish>Zbadaj pacjenta</Polish>
@@ -359,21 +359,21 @@
             </Key>
             <Key ID="STR_CSE_UI_MEDICATION">
                 <Original>Medication</Original>
-				<Russian>Медикаменты</Russian>
+		<Russian>Медикаменты</Russian>
                 <Spanish>Medicación</Spanish>
                 <French>Médications</French>
                 <Polish>Leki</Polish>
             </Key>
             <Key ID="STR_CSE_UI_AIRWAY_MANAGEMENT">
                 <Original>Airway Management</Original>
-				<Russian>Дыхательные пути</Russian>
+		<Russian>Дыхательные пути</Russian>
                 <Spanish>Vías Aéreas</Spanish>
                 <French>Gestion Des Voie REspiratoire</French>
                 <Polish>Drogi oddechowe</Polish>
             </Key>
             <Key ID="STR_CSE_UI_ADVANCED_TREATMENT">
                 <Original>Advanced Treatments</Original>
-				<Russian>Специальная медпомощь</Russian>
+		<Russian>Специальная медпомощь</Russian>
                 <Spanish>Tratamientos Avanzados</Spanish>
                 <French>Traitement Avancé</French>
                 <Polish>Zaawansowane zabiegi</Polish>
@@ -386,96 +386,96 @@
             </Key>
             <Key ID="STR_CSE_UI_TOGGLE_SELF">
                 <Original>Toggle (Self)</Original>
-				<Russian>Лечить себя/другого</Russian>
+		<Russian>Лечить себя/другого</Russian>
                 <French>Activer (sois)</French>
                 <Polish>Przełącz (na siebie)</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SELECT_TRIAGE_STATUS">
                 <Original>Select triage status</Original>
-				<Russian>Сортировка</Russian>
+		<Russian>Сортировка</Russian>
                 <Spanish>Seleccionar estado de Triage</Spanish>
                 <French>Selectioner l'état de Triage</French>
                 <Polish>Wybierz priorytet</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SELECT_HEAD">
                 <Original>Select Head</Original>
-				<Russian>Выбрать голову</Russian>
+		<Russian>Выбрать голову</Russian>
                 <Spanish>Seleccionar Cabeza</Spanish>
                 <French>Selectioner Tête</French>
                 <Polish>Wybierz głowę</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SELECT_TORSO">
                 <Original>Select Torso</Original>
-				<Russian>Выбрать торс</Russian>
+		<Russian>Выбрать торс</Russian>
                 <Spanish>Seleccionar Torso</Spanish>
                 <French>Selectioner Torse</French>
                 <Polish>Wybierz tors</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SELECT_ARM_L">
                 <Original>Select Left Arm</Original>
-				<Russian>Выбрать левую руку</Russian>
+		<Russian>Выбрать левую руку</Russian>
                 <Spanish>Seleccionar Brazo Izquierdo</Spanish>
                 <French>Selectioner Bras Gauche</French>
                 <Polish>Wybierz lewą rękę</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SELECT_ARM_R">
                 <Original>Select Right Arm</Original>
-				<Russian>Выбрать правую руку</Russian>
+		<Russian>Выбрать правую руку</Russian>
                 <Spanish>Seleccionar Brazo Derecho</Spanish>
                 <French>Selectioner Bras Droit</French>
                 <Polish>Wybierz prawą rękę</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SELECT_LEG_L">
                 <Original>Select Left Leg</Original>
-				<Russian>Выбрать левую ногу</Russian>
+		<Russian>Выбрать левую ногу</Russian>
                 <Spanish>Seleccionar Pierna Izquierda</Spanish>
                 <French>Selectioner Jambe Gauche</French>
                 <Polish>Wybierz lewą nogę</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SELECT_LEG_R">
                 <Original>Select Right Leg</Original>
-				<Russian>Выбрать правую ногу</Russian>
+		<Russian>Выбрать правую ногу</Russian>
                 <Spanish>Seleccionar Pierna Derecha</Spanish>
                 <French>Selectioner Jambe Droite</French>
                 <Polish>Wybierz prawą nogę</Polish>
             </Key>
             <Key ID="STR_CSE_UI_HEAD">
                 <Original>Head</Original>
-				<Russian>Голова</Russian>
+		<Russian>Голова</Russian>
                 <Spanish>Cabeza</Spanish>
                 <French>Tête</French>
                 <Polish>Głowa</Polish>
             </Key>
             <Key ID="STR_CSE_UI_TORSO">
                 <Original>Torso</Original>
-				<Russian>Торс</Russian>
+		<Russian>Торс</Russian>
                 <French>Torse</French>
                 <Polish>Tors</Polish>
             </Key>
             <Key ID="STR_CSE_UI_ARM_L">
                 <Original>Left Arm</Original>
-				<Russian>Левая рука</Russian>
+		<Russian>Левая рука</Russian>
                 <Spanish>Brazo Izquierdo</Spanish>
                 <French>Bras Gauche</French>
                 <Polish>Lewa ręka</Polish>
             </Key>
             <Key ID="STR_CSE_UI_ARM_R">
                 <Original>Right Arm</Original>
-				<Russian>Правая рука</Russian>
+		<Russian>Правая рука</Russian>
                 <Spanish>Brazo Derecho</Spanish>
                 <French>Bras Droit</French>
                 <Polish>Prawa ręka</Polish>
             </Key>
             <Key ID="STR_CSE_UI_LEG_L">
                 <Original>Left Leg</Original>
-				<Russian>Левая нога</Russian>
+		<Russian>Левая нога</Russian>
                 <Spanish>Pierna Izquierda</Spanish>
                 <French>Jambe Gauche</French>
                 <Polish>Lewa noga</Polish>
             </Key>
             <Key ID="STR_CSE_UI_LEG_R">
                 <Original>Right Leg</Original>
-				<Russian>Правая нога</Russian>
+		<Russian>Правая нога</Russian>
                 <Spanish>Pierna Derecha</Spanish>
                 <French>Jambe Droite</French>
                 <Polish>Prawa noga</Polish>
@@ -488,126 +488,126 @@
             </Key>
             <Key ID="STR_CSE_UI_SMALL">
                 <Original>Small</Original>
-				<Russian>малого размера</Russian>
+		<Russian>малого размера</Russian>
                 <Spanish>Pequeña</Spanish>
                 <French>Petite</French>
                 <Polish>małym</Polish>
             </Key>
             <Key ID="STR_CSE_UI_MEDIUM">
                 <Original>Medium</Original>
-				<Russian>среднего размера</Russian>
+		<Russian>среднего размера</Russian>
                 <Spanish>Mediana</Spanish>
                 <French>moyenne</French>
                 <Polish>średnim</Polish>
             </Key>
             <Key ID="STR_CSE_UI_LARGE">
                 <Original>Large</Original>
-				<Russian>большого размера</Russian>
+		<Russian>большого размера</Russian>
                 <Spanish>Grande</Spanish>
                 <French>Grande</French>
                 <Polish>dużym</Polish>
             </Key>
             <Key ID="STR_CSE_UI_MULTIPLE_OPEN_WOUNDS">
                 <Original>There are %2 %1 Open Wounds</Original>
-				<Russian>В этой части тела %2 открытых ран %1</Russian>
+		<Russian>В этой части тела %2 открытых ран %1</Russian>
                 <Spanish>Hay %2 Heridas Abiertas %1</Spanish>
                 <French>Il y a %2 %1 Blessure Ouverte</French>
                 <Polish>Widzisz otwarte rany w ilości %2 o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SINGLE_OPEN_WOUND">
                 <Original>There is 1 %1 Open Wound</Original>
-				<Russian>В этой части тела 1 открытая рана %1</Russian>
+		<Russian>В этой части тела 1 открытая рана %1</Russian>
                 <Spanish>Hay 1 Herida Abierta %1</Spanish>
                 <French>Il y a 1 blessure ouverte %1</French>
                 <Polish>Widzisz 1 otwartą ranę o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_PARTIAL_OPEN_WOUND">
                 <Original>There is a partial %1 Open wound</Original>
-				<Russian>В этой части тела 1 частично открытая рана %1</Russian>
+		<Russian>В этой части тела 1 частично открытая рана %1</Russian>
                 <Spanish>Hay una herida parcial abierta %1</Spanish>
                 <French>Il y a une Blessure Patiellement Ouverte %1</French>
                 <Polish>Widzisz częściowo otwartą ranę o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_MULTIPLE_BANDAGED_WOUNDS">
                 <Original>There are %2 %1 Bandaged Wounds</Original>
-				<Russian>В этой части тела %2 перевязанных ран %1</Russian>
+		<Russian>В этой части тела %2 перевязанных ран %1</Russian>
                 <Spanish>Hay %2 Heridas %1 Vendadas</Spanish>
                 <French>Il y a %2 %1 Blessure Bandée</French>
                 <Polish>Widzisz %2 zabandażowanych ran o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SINGLE_BANDAGED_WOUND">
                 <Original>There is 1 %1 Bandaged Wound</Original>
-				<Russian>В этой части тела 1 перевязанная рана %1</Russian>
+		<Russian>В этой части тела 1 перевязанная рана %1</Russian>
                 <Spanish>Hay 1 Herida Vendada %1</Spanish>
                 <French>Il y a 1 %1 Blessure Bandée</French>
                 <Polish>Widzisz 1 zabandażowaną ranę o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_PARTIAL_BANDAGED_WOUND">
                 <Original>There is a partial %1 Bandaged wound</Original>
-				<Russian>В этой части тела одна частично перевязанная рана %1</Russian>
+		<Russian>В этой части тела одна частично перевязанная рана %1</Russian>
                 <Spanish>Hay una Herida parcial %1 Vendada</Spanish>
                 <French>Il y a %1 Blessure Partielment Bandée</French>
                 <Polish>Widzisz 1 częściowo zabandażowaną ranę o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_NORMAL_BREATHING">
                 <Original>Normal breathing</Original>
-				<Russian>Дыхание в норме</Russian>
+		<Russian>Дыхание в норме</Russian>
                 <Spanish>Respiración normal</Spanish>
                 <French>Respiration Normale</French>
                 <Polish>Normalny oddech</Polish>
             </Key>
             <Key ID="STR_CSE_UI_NO_BREATHING">
                 <Original>No breathing</Original>
-				<Russian>Дыхания нет</Russian>
+		<Russian>Дыхания нет</Russian>
                 <Spanish>No respira</Spanish>
                 <French>Apnée</French>
                 <Polish>Brak oddechu</Polish>
             </Key>
             <Key ID="STR_CSE_UI_DIFFICULT_BREATHING">
                 <Original>Difficult breathing</Original>
-				<Russian>Дыхание затруднено</Russian>
+		<Russian>Дыхание затруднено</Russian>
                 <Spanish>Dificultad para respirar</Spanish>
                 <French>Difficultée Respiratoire</French>
                 <Polish>Trudności z oddychaniem</Polish>
             </Key>
             <Key ID="STR_CSE_UI_ALMOST_NO_BREATHING">
                 <Original>Almost no breathing</Original>
-				<Russian>Дыхания почти нет</Russian>
+		<Russian>Дыхания почти нет</Russian>
                 <Spanish>Casi sin respirar</Spanish>
                 <French>Respiration Faible</French>
                 <Polish>Prawie brak oddechu</Polish>
             </Key>
             <Key ID="STR_CSE_UI_STATUS_BLEEDING">
                 <Original>Bleeding</Original>
-				<Russian>Кровотечение</Russian>
+		<Russian>Кровотечение</Russian>
                 <Spanish>Sangrando</Spanish>
                 <French>Seignement</French>
                 <Polish>Krwawienie zewnętrzne</Polish>
             </Key>
             <Key ID="STR_CSE_UI_STATUS_PAIN">
                 <Original>in Pain</Original>
-				<Russian>Испытывает боль</Russian>
+		<Russian>Испытывает боль</Russian>
                 <Spanish>Con Dolor</Spanish>
                 <French>A De La Douleur</French>
                 <Polish>W bólu</Polish>
             </Key>
             <Key ID="STR_CSE_UI_STATUS_LOST_BLOOD">
                 <Original>Lost a lot of Blood</Original>
-				<Russian>Большая кровопотеря</Russian>
+		<Russian>Большая кровопотеря</Russian>
                 <Spanish>Mucha Sangre perdida</Spanish>
                 <French>A Perdu Bcp de Sang</French>
                 <Polish>Stracił dużo krwi</Polish>
             </Key>
             <Key ID="STR_CSE_UI_STATUS_TOURNIQUET_APPLIED">
                 <Original>Tourniquet [CAT]</Original>
-				<Russian>Жгут</Russian>
+		<Russian>Жгут</Russian>
                 <Spanish>Torniquete [CAT]</Spanish>
                 <French>Garot [CAT]</French>
                 <Polish>Opaska uciskowa [CAT]</Polish>
             </Key>
             <Key ID="STR_CSE_UI_STATUS_NPA_APPLIED">
                 <Original>Nasopharyngeal Tube [NPA]</Original>
-				<Russian>Назотрахеальная трубка</Russian>
+		<Russian>Назотрахеальная трубка</Russian>
                 <Spanish>Torniquete [CAT]</Spanish>
                 <French>Canule Naseaupharyngée [NPA]</French>
                 <Polish>Rurka nosowo-gardłowa [NPA]</Polish>
@@ -617,21 +617,21 @@
         <Container name="CfgMagazines">
             <Key ID="STR_CSE_MAG_BANDAGE_BASIC_DISPLAY">
                 <Original>Bandage (Basic)</Original>
-				<Russian>Повязка (обычная)</Russian>
+		<Russian>Повязка (обычная)</Russian>
                 <Spanish>Bendaje (Básico)</Spanish>
                 <French>Bandage (Standard)</French>
                 <Polish>Bandaż (jałowy)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BANDAGE_BASIC_DESC_SHORT">
                 <Original>Used to cover a wound</Original>
-				<Russian>Для перевязки ран</Russian>
+		<Russian>Для перевязки ран</Russian>
                 <Spanish>Utilizado para cubrir una herida</Spanish>
                 <French>Utilisé Pour Couvrir Une Blessure</French>
                 <Polish>Używany w celu przykrycia i ochrony miejsca zranienia</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BANDAGE_BASIC_DESC_USE">
                 <Original>A dressing, that is a particular material used to cover a wound, which is applied over the wound once bleeding has been stemmed.</Original>
-				<Russian>Повязка, накладываемая поверх раны после остановки кровотечения.</Russian>
+		<Russian>Повязка, накладываемая поверх раны после остановки кровотечения.</Russian>
                 <Spanish>Un apósito, material específico utilizado para cubrir una herida, se aplica sobre la herida una vez ha dejado de sangrar.</Spanish>
                 <French>C'est un bandage, qui est fait d'un matériel spécial utiliser pour couvrir une blessure, qui peut etre appliquer des que le seignement as ete stopper.</French>
                 <Polish>Opatrunek materiałowy, używany do przykrywania ran, zakładany na ranę po zatamowaniu krwawienia.</Polish>
@@ -639,21 +639,21 @@
  
             <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DISPLAY">
                 <Original>Packing Bandage</Original>
-				<Russian>Тампонирующая повязка</Russian>
+		<Russian>Тампонирующая повязка</Russian>
                 <Spanish>Vendaje Compresivo</Spanish>
                 <French>Bandage Mèche</French>
                 <Polish>Bandaż (uciskowy)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DESC_SHORT">
                 <Original>Used to pack medium to large wounds and stem the bleeding</Original>
-				<Russian>Для тампонирования ран среднего и большого размера и остановки кровотечения.</Russian>
+		<Russian>Для тампонирования ран среднего и большого размера и остановки кровотечения.</Russian>
                 <Spanish>Se utiliza para vendar heridas medianas y grandes y detener el sangrado</Spanish>
                 <French>Utiliser pour remplire la cavité créé dans une blessure moyenne et grande.</French>
                 <Polish>Używany w celu opatrywania średnich i dużych ran oraz tamowania krwawienia.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PACKING_BANDAGE_DESC_USE">
                 <Original>A bandage used to pack the wound to stem bleeding and facilitate wound healing. Packing a wound is an option in large polytrauma injuries.</Original>
-				<Russian>Повязка для тампонирования раны, остановки кровотечения и лучшего заживления. При тяжелых сочетанных ранениях возможно тампонирование раны.</Russian>
+		<Russian>Повязка для тампонирования раны, остановки кровотечения и лучшего заживления. При тяжелых сочетанных ранениях возможно тампонирование раны.</Russian>
                 <Spanish>Se utiliza para detener la hemorragia de una herida y favorecer su cicatrización. Se usa en grandes lesiones o politraumatismos.</Spanish>
                 <French>Un bandage servent a etre inseré dans les blessure pour éponger le seignement et faciliter la guerrison. Ce bandage est une option pour soigner les lession de politrauma.</French>
                 <Polish>Opatrunek stosowany w celu zatrzymania krwawienia i osłony większych ran.</Polish>
@@ -661,42 +661,42 @@
  
             <Key ID="STR_CSE_MAG_BANDAGE_ELASTIC_DISPLAY">
                 <Original>Bandage (Elastic)</Original>
-				<Russian>Повязка (давящая)</Russian>
+		<Russian>Повязка (давящая)</Russian>
                 <Spanish>Vendaje (Elástico)</Spanish>
                 <French>Bandage (Élastique)</French>
                 <Polish>Bandaż (elastyczny)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BANDAGE_ELASTIC_DESC_SHORT">
                 <Original>Bandage kit, Elastic</Original>
-				<Russian>Давящая повязка</Russian>
+		<Russian>Давящая повязка</Russian>
                 <Spanish>Vendaje (Elástico)</Spanish>
                 <French>Bandage Compressif Élastique</French>
                 <Polish>Zestaw bandaży elastycznych.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BANDAGE_ELASTIC_DESC_USE">
                 <Original></Original>
-				<Russian></Russian>
+		<Russian></Russian>
                 <French>Ce bandage peut etre utiliser pour compresser la plaie afin de ralentire le seignement et assurer la tenue du bandage lors de mouvment.</French>
                 <Polish>Elastyczna opaska podtrzymująca opatrunek oraz usztywniająca okolice stawów.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_TOURNIQUET_DISPLAY">
                 <Original>Tourniquet (CAT)</Original>
-				<Russian>Жгут</Russian>
+		<Russian>Жгут</Russian>
                 <Spanish>Torniquete (CAT)</Spanish>
                 <French>Garot (CAT)</French>
                 <Polish>Staza (typ. CAT)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_TOURNIQUET_DESC_SHORT">
                 <Original>Slows down blood loss when bleeding</Original>
-				<Russian>Уменьшает кровопотерю при кровотечении.</Russian>
+		<Russian>Уменьшает кровопотерю при кровотечении.</Russian>
                 <Spanish>Reduce la velocidad de pérdida de sangre</Spanish>
                 <French>Ralentit le seignement</French>
                 <Polish>Zmniejsza ubytek krwi z kończyn w przypadku krwawienia.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_TOURNIQUET_DESC_USE">
                 <Original>A constricting device used to compress venous and arterial circulation in effect inhibiting or slowing blood flow and therefore decreasing loss of blood.</Original>
-				<Russian>Жгут используется для прижатия сосудов, приводящего к остановке или значительному уменьшению кровотечения и сокращению кровопотери.</Russian>
+		<Russian>Жгут используется для прижатия сосудов, приводящего к остановке или значительному уменьшению кровотечения и сокращению кровопотери.</Russian>
                 <Spanish>Dispositivo utilizado para eliminar el pulso distal y de ese modo controlar la pérdida de sangre</Spanish> 
                 <French>Un appareil servent a compresser les artères et veines afin de reduire la perte de sang.</French>
                 <Polish>Opaska zaciskowa CAT służy do tamowanie krwotoków w sytuacji zranienia kończyn z masywnym krwawieniem tętniczym lub żylnym.</Polish>
@@ -704,7 +704,7 @@
  
             <Key ID="STR_CSE_MAG_SPLINT_DISPLAY">
                 <Original>Splint</Original>
-				<Russian>Шина</Russian>
+		<Russian>Шина</Russian>
                 <Spanish>Férula</Spanish>
                 <French>Attelle</French>
                 <Polish>Szyna</Polish>
@@ -712,14 +712,14 @@
             </Key>
             <Key ID="STR_CSE_MAG_SPLINT_DESC_SHORT">
                 <Original>An immobilization device used to support, immobilize and to a degree compress the associated wound. Usually used on the limbs but can be used on the hip.</Original>
-				<Russian>Приспособление для поддержки и иммобилизации конечности, а также частичного прижатия ее раны. Обычно накладывается на конечности, но может накладываться и на бедро.</Russian>
+		<Russian>Приспособление для поддержки и иммобилизации конечности, а также частичного прижатия ее раны. Обычно накладывается на конечности, но может накладываться и на бедро.</Russian>
                 <Spanish>Un dispositivo de inmovilización utilizado para apoyar, inmovilizar y comprimir la herida asociada. Normalmente se usa en las extremidades, pero puede ser utilizado en la cadera.</Spanish>
                 <French>Un dispositif d'immobilisation servant a supporter, immobiliser, et meme comprimer les blessure relier a une fracture. Normalement utiliser sur les extrémités</French>
                 <Polish>Szyna jest urządzeniem służącym do wsparcia lub unieruchomienia kończyny lub kręgosłupa.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_SPLINT_DESC_USE">
                 <Original>A Splint, for broken bones</Original>
-				<Russian>Шина для переломов</Russian>
+		<Russian>Шина для переломов</Russian>
                 <Spanish>Férula, para huesos rotos</Spanish>
                 <French>Une attelle, pour les os brisé</French>
                 <Polish>Szyna, na złamane kości.</Polish>
@@ -727,14 +727,14 @@
  
             <Key ID="STR_CSE_MAG_MORPHINE_DISPLAY">
                 <Original>Morphine auto-injector</Original>
-				<Russian>Морфин в автоматическом шприце</Russian>
+		<Russian>Морфин в автоматическом шприце</Russian>
                 <Spanish>Morfina auto-inyectable</Spanish>
                 <French>Auto-injecteur de Morphine</French>
                 <Polish>Autostrzykawka z morfiną</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_MORPHINE_DESC_SHORT">
                 <Original>Used to combat moderate to severe pain experiences</Original>
-				<Russian>Для снятия средних и сильных болевых ощущений.</Russian>
+		<Russian>Для снятия средних и сильных болевых ощущений.</Russian>
                 <Spanish>Usado para combatir los estados dolorosos moderados a severos</Spanish>
                 <French>Utiliser pour contrer les douleurs modéré à severes.</French>
                 <Polish>Morfina. Ma silne działanie przeciwbólowe.</Polish>
@@ -742,7 +742,7 @@
  
             <Key ID="STR_CSE_MAG_MORPHINE_DESC_USE">
                 <Original>An analgesic used to combat moderate to severe pain experiences.</Original>
-				<Russian>Анальгетик для снятия средних и сильных болевых ощущений.</Russian>
+		<Russian>Анальгетик для снятия средних и сильных болевых ощущений.</Russian>
                 <Spanish>Analgésico usado para combatir los estados dolorosos de moderado a severo.</Spanish>
                 <French>Un Analgésique puissant servant a contrer les douleur modéré a severe.</French>
                 <Polish>Organiczny związek chemiczny z grupy alkaloidów. Ma silne działanie przeciwbólowe.</Polish>
@@ -750,7 +750,7 @@
  
             <Key ID="STR_CSE_MAG_ATROPINE_DISPLAY">
                 <Original>Atropin auto-injector</Original>
-				<Russian>Атропин в автоматическом шприце</Russian>
+		<Russian>Атропин в автоматическом шприце</Russian>
                 <Spanish>Atropina auto-inyectable</Spanish>
                 <French>Auto-injecteur d'Atropine</French>
                 <Polish>Autostrzykawka AtroPen</Polish>
@@ -758,7 +758,7 @@
  
             <Key ID="STR_CSE_MAG_ATROPINE_DESC_SHORT">
                 <Original>Used in NBC scenarios</Original>
-				<Russian>Применяется для защиты от ОМП</Russian>
+		<Russian>Применяется для защиты от ОМП</Russian>
                 <Spanish>Usado en escenarios NBC</Spanish>
                 <French>Utiliser en cas d'attaque CBRN</French>
                 <Polish>Atropina. Stosowana jako lek rozkurczowy i środek rozszerzający źrenice.</Polish>
@@ -766,7 +766,7 @@
  
             <Key ID="STR_CSE_MAG_ATROPINE_DESC_USE">
                 <Original>A drug used by the Military in NBC scenarios.</Original>
-				<Russian>Препарат, используемый в войсках для защиты от оружия массового поражения.</Russian>
+		<Russian>Препарат, используемый в войсках для защиты от оружия массового поражения.</Russian>
                 <Spanish>Medicamento usado por Militares en escenarios NBC</Spanish>
                 <French>Médicament utilisé par l'armée en cas d'attaque CBRN</French>
                 <Polish>Atropina. Stosowana jako lek rozkurczowy i środek rozszerzający źrenice. Środek stosowany w przypadku zagrożeń NBC.</Polish>
@@ -774,21 +774,21 @@
  
             <Key ID="STR_CSE_MAG_EPINEPHRINE_DISPLAY">   
                 <Original>Epinephrine auto-injector</Original>
-				<Russian>Адреналин в автоматическом шприце</Russian>
+		<Russian>Адреналин в автоматическом шприце</Russian>
                 <Spanish>Epinefrina auto-inyectable</Spanish>
                 <French>Auto-injecteur d'épinéphrine</French>
                 <Polish>Autostrzykawka EpiPen</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_EPINEPHRINE_DESC_SHORT">
                 <Original>Increase heart rate and counter effects given by allergic reactions</Original>
-				<Russian>Стимулирует работу сердца и купирует аллергические реакции.</Russian>
+		<Russian>Стимулирует работу сердца и купирует аллергические реакции.</Russian>
                 <Spanish>Aumenta la frecuencia cardiaca y contraresta los efectos de las reacciones alérgicas</Spanish>
                 <French>Augmente la Fréquance cadiaque et contré les effet d'une reaction Anaphylactique</French>
                 <Polish>Adrenalina. Zwiększa puls i przeciwdziała efektom wywołanym przez reakcje alergiczne</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_EPINEPHRINE_DESC_USE">
                 <Original>A drug that works on a sympathetic response to dilate the bronchi, increase heart rate and counter such effects given by allergic reactions (anaphylaxis). Used in sudden cardiac arrest scenarios with decreasing positive outcomes.</Original>
-				<Russian>Препарат, вызывающий симпатическую реакцию, приводящую к расширению бронхов, увеличению частоты сердечных сокращений и купированию аллергических реакций (анафилактического шока). Применяется при остановке сердца с уменьшением вероятности благоприятного исхода.</Russian>
+		<Russian>Препарат, вызывающий симпатическую реакцию, приводящую к расширению бронхов, увеличению частоты сердечных сокращений и купированию аллергических реакций (анафилактического шока). Применяется при остановке сердца с уменьшением вероятности благоприятного исхода.</Russian>
                 <Spanish>Medicamento que dilata los bronquios, aumenta la frecuencia cardiaca y contrarresta los efectos de las reacciones alérgicas (anafilaxis). Se utiliza en caso de paros cardiacos repentinos.</Spanish>
                 <French>Un medicament qui fonctione sur le systeme sympatique créan une dilatation des bronches, augmente la fréquance cardiaque et contre les effet d'une reaction alergique (anaphylaxie). Utiliser lors d'arret cardio-respiratoire pour augmenté les chances retrouver un ryhtme.</French>
                 <Polish>EpiPen z adrenaliną ma działanie sympatykomimetyczne, tj. pobudza receptory alfa- i beta-adrenergiczne. Pobudzenie układu współczulnego prowadzi do zwiększenia częstotliwości pracy serca, zwiększenia pojemności wyrzutowej serca i przyśpieszenia krążenia wieńcowego. Pobudzenie oskrzelowych receptorów beta-adrenergicznych wywołuje rozkurcz mięśni gładkich oskrzeli, co w efekcie zmniejsza towarzyszące oddychaniu świsty i duszności.</Polish>
@@ -796,21 +796,21 @@
  
             <Key ID="STR_CSE_MAG_PLASMA_IV">
                 <Original>Plasma IV (1000ml)</Original>
-				<Russian>Плазма для в/в вливания (1000 мл)</Russian>
+		<Russian>Плазма для в/в вливания (1000 мл)</Russian>
                 <Spanish>Plasma Intravenoso (1000ml)</Spanish>
                 <French>Plasma Sanguin IV (1000ml)</French>
                 <Polish>Osocze IV (1000ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PLASMA_IV_DESC_SHORT">
                 <Original>A volume-expanding blood supplement.</Original>
-				<Russian>Дополнительный препарат, применяемый при возмещении объема крови.</Russian>
+		<Russian>Дополнительный препарат, применяемый при возмещении объема крови.</Russian>
                 <Spanish>Suplemento para expandir el volumen sanguíneo.</Spanish>
                 <French>Supplement visant a remplacer les volume sanguin</French>
                 <Polish>Składnik krwi, używany do zwiększenia jej objętości.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PLASMA_IV_DESC_USE">
                 <Original>A volume-expanding blood supplement.</Original>
-				<Russian>Дополнительный препарат, применяемый при возмещении объема крови.</Russian>
+		<Russian>Дополнительный препарат, применяемый при возмещении объема крови.</Russian>
                 <Spanish>Suplemento para expandir el volumen sanguíneo.</Spanish>
                 <French>Supplement visant a remplacer le volume sanguin et remplace les plaquettes.</French>
                 <Polish>Składnik krwi, używany do zwiększenia jej objętości.</Polish>
@@ -818,14 +818,14 @@
  
             <Key ID="STR_CSE_MAG_PLASMA_IV_500">
                 <Original>Plasma IV (500ml)</Original>
-				<Russian>Плазма для в/в вливания (500 мл)</Russian>
+		<Russian>Плазма для в/в вливания (500 мл)</Russian>
                 <Spanish>Plasma Intravenoso (500ml)</Spanish>
                 <French>Plasma Sanguin IV (500ml)</French>
                 <Polish>Osocze IV (500ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_PLASMA_IV_250">
                 <Original>Plasma IV (250ml)</Original>
-				<Russian>Плазма для в/в вливания (250 мл)</Russian>
+		<Russian>Плазма для в/в вливания (250 мл)</Russian>
                 <Spanish>Plasma Intravenoso (250ml)</Spanish>
                 <French>Plasma Sanguin (250ml)</French>
                 <Polish>Osocze IV (250ml)</Polish>
@@ -833,34 +833,34 @@
  
             <Key ID="STR_CSE_MAG_BLOOD_IV">
                 <Original>Blood IV (1000ml)</Original>
-				<Russian>Кровь для переливания (1000 мл)</Russian>
+		<Russian>Кровь для переливания (1000 мл)</Russian>
                 <Spanish>Sangre Intravenosa (1000ml)</Spanish>
                 <French>Cullot Sanguin IV (1000ml)</French>
                 <Polish>Krew IV (1000ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BLOOD_IV_DESC_SHORT">
                 <Original>Blood IV, for restoring a patients blood (keep cold)</Original>
-				<Russian>Пакет крови для возмещения объема потерянной крови (хранить в холодильнике)</Russian>
+		<Russian>Пакет крови для возмещения объема потерянной крови (хранить в холодильнике)</Russian>
                 <Spanish>Sangre Intravenosa, para restarurar el volumen sanguíneo (mantener frío)</Spanish>
                 <French>Cullot Sanguin IV, pour remplacer le volume sanguin (garder Réfrigeré)</French>
                 <Polish>Krew IV, używana do uzupełnienia krwi u pacjenta, trzymać w warunkach chłodniczych</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BLOOD_IV_DESC_USE">
                 <Original>O Negative infusion blood used in strict and rare events to replenish blood supply usually conducted in the transport phase of medical care.</Original>
-				<Russian>Кровь I группы, резус-отрицательная, применяется по жизненным показаниям для  возмещения объема потерянной крови на догоспитальном этапе оказания медицинской помощи.</Russian>
+		<Russian>Кровь I группы, резус-отрицательная, применяется по жизненным показаниям для  возмещения объема потерянной крови на догоспитальном этапе оказания медицинской помощи.</Russian>
                 <French>Cullot Sanguin O- ,utiliser seulement lors de perte sanguine majeur afin de remplacer le volume sanguin perdu. Habituelment utiliser lors du transport ou dans un etablisement de soin. </French>
                 <Polish>Krew 0 Rh-, używana w rzadkich i szczególnych przypadkach do uzupełnienia krwi u pacjenta, zazwyczaj w trakcie fazie transportu rannej osoby do szpitala.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BLOOD_IV_500">
                 <Original>Blood IV (500ml)</Original>
-				<Russian>Кровь для переливания (500 мл)</Russian>
+		<Russian>Кровь для переливания (500 мл)</Russian>
                 <Spanish>Sangre Intravenosa (500ml)</Spanish>
                 <French>Cullot Sanguin IV (500ml)</French>
                 <Polish>Krew IV (500ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_BLOOD_IV_250">
                 <Original>Blood IV (250ml)</Original>
-				<Russian>Кровь для переливания (250 мл)</Russian>
+		<Russian>Кровь для переливания (250 мл)</Russian>
                 <Spanish>Sangre Intravenosa (250ml)</Spanish>
                 <French>Cullot Sanguin IV (250ml)</French>
                 <Polish>Krew IV (250ml)</Polish>
@@ -868,7 +868,7 @@
  
             <Key ID="STR_CSE_MAG_SALINE_IV">
                 <Original>Saline IV (1000ml)</Original>
-				<Russian>Физраствор для в/в вливания (1000 мл)</Russian>
+		<Russian>Физраствор для в/в вливания (1000 мл)</Russian>
                 <Spanish>Solución Salina Intravenosa (1000ml)</Spanish>
                 <French>solution Saline 0.9% IV (1000ml)</French>
                 <Polish>Solanka 0,9% IV (1000ml)</Polish>
@@ -876,7 +876,7 @@
  
             <Key ID="STR_CSE_MAG_SALINE_IV_DESC_SHORT">
                 <Original>Saline IV, for restoring a patients blood</Original>
-				<Russian>Пакет физраствора для возмещения объема потерянной крови</Russian>
+		<Russian>Пакет физраствора для возмещения объема потерянной крови</Russian>
                 <Spanish>Solución Salina Intravenosa, para restaurar el volumen sanguíneo</Spanish>
                 <French>Solution Saline 0.9% IV, pour retablir temporairement la tention arteriel</French>
                 <Polish>Solanka 0,9%, podawana dożylnie (IV), używana w celu uzupełnienia krwi u pacjenta</Polish>
@@ -884,7 +884,7 @@
  
             <Key ID="STR_CSE_MAG_SALINE_IV_DESC_USE">
                 <Original>A medical volume-replenishing agent introduced into the blood system through an IV infusion.</Original>
-				<Russian>Пакет физиологического раствора для возмещения объема потерянной крови путем внутривенного вливания.</Russian>
+		<Russian>Пакет физиологического раствора для возмещения объема потерянной крови путем внутривенного вливания.</Russian>
                 <Spanish>Suero fisiológico inoculado al torrente sanguíneo de forma intravenosa.</Spanish>
                 <French> Un remplacment temporaire pour rétablir la tention artériel lors de perte sanguine, étant ajouter par intraveineuse</French>
                 <Polish>Używany w medycynie w formie płynu infuzyjnego jako środek nawadniający i uzupełniający niedobór elektrolitów, podawany dożylnie (IV).</Polish>
@@ -892,14 +892,14 @@
  
             <Key ID="STR_CSE_MAG_SALINE_IV_500">
                 <Original>Saline IV (500ml)</Original>
-				<Russian>Физраствор для в/в вливания (500 мл)</Russian>
+		<Russian>Физраствор для в/в вливания (500 мл)</Russian>
                 <Spanish>Solución Salina Intravenosa (500ml)</Spanish>
                 <French>Solution Saline 0.9% IV (500ml)</French>
                 <Polish>Solanka 0,9% IV (500ml)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_SALINE_IV_250">
                 <Original>Saline IV (250ml)</Original>
-				<Russian>Физраствор для в/в вливания (250 мл)</Russian>
+		<Russian>Физраствор для в/в вливания (250 мл)</Russian>
                 <Spanish>Solución Salina Intravenosa (250ml)</Spanish>
                 <French>Solution Saline 0.9% IV (250ml)</French>
                 <Polish>Solanka 0,9% IV (250ml)</Polish>
@@ -907,42 +907,42 @@
  
             <Key ID="STR_CSE_MAG_QUIKCLOT_DISPLAY">
                 <Original>Basic Field Dressing (QuikClot)</Original>
-				<Russian>Первичный перевязочный пакет (QuikClot)</Russian>
+		<Russian>Первичный перевязочный пакет (QuikClot)</Russian>
                 <Spanish>Vendaje Básico (Coagulante)</Spanish>
                 <French>Bandage Regulier (Coagulant)</French>
                 <Polish>Opatrunek QuikClot</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_QUIKCLOT_DESC_SHORT">
                 <Original>QuikClot bandage</Original>
-				<Russian>Гемостатический пакет QuikClot</Russian>
+		<Russian>Гемостатический пакет QuikClot</Russian>
                 <Spanish>Venda Coagulante</Spanish>
                 <French>Bandage coagulant</French>
                 <Polish>Podstawowy opatrunek stosowany na rany</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_QUIKCLOT_DESC_USE">
                 <Original></Original>
-				<Russian></Russian>
+		<Russian></Russian>
                 <French>Un bandage servant a coaguler les seignements mineur à moyen.</French>
                 <Polish>Proszkowy opatrunek adsorbcyjny przeznaczony do tamowania zagrażających życiu krwawień średniej i dużej intensywności.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_NPA_DISPLAY">
                 <Original>Nasopharyngeal tube</Original>
-				<Russian>Назотрахеальная трубка</Russian>
+		<Russian>Назотрахеальная трубка</Russian>
                 <Spanish>Cánula Nasofaríngea</Spanish>
                 <French>Canule Nasopharyngée</French>
                 <Polish>Rurka nosowo-gardłowa</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_NPA_DESC_SHORT">
                 <Original>Nasopharyngeal tube, for mataining the airway</Original>
-				<Russian>Назотрахеальная трубка для поддержания проходимости дыхательных путей</Russian>
+		<Russian>Назотрахеальная трубка для поддержания проходимости дыхательных путей</Russian>
                 <Spanish>Cánula Nasofaríngea, mantiene despejadas las vías aéreas</Spanish>
                 <French>Canule Naso, sert a mintenir ouverte les voix respiratoire.</French>
                 <Polish>Rurka nosowo-gardłowa, używana w celu udrożnienia dróg oddechowych</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_NPA_DESC_USE">
                 <Original>Nasopharyngeal airway. An airway adjunct inserted nasally which is then used to keep the airway patent which allows the field medic to ventilate the patient as appropriate.</Original>
-				<Russian>Назотрахеальная трубка. Интубационная трубка, вводимая через нос для поддержания проходимости дыхательных путей, позволяющая санитару при необходимости осуществлять вентиляцию легких раненого.</Russian>
+		<Russian>Назотрахеальная трубка. Интубационная трубка, вводимая через нос для поддержания проходимости дыхательных путей, позволяющая санитару при необходимости осуществлять вентиляцию легких раненого.</Russian>
                 <Spanish>Cánula Nasofaríngea. Dispositivo de vía aérea insertado por vía nasal que se utiliza para mantener libre la vía aérea permitiendo ventilar al paciente según sea apropiado.</Spanish>
                 <French>Canule Naso. Dispositif, incere par le nez, servant a maintenir les voie respiratoire du patient ouverte, permetant sa ventilation par le personel medical.</French>
                 <Polish>Rurki nosowo-gardłowe stosuje się do ratunkowego udrożnienia dróg oddechowych u osób nieprzytomnych. Rurka nosowo-gardłowa jest znacznie lepiej tolerowana np. przez osobę przytomną, niż rurka ustno-gardłowa.</Polish>
@@ -950,21 +950,21 @@
  
             <Key ID="STR_CSE_MAG_OPA_DISPLAY">
                 <Original>Oropharyngeal tube</Original>
-				<Russian>Оротрахеальная трубка</Russian>
+		<Russian>Оротрахеальная трубка</Russian>
                 <Spanish>Cánula Orofaríngea</Spanish>
                 <French>Canule Oropharyngée</French>
                 <Polish>Rurka ustno-gardłowa</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_OPA_DESC_SHORT">
                 <Original>Oropharyngeal Airway, for maintaining the airway</Original>
-				<Russian>Оротрахеальная трубка для поддержания проходимости дыхательных путей</Russian>
+		<Russian>Оротрахеальная трубка для поддержания проходимости дыхательных путей</Russian>
                 <Spanish>Cánula Orofaríngea, para mantener despejada la vía aérea</Spanish>
                 <French>Canule Oropharyngée, sert a maintenir les voie respiratoires ouverte.</French>
                 <Polish>Rurka ustno-gardłowa, używana w celu udrożnienia dróg oddechowych</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_OPA_DESC_USE">
                 <Original>Oropharyngeal airway. An airway adjunct inserted via the oral airway (i.e. mouth) which is then used to keep the airway patent which allows the field medic to ventilate the patient as appropriate.</Original>
-				<Russian>Оротрахеальная трубка. Интубационная трубка, вводимая через рот для поддержания проходимости дыхательных путей, позволяющая санитару при необходимости осуществлять вентиляцию легких раненого.</Russian>
+		<Russian>Оротрахеальная трубка. Интубационная трубка, вводимая через рот для поддержания проходимости дыхательных путей, позволяющая санитару при необходимости осуществлять вентиляцию легких раненого.</Russian>
                 <Spanish>Cánula Orofaríngea. Dispositivo de vía aérea insertado a través de la vía respiratoria oral (es decir, la boca) que se utiliza para mantener despejada la vía aérea permitiendo ventilar al paciente según sea apropiado.</Spanish>
                 <French>Canule Oropharyngée. Un dispositif, inseré par la bouche, qui est utiliser pour garder les voie respiratoire overte et permetre la ventilation par le personel de soin.</French>
                 <Polish>Rurkę ustno - gardłową stosuje się podczas zabiegów sztucznej wentylacji płuc. Zadaniem rurki ustno - gardłowej jest zapewnienie drożności górnych dróg oddechowych, a użycie jej zapewnia ratownikowi komfort prowadzenia zabiegów i podnosi skuteczność prowadzonej akcji.</Polish>
@@ -972,66 +972,66 @@
  
             <Key ID="STR_CSE_MAG_LIQUID_SKIN_DISPLAY">
                 <Original>Liquid skin</Original>
-				<Russian>«Жидкая кожа»</Russian>
+		<Russian>«Жидкая кожа»</Russian>
                 <Spanish>Pomada tópica</Spanish>
                 <French>Pomade Topique</French>
                 <Polish>Bandaż (w płynie)</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_LIQUID_SKIN_DESC_SHORT">
                 <Original>Liquid Skin, for use on burns</Original>
-				<Russian>Препарат «жидкая кожа» для лечения ожогов</Russian>
+		<Russian>Препарат «жидкая кожа» для лечения ожогов</Russian>
                 <Spanish>Pomada tópica, para quemaduras</Spanish>
                 <French>Pomade Topique, appliquer sur les brulures.</French>
                 <Polish>Bandaż w płynie, używany na poparzenia i lekkie urazy</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_LIQUID_SKIN_DESC_USE">
                 <Original>Liquid bandage is a topical skin treatment for minor cuts and sores that is sold by several companies. The products are mixtures of chemicals which create a polymeric layer which binds to the skin. This protects the wound by keeping dirt and germs out, and keeping moisture in.</Original>
-				<Russian>Медицинский клей («жидкая повязка») – наружное средство для лечения небольших порезов и ссадин. Продукт представляет собой смесь химических веществ, создающих полимерный слой, который приклеивается к коже. Таким образом предотвращается попадание в рану грязи и микробов, а также высыхание раны.</Russian>
+		<Russian>Медицинский клей («жидкая повязка») – наружное средство для лечения небольших порезов и ссадин. Продукт представляет собой смесь химических веществ, создающих полимерный слой, который приклеивается к коже. Таким образом предотвращается попадание в рану грязи и микробов, а также высыхание раны.</Russian>
                 <French>Bandage liquide est un traitement de la peau topique pour les coupures et les plaies mineures qui est vendu par plusieurs compagnies. Les produits sont des mélanges de produits chimiques qui créent une couche polymère qui se lie à la peau. Cela protège la plaie en gardant la saleté et les germes, et de garder l'humidité.</French>
                 <Polish>Opatrunek nakładany na skórę atomizerem tworzący na powierzchni skóry warstwę przyśpieszającą gojenie - stosowany przy drobnych ranach i poparzeniach.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_CHEST_SEAL_DISPLAY">
                 <Original>Chest seal</Original>
-				<Russian>Окклюзионная повязка</Russian>
+		<Russian>Окклюзионная повязка</Russian>
                 <Spanish>Parche Oclusivo</Spanish>
                 <French>Bandage Occlusif</French>
                 <Polish>Opatrunek Chest Seal</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_CHEST_SEAL_DESC_SHORT">
                 <Original>A Chest seal</Original>
-				<Russian>Окклюзионная повязка на грудную клетку</Russian>
+		<Russian>Окклюзионная повязка на грудную клетку</Russian>
                 <Spanish>Parche Torácico</Spanish>
                 <French>Bandage toracique pour les pneumothorax</French>
                 <Polish>Opatrunek uszczelniający na rany penetracyjne klatki piersiowej</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_CHEST_SEAL_DESC_USE">
                 <Original>Chest Seal is a  high performance occlusive dressing designed to treat penetrating chest wounds along with securing other wound dressings. The patented hydro-gel provides superior adhesion to the wound area even when moisture, pleural fluids or blood is present. It will work on patients with heavy perspiration or very wet environments. The highly aggressive tack adhesive of the hydro-gel will enable the dressing to conform and hold to the patient's body.</Original>
-				<Russian>Окклюзионная повязка предназначена для лечения проникающих ранений в грудную клетку с одновременной фиксацией других повязок.  Патентованный гидрогель обеспечивает отличное крепление к области ранения даже при наличии влаги, плевральной жидкости или крови. Может применяться даже при обильном потоотделении или в очень влажной среде. Благодаря высокоадгезивному пластырю повязка плотно прилегает к телу раненого и не отклеивается.</Russian>
+		<Russian>Окклюзионная повязка предназначена для лечения проникающих ранений в грудную клетку с одновременной фиксацией других повязок.  Патентованный гидрогель обеспечивает отличное крепление к области ранения даже при наличии влаги, плевральной жидкости или крови. Может применяться даже при обильном потоотделении или в очень влажной среде. Благодаря высокоадгезивному пластырю повязка плотно прилегает к телу раненого и не отклеивается.</Russian>
                 <French>Le pensement occlusif est un pansement occlusif de haute performance conçu pour traiter les plaies pénétrantes de la poitrine ainsi que la sécurisation d'autres pansements. L'hydro-gel brevetée offre une adhérence supérieure à la surface de la plaie, même lorsque l'humidité, liquide pleural ou le sang est présent, elle le laisse couller. Il fonctionne sur les patients atteints d'une transpiration abondante ou dans des environnements très humides.</French>
                 <Polish>Chest Seal to opatrunek przeznaczony do opatrywania penetracyjnych (otwartych) ran klatki piersiowej, staniowiących sytuację zagrażającą życiu wskutek możliwości powstawania odmy prężnej. Jest to druga co do częstotliwości występowania przyczyna śmierci na polu walki, której można zapobiec stosując odpowiednie procedury medyczne. Chest Seal charakteryzuje się trwałym i szczelnym przyleganiem do skóry pokrytej krwią, piaskiem, włosami, potem lub wodą. Materiałem klejącym opatrunku uszczelniającego jest środek hydrożelowy umożliwiający wielokrotne odklejanie i przyklejanie opatrunku, co pozwala na wentylowanie rany.</Polish>
             </Key>
  
             <Key ID="STR_CSE_MAG_AID_KIT_DISPLAY">
                 <Original>Personal Aid Kit</Original>
-				<Russian>Аптечка</Russian>
+		<Russian>Аптечка</Russian>
                 <Spanish>Kit de Soporte Vital Avanzado</Spanish>
                 <French>Équipement de support Vitale</French>
                 <Polish>Apteczka osobista</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_AID_KIT_DESC_SHORT">
                 <Original>Includes various treatment kit needed for stitching or advanced treatment</Original>
-				<Russian>Содержит различные материалы и инструменты для зашивания ран и оказания специальной медпомощи.</Russian>
+		<Russian>Содержит различные материалы и инструменты для зашивания ран и оказания специальной медпомощи.</Russian>
                 <Spanish>Incluye material médico para tratamientos avanzados</Spanish>
                 <French>Inclue du matériel medical pour les traitement avancé, tel les point de suture.</French>
                 <Polish>Zestaw środków medycznych do opatrywania ran i dodatkowego leczenia po-urazowego</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_AID_KIT_DESC_USE">
                 <Original></Original>
-				<Russian></Russian>
+		<Russian></Russian>
                 <French></French>
             </Key>
         </Container>
  
-     </Package>
+    </Package>
 </Project>
