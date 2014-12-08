@@ -7,11 +7,13 @@
                 <Original>Open Combat Medical System Menu</Original>
 		<Russian>Открыть меню медицинской системы CMS </Russian>
                 <Polish>Otwórz menu Combat Medical System</Polish>
+                <Spanish>Abrir el menú CMS</Spanish>
             </Key>
             <Key ID="STR_OPEN_CMS_MENU_DESC">
                 <Original>Opens the CMS menu</Original>
 		<Russian>Открывает меню CMS</Russian>
                 <Polish>Otwiera menu CMS</Polish>
+                <Spanish>Abre el menú CMS</Spanish>
             </Key>
         </Container>
  
