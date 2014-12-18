@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"encoding="UTF-8"?>
+<?xml version="1.0"encoding="UTF-8"?>
 <Project name="Combat Space Enhancement">
     <Package name="Combat Medical System">
         <Container ID="Configuration">
@@ -256,125 +256,163 @@
             </Key>
             <Key ID="STR_CSE_ACTION_STITCHING">
                 <Original>Stitch Wounds.</Original>
+                <Russian>Зашить раны.</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_STITCHING_TOOLTIP">
                 <Original>Stitch bandaged wounds.</Original>
+                <Russian>Зашить перевязанные раны.</Russian>
             </Key>
         </Container>
         <Container name="CMS_OptionsBandage">
             <Key ID="STR_CSE_ACTION_BANDAGE_BASIC">
                 <Original>Field Dressing (Basic)</Original>
+                <Russian>Повязка (обычная)</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_BANDAGE_BASIC_TOOLTIP">
                 <Original>Apply when wounds have been bandaged</Original>
+                <Russian>Накладывается после остановки кровотечения</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_QUIKCLOT">
                 <Original>Field Dressing (QuikClot)</Original>
+                <Russian>Первичный перевязочный пакет (QuikClot)</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_QUIKCLOT_TOOLTIP">
                 <Original>Apply to cloth the wound and stop bleeding</Original>
+                <Russian>Применяется для остановки кровотечения</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_BANDAGE_ELASTIC">
                 <Original>Field Dressing (Elastic)</Original>
+                <Russian>Повязка (давящая)</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_BANDAGE_ELASTIC_TOOLTIP">
                 <Original>For extra pressure, apply when wounds have been bandaged</Original>
+                <Russian>Обеспечивает прижатие раны после остановки кровотечения</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_PACKING_BANDAGE">
                 <Original>Packing Bandage</Original>
+                <Russian>Тампонирующая повязка</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_PACKING_BANDAGE_TOOLTIP">
                 <Original>Apply on medium to large wounds</Original>
+                <Russian>Применяется при ранениях среднего и большого размера</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_REMOVE_TOURNIQUET">
                 <Original>Remove Tourniquet</Original>
+                <Russian>Снять жгут</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_REMOVE_TOURNIQUET_TOOLTIP">
                 <Original>Remove applied Tourniquet</Original>
+                <Russian>Снять ранее наложенный жгут</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_APPLY_TOURNIQUET">
                 <Original>Tourniquet</Original>
+                <Russian>Жгут</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_APPLY_TOURNIQUET_TOOLTIP">
                 <Original>Apply on limbs only. Limits blood loss on limb.</Original>
+                <Russian>Накладывается только на конечности. Ограничивает кровопотерю из конечности.</Russian>
             </Key>
         </Container>
         <Container name="CMS_OptionsDrag">
             <Key ID="STR_CSE_ACTION_DRAG_PATIENT">
                 <Original>Drag</Original>
+                <Russian>Тащить</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_DRAG_PATIENT_TOOLTIP">
                 <Original>Drag %1</Original>
+                <Russian>Тащить раненого %1</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_CARRY_PATIENT">
                 <Original>Carry</Original>
+                <Russian>Нести</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_CARRY_PATIENT_TOOLTIP">
                 <Original>Carry %1</Original>
+                <Russian>Нести раненого %1</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_BODYBAG">
                 <Original>Bodybag</Original>
+                <Russian>Мешок для трупов</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_BODYBAG_TOOLTIP">
                 <Original>Put body in bodybag</Original>
+                <Russian>Поместить труп в мешок</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_DROP_PATIENT">
                 <Original>Drop</Original>
+                <Russian>Положить</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_DROP_PATIENT_TOOLTIP">
                 <Original>Drop %1</Original>
+                <Russian>Положить %1</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_LOAD_PATIENT">
                 <Original>Load in Vehicle</Original>
+                <Russian>Погрузить в транспорт</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_LOAD_PATIENT_TOOLTIP">
                 <Original>Load %1</Original>
+                <Russian>Погрузить раненого %1</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_UNLOAD_PATIENT">
                 <Original>Unload</Original>
+                <Russian>Выгрузить</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_UNLOAD_PATIENT_TOOLTIP">
                 <Original>Unload %1</Original>
+                <Russian>Выгрузить раненого %1</Russian>
             </Key>
         </Container>
         <Container name="CMS_OptionsExamine">
             <Key ID="STR_CSE_ACTION_CHECK_PULSE">
                 <Original>Check Pulse</Original>
+                <Russian>Проверить пульс</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_PULSE_TOOLTIP">
                 <Original>Find the Heart Rate</Original>
+                <Russian>Нащупать пульс</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_BP">
                 <Original>Check Blood Pressure</Original>
+                <Russian>Проверить давление</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_BP_TOOLTIP">
                 <Original>Find out what Blood Pressure patient has</Original>
+                <Russian>Узнать артериальное давление раненого</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_RESPONSE">
                 <Original>Check Response</Original>
+                <Russian>Проверить реакцию</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_RESPONSE_TOOLTIP">
                 <Original>Check if patient is responsive</Original>
+                <Russian>Проверить, реагирует ли раненый на раздражители</Russian>
             </Key>
         </Container>
         <Container name="CMS_OptionsMedication">
             <Key ID="STR_CSE_ACTION_MORPHINE">
                 <Original>Morphine</Original>
+                <Russian>Морфин</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_MORPHINE_TOOLTIP">
                 <Original>Good to counter pain</Original>
+                <Russian>Эффективное обезболивающее средство</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_ATROPINE">
                 <Original>Atropine</Original>
+                <Russian>Атропин</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_ATROPINE_TOOLTIP">
                 <Original>Relaxes mussles</Original>
+                <Russian>Расслабляет мышцы</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_EPINEPHRINE">
                 <Original>Epinephrine</Original>
+                <Russian>Адреналин</Russian>
             </Key>
             <Key ID="STR_CSE_ACTION_EPINEPHRINE_TOOLTIP">
                 <Original>Adrenaline to get the heart going</Original>
+                <Russian>Для возобновления сердечной деятельности</Russian>
             </Key>
         </Container>
         <Container name="UI">
@@ -469,6 +507,7 @@
             </Key>
             <Key ID="STR_CSE_UI_BANDAGE_FRACTURES">
                 <Original>Bandage / Fractures</Original>
+                <Russian>Раны / переломы</Russian>
                 <Spanish>Vendajes / Fracturas </Spanish>
                 <French>Bandages / Fractures</French>
                 <Polish>Bandaże / Złamania</Polish>
@@ -496,13 +535,14 @@
             </Key>
             <Key ID="STR_CSE_UI_DRAG_CARRY">
                 <Original>Drag/Carry</Original>
+                <Russian>Тащить/нести</Russian>
                 <Spanish>Arrastrar/Cargar</Spanish>
                 <French>Glisser/Porter</French>
                 <Polish>Ciągnij/Nieś</Polish>
             </Key>
             <Key ID="STR_CSE_UI_TOGGLE_SELF">
                 <Original>Toggle (Self)</Original>
-                <Russian>Лечить себя/другого</Russian>
+                <Russian>Лечить себя/другого раненого</Russian>
                 <French>Activer (sois)</French>
                 <Polish>Przełącz (na siebie)</Polish>
             </Key>
@@ -598,6 +638,7 @@
             </Key>
             <Key ID="STR_CSE_UI_SELECTED_BODY_PART">
                 <Original>Body Part: %1</Original>
+                <Russian>Часть тела: %1</Russian>
                 <Spanish>Parte del cuerpo: %1</Spanish>
                 <French>Partie du corps: %1</French>
                 <Polish>Część ciała: %1</Polish>
@@ -625,42 +666,42 @@
             </Key>
             <Key ID="STR_CSE_UI_MULTIPLE_OPEN_WOUNDS">
                 <Original>There are %2 %1 Open Wounds</Original>
-                <Russian>В этой части тела %2 открытых ран %1</Russian>
+                <Russian>%2 открытые раны %1</Russian>
                 <Spanish>Hay %2 Heridas Abiertas %1</Spanish>
                 <French>Il y a %2 %1 Blessure Ouverte</French>
                 <Polish>Widzisz otwarte rany w ilości %2 o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SINGLE_OPEN_WOUND">
                 <Original>There is 1 %1 Open Wound</Original>
-                <Russian>В этой части тела 1 открытая рана %1</Russian>
+                <Russian>Открытая рана %1</Russian>
                 <Spanish>Hay 1 Herida Abierta %1</Spanish>
                 <French>Il y a 1 blessure ouverte %1</French>
                 <Polish>Widzisz 1 otwartą ranę o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_PARTIAL_OPEN_WOUND">
                 <Original>There is a partial %1 Open wound</Original>
-                <Russian>В этой части тела 1 частично открытая рана %1</Russian>
+                <Russian>Частично открытая рана %1</Russian>
                 <Spanish>Hay una herida parcial abierta %1</Spanish>
                 <French>Il y a une Blessure Patiellement Ouverte %1</French>
                 <Polish>Widzisz częściowo otwartą ranę o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_MULTIPLE_BANDAGED_WOUNDS">
                 <Original>There are %2 %1 Bandaged Wounds</Original>
-                <Russian>В этой части тела %2 перевязанных ран %1</Russian>
+                <Russian>%2 перевязанные раны %1</Russian>
                 <Spanish>Hay %2 Heridas %1 Vendadas</Spanish>
                 <French>Il y a %2 %1 Blessure Bandée</French>
                 <Polish>Widzisz %2 zabandażowanych ran o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_SINGLE_BANDAGED_WOUND">
                 <Original>There is 1 %1 Bandaged Wound</Original>
-                <Russian>В этой части тела 1 перевязанная рана %1</Russian>
+                <Russian>1 перевязанная рана %1</Russian>
                 <Spanish>Hay 1 Herida Vendada %1</Spanish>
                 <French>Il y a 1 %1 Blessure Bandée</French>
                 <Polish>Widzisz 1 zabandażowaną ranę o %1 rozmiarze</Polish>
             </Key>
             <Key ID="STR_CSE_UI_PARTIAL_BANDAGED_WOUND">
                 <Original>There is a partial %1 Bandaged wound</Original>
-                <Russian>В этой части тела одна частично перевязанная рана %1</Russian>
+                <Russian>Частично перевязанная рана %1</Russian>
                 <Spanish>Hay una Herida parcial %1 Vendada</Spanish>
                 <French>Il y a %1 Blessure Partielment Bandée</French>
                 <Polish>Widzisz 1 częściowo zabandażowaną ranę o %1 rozmiarze</Polish>
@@ -1124,126 +1165,166 @@
             </Key>
             <Key ID="STR_CSE_MAG_SURGICALKIT_DISPLAY">
                 <Original>Surgical Kit</Original>
+                <Russian>Хирургический набор</Russian>
             </Key>
             <Key ID="STR_CSE_MAG_SURGICALKIT_DESC_SHORT">
                 <Original>Surgical Kit for in field advanced medical treatment</Original>
+                <Russian>Набор для хирургической помощи в полевых условиях</Russian>
             </Key>
             <Key ID="STR_CSE_MAG_SURGICALKIT_DESC_USE">
                 <Original>Surgical Kit for in field advanced medical treatment</Original>
+                <Russian>Набор для хирургической помощи в полевых условиях</Russian>
             </Key>
             <Key ID="STR_CSE_MAG_BODYBAG_DISPLAY">
                 <Original>Bodybag</Original>
+                <Russian>Мешок для трупов</Russian>
             </Key>
             <Key ID="STR_CSE_MAG_BODYBAG_DESC_SHORT">
                 <Original>A bodybag for dead bodies</Original>
+                <Russian>Мешок для упаковки трупов</Russian>
             </Key>
             <Key ID="STR_CSE_MAG_BODYBAG_DESC_USE">
                 <Original>A bodybag for dead bodies</Original>
+                <Russian>Мешок для упаковки трупов</Russian>
             </Key>
         </Container>
         <Container name="CMS_Localization_scripts">
             <Key ID="STR_CSE_CMS_CANCELED">
                 <Original>Canceled</Original>
+                <Russian>Отменено</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_ACTION_CANCELED">
                 <Original>Action has been canceled</Original>
+                <Russian>Действие отменено</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_YOU_MOVED_AWAY">
                 <Original>You moved away    </Original>
+                <Russian>Вы отошли от раненого    </Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE">
                 <Original>Blood Pressure</Original>
+                <Russian>Артериальное давление</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_CONTENT">
                 <Original>Checking Blood Pressure..</Original>
+                <Russian>Проверка артериального давления...</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_CHECKED_MEDIC">
                 <Original>You checked %1</Original>
+                <Russian>Вы осмотрели раненого %1</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_1">
                 <Original>You find a blood pressure of %2/%3</Original>
+                <Russian>Артериальное давление %2/%3</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_2">
                 <Original>You find a low blood pressure</Original>
+                <Russian>Давление низкое</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_3">
                 <Original>You find a normal blood pressure</Original>
+                <Russian>Давление нормальное</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_4">
                 <Original>You find a high blood pressure</Original>
+                <Russian>Давление высокое</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_5">
                 <Original>You find no blood pressure</Original>
+                <Russian>Давления нет</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_6">
                 <Original>You fail to find a blood pressure</Original>
+                <Russian>Артериальное давление не определяется</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE">
                 <Original>Pulse</Original>
+                <Russian>Пульс</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_CONTENT">
                 <Original>Checking Heart Rate..</Original>
+                <Russian>Проверка пульса...</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_CHECKED_MEDIC">
                 <Original>You checked %1</Original>
+                <Russian>Вы осмотрели раненого %1</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_1">
                 <Original>You find a Heart Rate of %2</Original>
+                <Russian>Пульс %2 уд./мин.</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_2">
                 <Original>You find a weak Heart Rate</Original>
+                <Russian>Пульс слабый</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_3">
                 <Original>You find a strong Heart Rate</Original>
+                <Russian>Пульс учащенный</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_4">
                 <Original>You find a normal Heart Rate</Original>
+                <Russian>Пульс в норме</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_5">
                 <Original>You find no Heart Rate</Original>
+                <Russian>Пульс не прощупывается</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_RESPONSE">
                 <Original>Response</Original>
+                <Russian>Реакция</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_RESPONSE_CONTENT">
                 <Original>You check response of patient</Original>
+                <Russian>Вы проверяете реакцию раненого</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_REPONSE_RESPONSIVE">
                 <Original>%1 is responsive</Original>
+                <Russian>%1 реагирует на раздражители</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_REPONSE_UNRESPONSIVE">
                 <Original>%1 is not responsive</Original>
+                <Russian>%1 не реагирует</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_REPONSE_YOU_CHECKED">
                 <Original>You checked %1    </Original>
+                <Russian>Вы осмотрели раненого %1    </Russian>
             </Key>
             <Key ID="STR_CSE_CMS_BANDAGING">
                 <Original>Bandaging</Original>
+                <Russian>Перевязка...</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_BANDAGED">
                 <Original>Bandaged</Original>
+                <Russian>Повязка наложена</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_APPLY_BANDAGE">
                 <Original>You apply a bandage on %1 - %2</Original>
+                <Russian>Вы перевязали раненого %1 (%2)</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_IS_BANDAGING_YOU">
                 <Original>%1 is bandaging you</Original>
+                <Russian>%1 перевязывает вас</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_START_STITCHING_INJURIES">
                 <Original>You start stitching injures from %1 - %2</Original>
+                <Russian>Вы зашиваете ранения от %1 (%2)</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_STITCHING">
                 <Original>Stitching</Original>
+                <Russian>Наложение швов</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_YOU_TREAT_AIRWAY">
                 <Original>You treat the airway of %1</Original>
+                <Russian>Вы интубируете раненого %1</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_AIRWAY">
                 <Original>Airway</Original>
+                <Russian>Дыхательные пути</Russian>
             </Key>
             <Key ID="STR_CSE_CMS_IS_TREATING_YOUR_AIRWAY">
                 <Original>%1 is treating your aiway</Original>
+                <Russian>%1 проводит вам интубацию</Russian>
             </Key>
         </Container>
     </Package>
-</Project>
+</Project> 
