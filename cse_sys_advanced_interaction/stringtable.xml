@@ -58,5 +58,77 @@
 				<Polish>Zaoferuj pomoc medyczną</Polish>
 			</Key>
 		</Container>
+
+		<Container name="ConversationModule">
+			<Key ID="STR_CSE_ITEM_KEYCUFFS_DISPLAY">
+				<Original>Keycuffs</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_KEYCUFFS_DESC">
+				<Original>Keycuffs, used for detaining a suspect</Original>
+			</Key>
+
+			<Key ID="STR_CSE_ITEM_HIIDE_DISPLAY">
+				<Original>Biometric Scanner (HIIDE)</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_HIIDE_DESC">
+				<Original>Biometric Scanner (HIIDE)</Original>
+			</Key>
+
+			<Key ID="STR_CSE_ITEM_PHONE_DISPLAY">
+				<Original>Old Phone</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_PHONE_DESC">
+				<Original>Old Phone</Original>
+			</Key>
+
+			<Key ID="STR_CSE_ITEM_PHONE_FOLDED_DISPLAY">
+				<Original>Old Phone (Folded)</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_PHONE_FOLDED_DESC">
+				<Original>Old Phone (Folded)</Original>
+			</Key>
+
+			<Key ID="STR_CSE_ITEM_WATCH_EXPENSIVE_DISPLAY">
+				<Original>Watch (Expensive)</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_WATCH_EXPENSIVE_DESC">
+				<Original>Watch (Expensive)</Original>
+			</Key>
+
+			<Key ID="STR_CSE_ITEM_WALLET_DISPLAY">
+				<Original>Wallet</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_WALLET_DESC">
+				<Original>Wallet</Original>
+			</Key>
+
+			<Key ID="STR_CSE_ITEM_9v_BATTERY_DISPLAY">
+				<Original>9 volt battery</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_9v_BATTERY_DESC">
+				<Original>9 volt battery</Original>
+			</Key>
+
+			<Key ID="STR_CSE_ITEM_NOTEBOOK_DISPLAY">
+				<Original>Notebook</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_NOTEBOOK_DESC">
+				<Original>Notebook</Original>
+			</Key>
+
+			<Key ID="STR_CSE_ITEM_SCISSORS_DISPLAY">
+				<Original>Scissors</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_SCISSORS_DESC">
+				<Original>Scissors</Original>
+			</Key>
+
+			<Key ID="STR_CSE_ITEM_WIRES_DISPLAY">
+				<Original>Wires</Original>
+			</Key>
+			<Key ID="STR_CSE_ITEM_WIRES_DESC">
+				<Original>Wires</Original>
+			</Key>
+		</Container>
 	</Package>
 </Project>

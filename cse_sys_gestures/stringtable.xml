@@ -41,38 +41,38 @@
 			<Key ID="STR_CSE_GESTURE_FREEZE_TOOLTIP">
 				<Original>Play Gesture Freeze</Original>
 				<English>Play Gesture Freeze</English>
-				<German>'Halt!' Geste ausführen</German>
-				<Polish>Pokazuje gest 'Stój!'</Polish>
+				<German>Halt! Geste ausführen</German>
+				<Polish>Pokazuje gest Stój!</Polish>
 			</Key>
 			<Key ID="STR_CSE_GESTURE_FOLLOW_TOOLTIP">
 				<Original>Play Gesture Follow</Original>
 				<English>Play Gesture Follow</English>
-				<German>'Mitkommen!' Geste ausführen</German>
-				<Polish>Pokazuje gest 'Za mną!'</Polish>
+				<German>Mitkommen! Geste ausführen</German>
+				<Polish>Pokazuje gest Za mną!</Polish>
 			</Key>
 			<Key ID="STR_CSE_GESTURE_CEASEFIRE_TOOLTIP">
 				<Original>Play Gesture Cease Fire</Original>
 				<English>Play Gesture Cease Fire</English>
-				<German>'Feuer einstellen!' Geste ausführen</German>
-				<Polish>Pokazuje gest 'Wstrzymać ogień!'</Polish>
+				<German>Feuer einstellen! Geste ausführen</German>
+				<Polish>Pokazuje gest Wstrzymać ogień!</Polish>
 			</Key>
 			<Key ID="STR_CSE_GESTURE_COVER_TOOLTIP">
 				<Original>Play Gesture Cover</Original>
 				<English>Play Gesture Cover</English>
-				<German>'In Deckung!' Geste ausführen</German>
-				<Polish>Pokazuje gest 'Do osłon!'</Polish>
+				<German>In Deckung! Geste ausführen</German>
+				<Polish>Pokazuje gest Do osłon!</Polish>
 			</Key>
 			<Key ID="STR_CSE_GESTURE_GO_TOOLTIP">
 				<Original>Play Gesture Go</Original>
 				<English>Play Gesture Go</English>
-				<German>'Los, Los, Los!' Geste ausführen</German>
-				<Polish>Pokazuje gest 'Naprzód!'</Polish>
+				<German>Los, Los, Los! Geste ausführen</German>
+				<Polish>Pokazuje gest Naprzód!</Polish>
 			</Key>
 			<Key ID="STR_CSE_GESTURE_POINT_TOOLTIP">
 				<Original>Play Gesture Point</Original>
 				<English>Play Gesture Point</English>
 				<German>Zeigt nach Vorne.</German>
-				<Polish>Pokazuje gest 'Wskaż palcem!'</Polish>
+				<Polish>Pokazuje gest Wskaż palcem!</Polish>
 			</Key>
 
 			<Key ID="STR_CSE_GESTURE_GESTUREACTION_SHORT">
