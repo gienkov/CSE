@@ -6,11 +6,13 @@
                 <Original>Open Combat Medical System Menu</Original>
                 <Russian>Открыть меню медицинской системы CMS </Russian>
                 <Polish>Otwórz menu Combat Medical System</Polish>
+                <Spanish>Abrir Menú CMS</Spanish>
             </Key>
             <Key ID="STR_OPEN_CMS_MENU_DESC">
                 <Original>Opens the CMS menu</Original>
                 <Russian>Открывает меню CMS</Russian>
                 <Polish>Otwiera menu CMS</Polish>
+                <Spanish>Abre el Menú CMS</Spanish>
             </Key>
         </Container>
         <Container name="CMS_OptionsAirway">
@@ -148,6 +150,7 @@
                 <Russian>Прекратить СЛР</Russian>
                 <English>Stop CPR</English>
                 <Polish>Przerwij RKO</Polish>
+                <Spanish>Abortar CPR</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BLOODIV_1000ML_TOOLTIP">
                 <Original>Give the patient a Blood IV of 1000ml. Read the label for further information.</Original>
@@ -253,166 +256,207 @@
                 <Russian>Прекратить сердечно-легочную реанимацию.</Russian>
                 <English>Stop providing CPR.</English>
                 <Polish>Przerwij wykonywanie RKO.</Polish>
+                <Spanish>Dejar de aplicar CPR</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_STITCHING">
                 <Original>Stitch Wounds.</Original>
                 <Russian>Зашить раны.</Russian>
+                <Spanish>Suturar Heridas</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_STITCHING_TOOLTIP">
                 <Original>Stitch bandaged wounds.</Original>
                 <Russian>Зашить перевязанные раны.</Russian>
+                <Spanish>Suturar Heridas Vendadas</Spanish>
             </Key>
         </Container>
         <Container name="CMS_OptionsBandage">
             <Key ID="STR_CSE_ACTION_BANDAGE_BASIC">
                 <Original>Field Dressing (Basic)</Original>
                 <Russian>Повязка (обычная)</Russian>
+                <Spanish>Vendaje de Campaña (Básico)</Spanish>
+                
             </Key>
             <Key ID="STR_CSE_ACTION_BANDAGE_BASIC_TOOLTIP">
                 <Original>Apply when wounds have been bandaged</Original>
                 <Russian>Накладывается после остановки кровотечения</Russian>
+                <Spanish>Aplicar cuando las heridas han sido vendadas</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_QUIKCLOT">
                 <Original>Field Dressing (QuikClot)</Original>
                 <Russian>Первичный перевязочный пакет (QuikClot)</Russian>
+                <Spanish>Vendaje de Campaña (QuikClot)</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_QUIKCLOT_TOOLTIP">
                 <Original>Apply to cloth the wound and stop bleeding</Original>
                 <Russian>Применяется для остановки кровотечения</Russian>
+                <Spanish>Aplicar para detener el sangrado</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BANDAGE_ELASTIC">
                 <Original>Field Dressing (Elastic)</Original>
                 <Russian>Повязка (давящая)</Russian>
+                <Spanish>Vendaje de Campaña (Elástico)</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BANDAGE_ELASTIC_TOOLTIP">
                 <Original>For extra pressure, apply when wounds have been bandaged</Original>
                 <Russian>Обеспечивает прижатие раны после остановки кровотечения</Russian>
+                <Spanish>Aplicar a las heridas vendadas para más presión</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_PACKING_BANDAGE">
                 <Original>Packing Bandage</Original>
                 <Russian>Тампонирующая повязка</Russian>
+                <Spanish>Vendaje Compresivo</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_PACKING_BANDAGE_TOOLTIP">
                 <Original>Apply on medium to large wounds</Original>
                 <Russian>Применяется при ранениях среднего и большого размера</Russian>
+                <Spanish>Aplicar en heridas medianas o grandes</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_REMOVE_TOURNIQUET">
                 <Original>Remove Tourniquet</Original>
                 <Russian>Снять жгут</Russian>
+                <Spanish>Quitar Torniquete</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_REMOVE_TOURNIQUET_TOOLTIP">
                 <Original>Remove applied Tourniquet</Original>
                 <Russian>Снять ранее наложенный жгут</Russian>
+                <Spanish>Quitar Torniquetes</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_APPLY_TOURNIQUET">
                 <Original>Tourniquet</Original>
                 <Russian>Жгут</Russian>
+                <Spanish>Torniquete</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_APPLY_TOURNIQUET_TOOLTIP">
                 <Original>Apply on limbs only. Limits blood loss on limb.</Original>
                 <Russian>Накладывается только на конечности. Ограничивает кровопотерю из конечности.</Russian>
+                <Spanish>Aplicar sólo en las extremidades. Limita la pérdida de sangre en las extremidades.</Spanish>
             </Key>
         </Container>
         <Container name="CMS_OptionsDrag">
             <Key ID="STR_CSE_ACTION_DRAG_PATIENT">
                 <Original>Drag</Original>
                 <Russian>Тащить</Russian>
+                <Spanish>Arrastrar</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_DRAG_PATIENT_TOOLTIP">
                 <Original>Drag %1</Original>
                 <Russian>Тащить раненого %1</Russian>
+                <Spanish>Arrastrar %1r</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CARRY_PATIENT">
                 <Original>Carry</Original>
                 <Russian>Нести</Russian>
+                <Spanish>Cargar</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CARRY_PATIENT_TOOLTIP">
                 <Original>Carry %1</Original>
                 <Russian>Нести раненого %1</Russian>
+                <Spanish>Cargar %1</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BODYBAG">
                 <Original>Bodybag</Original>
                 <Russian>Мешок для трупов</Russian>
+                <Spanish>Bolsa para cadáveres</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BODYBAG_TOOLTIP">
                 <Original>Put body in bodybag</Original>
                 <Russian>Поместить труп в мешок</Russian>
+                <Spanish>Meter cuerpo en la bolsa para cadáveres</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_DROP_PATIENT">
                 <Original>Drop</Original>
                 <Russian>Положить</Russian>
+                <Spanish>Soltar</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_DROP_PATIENT_TOOLTIP">
                 <Original>Drop %1</Original>
                 <Russian>Положить %1</Russian>
+                <Spanish>Soltar %1</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_LOAD_PATIENT">
                 <Original>Load in Vehicle</Original>
                 <Russian>Погрузить в транспорт</Russian>
+                <Spanish>Meter en vehículo</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_LOAD_PATIENT_TOOLTIP">
                 <Original>Load %1</Original>
                 <Russian>Погрузить раненого %1</Russian>
+                <Spanish>Cargar %1</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_UNLOAD_PATIENT">
                 <Original>Unload</Original>
                 <Russian>Выгрузить</Russian>
+                <Spanish>Descargar</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_UNLOAD_PATIENT_TOOLTIP">
                 <Original>Unload %1</Original>
                 <Russian>Выгрузить раненого %1</Russian>
+                <Spanish>Descargar %1</Spanish>
             </Key>
         </Container>
         <Container name="CMS_OptionsExamine">
             <Key ID="STR_CSE_ACTION_CHECK_PULSE">
                 <Original>Check Pulse</Original>
                 <Russian>Проверить пульс</Russian>
+                <Spanish>Comprobar Pulso</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_PULSE_TOOLTIP">
                 <Original>Find the Heart Rate</Original>
                 <Russian>Нащупать пульс</Russian>
+                <Spanish>Encontrar el ritmo cardiaco</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_BP">
                 <Original>Check Blood Pressure</Original>
                 <Russian>Проверить давление</Russian>
+                <Spanish>Comprobar Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_BP_TOOLTIP">
                 <Original>Find out what Blood Pressure patient has</Original>
                 <Russian>Узнать артериальное давление раненого</Russian>
+                <Spanish>Comprobar Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_RESPONSE">
                 <Original>Check Response</Original>
                 <Russian>Проверить реакцию</Russian>
+                <Spanish>Comprobar Respuesta</Spanish>
+                
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_RESPONSE_TOOLTIP">
                 <Original>Check if patient is responsive</Original>
                 <Russian>Проверить, реагирует ли раненый на раздражители</Russian>
+                <Spanish>Comprobar si el paciente responde</Spanish>
             </Key>
         </Container>
         <Container name="CMS_OptionsMedication">
             <Key ID="STR_CSE_ACTION_MORPHINE">
                 <Original>Morphine</Original>
                 <Russian>Морфин</Russian>
+                <Spanish>Morfina</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_MORPHINE_TOOLTIP">
                 <Original>Good to counter pain</Original>
                 <Russian>Эффективное обезболивающее средство</Russian>
+                <Spanish>Alivia el dolor</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_ATROPINE">
                 <Original>Atropine</Original>
                 <Russian>Атропин</Russian>
+                <Spanish>Atropina</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_ATROPINE_TOOLTIP">
                 <Original>Relaxes mussles</Original>
                 <Russian>Расслабляет мышцы</Russian>
+                <Spanish>Antiarrítmico</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_EPINEPHRINE">
                 <Original>Epinephrine</Original>
                 <Russian>Адреналин</Russian>
+                <Spanish>Epinefrina</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_EPINEPHRINE_TOOLTIP">
                 <Original>Adrenaline to get the heart going</Original>
                 <Russian>Для возобновления сердечной деятельности</Russian>
+                <Spanish>Incrementa la frecuencia cardiaca</Spanish>
             </Key>
         </Container>
         <Container name="UI">
@@ -545,6 +589,7 @@
                 <Russian>Лечить себя/другого раненого</Russian>
                 <French>Activer (sois)</French>
                 <Polish>Przełącz (na siebie)</Polish>
+                <Spanish>Alternar</Spanish>
             </Key>
             <Key ID="STR_CSE_UI_SELECT_TRIAGE_STATUS">
                 <Original>Select triage status</Original>
@@ -774,7 +819,7 @@
             <Key ID="STR_CSE_MAG_BANDAGE_BASIC_DISPLAY">
                 <Original>Bandage (Basic)</Original>
                 <Russian>Повязка (обычная)</Russian>
-                <Spanish>Bendaje (Básico)</Spanish>
+                <Spanish>Vendaje (Básico)</Spanish>
                 <French>Bandage (Standard)</French>
                 <Polish>Bandaż (jałowy)</Polish>
             </Key>
