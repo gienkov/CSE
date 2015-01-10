@@ -341,7 +341,7 @@
             <Key ID="STR_CSE_ACTION_DRAG_PATIENT_TOOLTIP">
                 <Original>Drag %1</Original>
                 <Russian>Тащить раненого %1</Russian>
-                <Spanish>Arrastrar %1r</Spanish>
+                <Spanish>Arrastrar a %1r</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CARRY_PATIENT">
                 <Original>Carry</Original>
@@ -351,7 +351,7 @@
             <Key ID="STR_CSE_ACTION_CARRY_PATIENT_TOOLTIP">
                 <Original>Carry %1</Original>
                 <Russian>Нести раненого %1</Russian>
-                <Spanish>Cargar %1</Spanish>
+                <Spanish>Cargar a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BODYBAG">
                 <Original>Bodybag</Original>
@@ -371,7 +371,7 @@
             <Key ID="STR_CSE_ACTION_DROP_PATIENT_TOOLTIP">
                 <Original>Drop %1</Original>
                 <Russian>Положить %1</Russian>
-                <Spanish>Soltar %1</Spanish>
+                <Spanish>Soltar a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_LOAD_PATIENT">
                 <Original>Load in Vehicle</Original>
@@ -381,7 +381,7 @@
             <Key ID="STR_CSE_ACTION_LOAD_PATIENT_TOOLTIP">
                 <Original>Load %1</Original>
                 <Russian>Погрузить раненого %1</Russian>
-                <Spanish>Cargar %1</Spanish>
+                <Spanish>Cargar a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_UNLOAD_PATIENT">
                 <Original>Unload</Original>
@@ -391,7 +391,7 @@
             <Key ID="STR_CSE_ACTION_UNLOAD_PATIENT_TOOLTIP">
                 <Original>Unload %1</Original>
                 <Russian>Выгрузить раненого %1</Russian>
-                <Spanish>Descargar %1</Spanish>
+                <Spanish>Descargar a %1</Spanish>
             </Key>
         </Container>
         <Container name="CMS_OptionsExamine">
@@ -424,7 +424,7 @@
             <Key ID="STR_CSE_ACTION_CHECK_RESPONSE_TOOLTIP">
                 <Original>Check if patient is responsive</Original>
                 <Russian>Проверить, реагирует ли раненый на раздражители</Russian>
-                <Spanish>Comprobar si el paciente responde</Spanish>
+                <Spanish>Comprobar si el paciente reacciona</Spanish>
             </Key>
         </Container>
         <Container name="CMS_OptionsMedication">
@@ -552,7 +552,7 @@
             <Key ID="STR_CSE_UI_BANDAGE_FRACTURES">
                 <Original>Bandage / Fractures</Original>
                 <Russian>Раны / переломы</Russian>
-                <Spanish>Vendajes / Fracturas </Spanish>
+                <Spanish>Vendajes/Fracturas </Spanish>
                 <French>Bandages / Fractures</French>
                 <Polish>Bandaże / Złamania</Polish>
             </Key>
@@ -877,6 +877,7 @@
                 <Russian></Russian>
                 <French>Ce bandage peut etre utiliser pour compresser la plaie afin de ralentire le seignement et assurer la tenue du bandage lors de mouvment.</French>
                 <Polish>Elastyczna opaska podtrzymująca opatrunek oraz usztywniająca okolice stawów.</Polish>
+                <Spanish>Brinda una compresión uniforme y ofrece soporte extra a una zona lesionada</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_TOURNIQUET_DISPLAY">
                 <Original>Tourniquet (CAT)</Original>
@@ -951,14 +952,14 @@
             <Key ID="STR_CSE_MAG_ATROPINE_DESC_SHORT">
                 <Original>Used in NBC scenarios</Original>
                 <Russian>Применяется для защиты от ОМП</Russian>
-                <Spanish>Usado en escenarios NBC</Spanish>
+                <Spanish>Usado en escenarios NBQ</Spanish>
                 <French>Utiliser en cas d'attaque CBRN</French>
                 <Polish>Atropina. Stosowana jako lek rozkurczowy i środek rozszerzający źrenice.</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_ATROPINE_DESC_USE">
                 <Original>A drug used by the Military in NBC scenarios.</Original>
                 <Russian>Препарат, используемый в войсках для защиты от оружия массового поражения.</Russian>
-                <Spanish>Medicamento usado por Militares en escenarios NBC</Spanish>
+                <Spanish>Medicamento usado por Militares en escenarios NBQ</Spanish>
                 <French>Médicament utilisé par l'armée en cas d'attaque CBRN</French>
                 <Polish>Atropina. Stosowana jako lek rozkurczowy i środek rozszerzający źrenice. Środek stosowany w przypadku zagrożeń NBC.</Polish>
             </Key>
@@ -1037,6 +1038,7 @@
                 <Russian>Кровь I группы, резус-отрицательная, применяется по жизненным показаниям для  возмещения объема потерянной крови на догоспитальном этапе оказания медицинской помощи.</Russian>
                 <French>Cullot Sanguin O- ,utiliser seulement lors de perte sanguine majeur afin de remplacer le volume sanguin perdu. Habituelment utiliser lors du transport ou dans un etablisement de soin. </French>
                 <Polish>Krew 0 Rh-, używana w rzadkich i szczególnych przypadkach do uzupełnienia krwi u pacjenta, zazwyczaj w trakcie fazie transportu rannej osoby do szpitala.</Polish>
+                <Spanish>Utilice sólo durante gran pérdida de sangre para reemplazar el volumen de sangre perdido. Uso habitual durante el transporte de heridos.</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_BLOOD_IV_500">
                 <Original>Blood IV (500ml)</Original>
@@ -1106,6 +1108,7 @@
                 <Russian></Russian>
                 <French>Un bandage servant a coaguler les seignements mineur à moyen.</French>
                 <Polish>Proszkowy opatrunek adsorbcyjny przeznaczony do tamowania zagrażających życiu krwawień średniej i dużej intensywności.</Polish>
+                <Spanish>Vendaje Hemostático con coagulante que detiene el sangrado.</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_NPA_DISPLAY">
                 <Original>Nasopharyngeal tube</Original>
@@ -1138,14 +1141,14 @@
             <Key ID="STR_CSE_MAG_OPA_DESC_SHORT">
                 <Original>Oropharyngeal Airway, for maintaining the airway</Original>
                 <Russian>Оротрахеальная трубка для поддержания проходимости дыхательных путей</Russian>
-                <Spanish>Cánula Orofaríngea, para mantener despejada la vía aérea</Spanish>
+                <Spanish>Cánula Orofaríngea, para mantener despejada las vía aéreas</Spanish>
                 <French>Canule Oropharyngée, sert a maintenir les voie respiratoires ouverte.</French>
                 <Polish>Rurka ustno-gardłowa, używana w celu udrożnienia dróg oddechowych</Polish>
             </Key>
             <Key ID="STR_CSE_MAG_OPA_DESC_USE">
                 <Original>Oropharyngeal airway. An airway adjunct inserted via the oral airway (i.e. mouth) which is then used to keep the airway patent which allows the field medic to ventilate the patient as appropriate.</Original>
                 <Russian>Оротрахеальная трубка. Интубационная трубка, вводимая через рот для поддержания проходимости дыхательных путей, позволяющая санитару при необходимости осуществлять вентиляцию легких раненого.</Russian>
-                <Spanish>Cánula Orofaríngea. Dispositivo de vía aérea insertado a través de la vía respiratoria oral (es decir, la boca) que se utiliza para mantener despejada la vía aérea permitiendo ventilar al paciente según sea apropiado.</Spanish>
+                <Spanish>Cánula Orofaríngea. Dispositivo de vía aérea insertado a través de la vía respiratoria oral (es decir, la boca) que se utiliza para mantener despejada las vías aéreas permitiendo ventilar al paciente según sea apropiado.</Spanish>
                 <French>Canule Oropharyngée. Un dispositif, inseré par la bouche, qui est utiliser pour garder les voie respiratoire overte et permetre la ventilation par le personel de soin.</French>
                 <Polish>Rurkę ustno - gardłową stosuje się podczas zabiegów sztucznej wentylacji płuc. Zadaniem rurki ustno - gardłowej jest zapewnienie drożności górnych dróg oddechowych, a użycie jej zapewnia ratownikowi komfort prowadzenia zabiegów i podnosi skuteczność prowadzonej akcji.</Polish>
             </Key>
@@ -1167,7 +1170,8 @@
                 <Original>Liquid bandage is a topical skin treatment for minor cuts and sores that is sold by several companies. The products are mixtures of chemicals which create a polymeric layer which binds to the skin. This protects the wound by keeping dirt and germs out, and keeping moisture in.</Original>
                 <Russian>Медицинский клей («жидкая повязка») – наружное средство для лечения небольших порезов и ссадин. Продукт представляет собой смесь химических веществ, создающих полимерный слой, который приклеивается к коже. Таким образом предотвращается попадание в рану грязи и микробов, а также высыхание раны.</Russian>
                 <French>Bandage liquide est un traitement de la peau topique pour les coupures et les plaies mineures qui est vendu par plusieurs compagnies. Les produits sont des mélanges de produits chimiques qui créent une couche polymère qui se lie à la peau. Cela protège la plaie en gardant la saleté et les germes, et de garder l'humidité.</French>
-                <Polish>Opatrunek nakładany na skórę atomizerem tworzący na powierzchni skóry warstwę przyśpieszającą gojenie - stosowany przy drobnych ranach i poparzeniach.</Polish>
+                <Polish>Opatrunek nakładany na skórę atomizerem tworzący na powierzchni skóry warstwę przyśpieszającą gojenie - stosowany przy drobnych ranach i poparzeniach.</Polish> 
+                <Spanish>Líquido tópico para pequeños cortes, heridas y quemaduras. Compuesto de sustancias químicas que crean una capa polimérica que se une a la piel. Esto protege la herida manteniéndola libre de suciedad y gérmenes.</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_CHEST_SEAL_DISPLAY">
                 <Original>Chest seal</Original>
@@ -1188,6 +1192,7 @@
                 <Russian>Окклюзионная повязка предназначена для лечения проникающих ранений в грудную клетку с одновременной фиксацией других повязок.  Патентованный гидрогель обеспечивает отличное крепление к области ранения даже при наличии влаги, плевральной жидкости или крови. Может применяться даже при обильном потоотделении или в очень влажной среде. Благодаря высокоадгезивному пластырю повязка плотно прилегает к телу раненого и не отклеивается.</Russian>
                 <French>Le pensement occlusif est un pansement occlusif de haute performance conçu pour traiter les plaies pénétrantes de la poitrine ainsi que la sécurisation d'autres pansements. L'hydro-gel brevetée offre une adhérence supérieure à la surface de la plaie, même lorsque l'humidité, liquide pleural ou le sang est présent, elle le laisse couller. Il fonctionne sur les patients atteints d'une transpiration abondante ou dans des environnements très humides.</French>
                 <Polish>Chest Seal to opatrunek przeznaczony do opatrywania penetracyjnych (otwartych) ran klatki piersiowej, staniowiących sytuację zagrażającą życiu wskutek możliwości powstawania odmy prężnej. Jest to druga co do częstotliwości występowania przyczyna śmierci na polu walki, której można zapobiec stosując odpowiednie procedury medyczne. Chest Seal charakteryzuje się trwałym i szczelnym przyleganiem do skóry pokrytej krwią, piaskiem, włosami, potem lub wodą. Materiałem klejącym opatrunku uszczelniającego jest środek hydrożelowy umożliwiający wielokrotne odklejanie i przyklejanie opatrunku, co pozwala na wentylowanie rany.</Polish>
+                <Spanish>Vendaje oclusivo utilizado para el tratamiento de las lesiones penetrantes en el tórax</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_AID_KIT_DISPLAY">
                 <Original>Personal Aid Kit</Original>
@@ -1207,168 +1212,210 @@
                 <Original></Original>
                 <Russian></Russian>
                 <French></French>
+                <Spanish></Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_SURGICALKIT_DISPLAY">
                 <Original>Surgical Kit</Original>
                 <Russian>Хирургический набор</Russian>
+                <Spanish>Kit Quirúrgico</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_SURGICALKIT_DESC_SHORT">
                 <Original>Surgical Kit for in field advanced medical treatment</Original>
                 <Russian>Набор для хирургической помощи в полевых условиях</Russian>
+                <Spanish>Kit Quirúrgico para el tratamiento avanzado en el campo de batalla</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_SURGICALKIT_DESC_USE">
                 <Original>Surgical Kit for in field advanced medical treatment</Original>
                 <Russian>Набор для хирургической помощи в полевых условиях</Russian>
+                <Spanish>Kit Quirúrgico para el tratamiento avanzado en el campo de batalla</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_BODYBAG_DISPLAY">
                 <Original>Bodybag</Original>
                 <Russian>Мешок для трупов</Russian>
+                <Spanish>Bolsa para cadáveres</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_BODYBAG_DESC_SHORT">
                 <Original>A bodybag for dead bodies</Original>
                 <Russian>Мешок для упаковки трупов</Russian>
+                <Spanish>Bolsa para cadáveres</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_BODYBAG_DESC_USE">
                 <Original>A bodybag for dead bodies</Original>
                 <Russian>Мешок для упаковки трупов</Russian>
+                <Spanish>Bolsa para cadáveres</Spanish>
             </Key>
         </Container>
         <Container name="CMS_Localization_scripts">
             <Key ID="STR_CSE_CMS_CANCELED">
                 <Original>Canceled</Original>
                 <Russian>Отменено</Russian>
+                <Spanish>Cancelado</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_ACTION_CANCELED">
                 <Original>Action has been canceled</Original>
                 <Russian>Действие отменено</Russian>
+                <Spanish>Acción cancelada</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_YOU_MOVED_AWAY">
                 <Original>You moved away    </Original>
                 <Russian>Вы отошли от раненого    </Russian>
+                <Spanish>Te estás alejando    </Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE">
                 <Original>Blood Pressure</Original>
                 <Russian>Артериальное давление</Russian>
+                <Spanish>Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_CONTENT">
                 <Original>Checking Blood Pressure..</Original>
                 <Russian>Проверка артериального давления...</Russian>
+                <Spanish>Comprobando Presión Arterial...</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_CHECKED_MEDIC">
                 <Original>You checked %1</Original>
                 <Russian>Вы осмотрели раненого %1</Russian>
+                <Spanish>Examinando a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_1">
                 <Original>You find a blood pressure of %2/%3</Original>
                 <Russian>Артериальное давление %2/%3</Russian>
+                <Spanish>La Presión Arterial es %2/%3</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_2">
                 <Original>You find a low blood pressure</Original>
                 <Russian>Давление низкое</Russian>
+                <Spanish>La Presión Arterial es baja</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_3">
                 <Original>You find a normal blood pressure</Original>
                 <Russian>Давление нормальное</Russian>
+                <Spanish>La Presión Arterial es normal</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_4">
                 <Original>You find a high blood pressure</Original>
                 <Russian>Давление высокое</Russian>
+                <Spanish>La Presión Arterial es alta</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_5">
                 <Original>You find no blood pressure</Original>
                 <Russian>Давления нет</Russian>
+                <Spanish>No hay Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_6">
                 <Original>You fail to find a blood pressure</Original>
                 <Russian>Артериальное давление не определяется</Russian>
+                <Spanish>No puedes encontrar Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE">
                 <Original>Pulse</Original>
                 <Russian>Пульс</Russian>
+                <Spanish>Pulso</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_CONTENT">
                 <Original>Checking Heart Rate..</Original>
                 <Russian>Проверка пульса...</Russian>
+                <Spanish>Comprobando Pulso...</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_CHECKED_MEDIC">
                 <Original>You checked %1</Original>
                 <Russian>Вы осмотрели раненого %1</Russian>
+                <Spanish>Examinando a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_1">
                 <Original>You find a Heart Rate of %2</Original>
                 <Russian>Пульс %2 уд./мин.</Russian>
+                <Spanish>El Pulso es %2</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_2">
                 <Original>You find a weak Heart Rate</Original>
                 <Russian>Пульс слабый</Russian>
+                <Spanish>El Pulso es débil</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_3">
                 <Original>You find a strong Heart Rate</Original>
                 <Russian>Пульс учащенный</Russian>
+                <Spanish>El Pulso está acelerado</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_4">
                 <Original>You find a normal Heart Rate</Original>
                 <Russian>Пульс в норме</Russian>
+                <Spanish>El Pulso es bueno</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_5">
                 <Original>You find no Heart Rate</Original>
                 <Russian>Пульс не прощупывается</Russian>
+                <Spanish>No tiene Pulso</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_RESPONSE">
                 <Original>Response</Original>
                 <Russian>Реакция</Russian>
+                <Spanish>Reacciona</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_RESPONSE_CONTENT">
                 <Original>You check response of patient</Original>
                 <Russian>Вы проверяете реакцию раненого</Russian>
+                <Spanish>Compruebas si el paciente reacciona</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_REPONSE_RESPONSIVE">
                 <Original>%1 is responsive</Original>
                 <Russian>%1 реагирует на раздражители</Russian>
+                <Spanish>%1 ha reaccionado</Spanish>
+                
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_REPONSE_UNRESPONSIVE">
                 <Original>%1 is not responsive</Original>
                 <Russian>%1 не реагирует</Russian>
+                <Spanish>%1 no reacciona</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_REPONSE_YOU_CHECKED">
                 <Original>You checked %1    </Original>
                 <Russian>Вы осмотрели раненого %1    </Russian>
+                <Spanish>Examinas a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_BANDAGING">
                 <Original>Bandaging</Original>
                 <Russian>Перевязка...</Russian>
+                <Spanish>Vendando</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_BANDAGED">
                 <Original>Bandaged</Original>
                 <Russian>Повязка наложена</Russian>
+                <Spanish>Vendado</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_APPLY_BANDAGE">
                 <Original>You apply a bandage on %1 - %2</Original>
                 <Russian>Вы перевязали раненого %1 (%2)</Russian>
+                <Spanish>Aplicas vendaje a %1 en %2</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_IS_BANDAGING_YOU">
                 <Original>%1 is bandaging you</Original>
                 <Russian>%1 перевязывает вас</Russian>
+                <Spanish>%1 te está vendando</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_START_STITCHING_INJURIES">
                 <Original>You start stitching injures from %1 - %2</Original>
                 <Russian>Вы зашиваете ранения от %1 (%2)</Russian>
+                <Spanish>Estás suturando heridas de %1 en %2</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_STITCHING">
                 <Original>Stitching</Original>
                 <Russian>Наложение швов</Russian>
+                <Spanish>Suturando</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_YOU_TREAT_AIRWAY">
                 <Original>You treat the airway of %1</Original>
                 <Russian>Вы интубируете раненого %1</Russian>
+                <Spanish>Estás intubando a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_AIRWAY">
                 <Original>Airway</Original>
                 <Russian>Дыхательные пути</Russian>
+                <Spanish>Vías Aéreas</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_IS_TREATING_YOUR_AIRWAY">
                 <Original>%1 is treating your aiway</Original>
                 <Russian>%1 проводит вам интубацию</Russian>
+                <Spanish>%1 te está intubando</Spanish>
             </Key>
         </Container>
     </Package>
