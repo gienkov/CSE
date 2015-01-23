@@ -73,93 +73,111 @@
 		<Container name="ConversationModule">
 			<Key ID="STR_CSE_ITEM_KEYCUFFS_DISPLAY">
 				<Original>Keycuffs</Original>
+				<Polish>Kajdanki</Polish>
 				<Spanish>Bridas</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_KEYCUFFS_DESC">
 				<Original>Keycuffs, used for detaining a suspect</Original>
+				<Polish>Kajdanki, używane do skuwania podejrzanego</Polish>
 				<Spanish>Bridas, usadas para detener a un sospechoso</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_ITEM_HIIDE_DISPLAY">
 				<Original>Biometric Scanner (HIIDE)</Original>
+				<Polish>Skaner biometryczny (HIIDE)</Polish>
 				<Spanish>Escáner Biométrico (HIIDE)</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_HIIDE_DESC">
 				<Original>Biometric Scanner (HIIDE)</Original>
+				<Polish>Skaner biometryczny (HIIDE)</Polish>
 				<Spanish>Escáner Biométrico (HIIDE)</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_ITEM_PHONE_DISPLAY">
 				<Original>Old Phone</Original>
+				<Polish>Stary telefon</Polish>
 				<Spanish>Teléfono Antiguo</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_PHONE_DESC">
 				<Original>Old Phone</Original>
+				<Polish>Stary telefon</Polish>
 				<Spanish>Teléfono Antiguo</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_ITEM_PHONE_FOLDED_DISPLAY">
 				<Original>Old Phone (Folded)</Original>
+				<Polish>Stary telefon z klapką</Polish>
 				<Spanish>Teléfono Antiguo (Cerrado)</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_PHONE_FOLDED_DESC">
 				<Original>Old Phone (Folded)</Original>
+				<Polish>Stary telefon z klapką</Polish>
 				<Spanish>Teléfono Antiguo (Cerrado)</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_ITEM_WATCH_EXPENSIVE_DISPLAY">
 				<Original>Watch (Expensive)</Original>
+				<Polish>Zegarek (kosztowny)</Polish>
 				<Spanish>Reloj (Caro)</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_WATCH_EXPENSIVE_DESC">
 				<Original>Watch (Expensive)</Original>
+				<Polish>Wygląda na Rolex-a</Polish>
 				<Spanish>Reloj (Caro)</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_ITEM_WALLET_DISPLAY">
 				<Original>Wallet</Original>
+				<Polish>Portfel</Polish>
 				<Spanish>Billetera</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_WALLET_DESC">
 				<Original>Wallet</Original>
+				<Polish>Gruby portfel</Polish>
 				<Spanish>Billetera</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_ITEM_9v_BATTERY_DISPLAY">
 				<Original>9 volt battery</Original>
+				<Polish>Bateria 9v</Polish>
 				<Spanish>Pila de 9 voltios</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_9v_BATTERY_DESC">
 				<Original>9 volt battery</Original>
+				<Polish>Bateria 9v</Polish>
 				<Spanish>Pila de 9 voltios</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_ITEM_NOTEBOOK_DISPLAY">
 				<Original>Notebook</Original>
+				<Polish>Notatnik</Polish>
 				<Spanish>Cuaderno</Spanish>
-				
-				
 			</Key>
 			<Key ID="STR_CSE_ITEM_NOTEBOOK_DESC">
 				<Original>Notebook</Original>
+				<Polish>Notatnik</Polish>
 				<Spanish>Cuaderno</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_ITEM_SCISSORS_DISPLAY">
 				<Original>Scissors</Original>
+				<Polish>Nożyczki</Polish>
 				<Spanish>Tijeras</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_SCISSORS_DESC">
 				<Original>Scissors</Original>
+				<Polish>Nożyczki</Polish>
 				<Spanish>Tijeras</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_ITEM_WIRES_DISPLAY">
 				<Original>Wires</Original>
+				<Polish>Przewód</Polish>
 				<Spanish>Alambre</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ITEM_WIRES_DESC">
 				<Original>Wires</Original>
+				<Polish>Przewód</Polish>
 				<Spanish>Alambre</Spanish>
 			</Key>
 		</Container>
