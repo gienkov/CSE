@@ -5,36 +5,44 @@
 
 			<Key ID="STR_CSE_FLARE_WHITE">
 				<Original>White Flare</Original>
+				<Polish>Biała flara</Polish>
 				<Spanish>Bengala Blanca</Spanish>
 			</Key>
 			<Key ID="STR_CSE_FLARE_RED">
 				<Original>Red Flare</Original>
+				<Polish>Czerwona flara</Polish>
 				<Spanish>Bengala Roja</Spanish>
 			</Key>
 			<Key ID="STR_CSE_FLARE_YELLOW">
 				<Original>Yellow Flare</Original>
+				<Polish>Żółta flara</Polish>
 				<Spanish>Bengala Amarilla</Spanish>
 			</Key>
 			<Key ID="STR_CSE_FLARE_GREEN">
 				<Original>Green Flare</Original>
+				<Polish>Zielona flara</Polish>
 				<Spanish>Bengala Verde</Spanish>
 			</Key>
 
 
 			<Key ID="STR_CSE_ROAD_FLARE_WHITE">
 				<Original>White Road Flare</Original>
+				<Polish>Biała flara sygnałowa</Polish>
 				<Spanish>Bengala de Carretera Blanca</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ROAD_FLARE_RED">
 				<Original>Red Road Flare</Original>
+				<Polish>Czerwona flara sygnałowa</Polish>
 				<Spanish>Bengala de Carretera Roja</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ROAD_FLARE_YELLOW">
 				<Original>Yellow Road Flare</Original>
+				<Polish>Żółta flara sygnałowa</Polish>
 				<Spanish>Bengala de Carretera Amarilla</Spanish>
 			</Key>
 			<Key ID="STR_CSE_ROAD_FLARE_GREEN">
 				<Original>Green Road Flare</Original>
+				<Polish>Zielona flara sygnałowa</Polish>
 				<Spanish>Bengala de Carretera Verde</Spanish>
 			</Key>
 		</Container>
@@ -48,6 +56,7 @@
             </Key>
             <Key ID="STR_DEPLOY_WEAPON_UNREST_TTTLE">
                 <Original>Unrest Weapon/Undeploy Bipod</Original>
+                <Polish>Podnieś broń / złóż dwójnóg</Polish>
                 <Spanish>Levantar Arma/Plegar Bípode</Spanish>
             </Key>
             <Key ID="STR_DEPLOY_WEAPON_REST_DESC">
@@ -57,6 +66,7 @@
             </Key>
             <Key ID="STR_DEPLOY_WEAPON_UNREST_DESC">
                 <Original>Lets the player unrest his weapon / undeploy the bipod. This is part of the 'Weapon Rest [CSE]' module.</Original>
+                <Polish>Pozwala graczowi podnieść swoją broń / złóżyć dwójnóg. Jest to część modułu 'Podpieranie broni [CSE]'.</Polish>
                 <Spanish>Permite levantar el arma / plegar el bípode. Es parte del módulo "Weapon Rest [CSE]".</Spanish>
                 
             </Key>
