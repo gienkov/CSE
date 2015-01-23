@@ -4,34 +4,42 @@
 		<Container ID="MovementActions">
 			<Key ID="STR_CSE_LOG_CARRY">
                 <Original>Carry</Original>
+                <Polish>Nieś</Polish>
                 <Spanish>Transportar</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_CARRY_OBJECT">
                 <Original>Carry Object</Original>
+                <Polish>Nieś obiekt</Polish>
                 <Spanish>Transportar Objeto</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_DRAG">
                 <Original>Drag</Original>
+                <Polish>Ciąg</Polish>
                 <Spanish>Arrastrar</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_DRAG_OBJECT">
                 <Original>Drag Object</Original>
+                <Polish>Ciąg obiekt</Polish>
                 <Spanish>Arrastrar Objeto</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_DROP">
                 <Original>Drop</Original>
+                <Polish>Upuść</Polish>
                 <Spanish>Soltar</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_DROP_OBJECT">
                 <Original>Drop Object</Original>
+                <Polish>Upuść obiekt</Polish>
                 <Spanish>Soltar Objeto</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_LOAD">
                 <Original>Load</Original>
+                <Polish>Załaduj</Polish>
                 <Spanish>Cargar</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_LOAD_OBJECT">
                 <Original>Load Object</Original>
+                <Polish>Załaduj obiekt</Polish>
                 <Spanish>Cargar Objeto</Spanish>
             </Key>
 
@@ -39,27 +47,33 @@
 
 			<Key ID="STR_CSE_LOG_MOVE_OBJECT">
                 <Original>Moving Object</Original>
+                <Polish>Przemieszczanie obiektu</Polish>
                 <Spanish>Moviendo Objeto</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_DROPPED_OBJECT">
                 <Original>Dropped Object</Original>
+                <Polish>Upuszczono obiekt</Polish>
                 <Spanish>Objeto Liberado</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_OBJECT_PICKED_UP">
                 <Original>Object picked up</Original>
+                <Polish>Podniesiono obiekt</Polish>
                 <Spanish>Objeto Tomado</Spanish>
             </Key>
 
 			<Key ID="STR_CSE_LOG_START_DRAGGING">
                 <Original>You start dragging the object</Original>
+                <Polish>Zaczynasz przeciągać obiekt</Polish>
                 <Spanish>Arrastrando Objeto</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_PLACED_DOWN_OBJECT">
                 <Original>You placed down the object</Original>
+                <Polish>Położyłeś obiekt na ziemi</Polish>
                 <Spanish>Objeto Liberado</Spanish>
             </Key>
 			<Key ID="STR_CSE_LOG_LOADED_OBJECT">
                 <Original>You loaded the object in a vehicle</Original>
+                <Polish>Załadowałeś obiekt do pojazdu</Polish>
                 <Spanish>Objeto cargado en el vehículo</Spanish>
             </Key>
 		</Container>
