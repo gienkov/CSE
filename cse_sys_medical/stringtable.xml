@@ -260,11 +260,13 @@
             </Key>
             <Key ID="STR_CSE_ACTION_STITCHING">
                 <Original>Stitch Wounds.</Original>
+                <Polish>Zszyj rany</Polish>
                 <Russian>Зашить раны.</Russian>
                 <Spanish>Suturar Heridas</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_STITCHING_TOOLTIP">
                 <Original>Stitch bandaged wounds.</Original>
+                <Polish>Zszyj zabandażowane rany</Polish>
                 <Russian>Зашить перевязанные раны.</Russian>
                 <Spanish>Suturar Heridas Vendadas</Spanish>
             </Key>
@@ -272,62 +274,74 @@
         <Container name="CMS_OptionsBandage">
             <Key ID="STR_CSE_ACTION_BANDAGE_BASIC">
                 <Original>Field Dressing (Basic)</Original>
+                <Polish>Bandaż (jałowy)</Polish>
                 <Russian>Повязка (обычная)</Russian>
                 <Spanish>Vendaje de Campaña (Básico)</Spanish>
                 
             </Key>
             <Key ID="STR_CSE_ACTION_BANDAGE_BASIC_TOOLTIP">
                 <Original>Apply when wounds have been bandaged</Original>
+                <Polish>Załóż go, kiedy rana zostanie zabandażowana</Polish>
                 <Russian>Накладывается после остановки кровотечения</Russian>
                 <Spanish>Aplicar cuando las heridas han sido vendadas</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_QUIKCLOT">
                 <Original>Field Dressing (QuikClot)</Original>
+                <Polish>Opatrunek QuikClot</Polish>
                 <Russian>Первичный перевязочный пакет (QuikClot)</Russian>
                 <Spanish>Vendaje de Campaña (QuikClot)</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_QUIKCLOT_TOOLTIP">
                 <Original>Apply to cloth the wound and stop bleeding</Original>
+                <Polish>Załóż go aby zakryć ranę i zatamować krwawienie</Polish>
                 <Russian>Применяется для остановки кровотечения</Russian>
                 <Spanish>Aplicar para detener el sangrado</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BANDAGE_ELASTIC">
                 <Original>Field Dressing (Elastic)</Original>
+                <Polish>Bandaż (elastyczny)</Polish>
                 <Russian>Повязка (давящая)</Russian>
                 <Spanish>Vendaje de Campaña (Elástico)</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BANDAGE_ELASTIC_TOOLTIP">
                 <Original>For extra pressure, apply when wounds have been bandaged</Original>
+                <Polish>Dla dodatkowego ucisku miejsca krwawienia, załóż go kiedy rana zostanie zabandażowana</Polish>
                 <Russian>Обеспечивает прижатие раны после остановки кровотечения</Russian>
                 <Spanish>Aplicar a las heridas vendadas para más presión</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_PACKING_BANDAGE">
                 <Original>Packing Bandage</Original>
+                <Polish>Bandaż (uciskowy)</Polish>
                 <Russian>Тампонирующая повязка</Russian>
                 <Spanish>Vendaje Compresivo</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_PACKING_BANDAGE_TOOLTIP">
                 <Original>Apply on medium to large wounds</Original>
+                <Polish>Załóż go na średnie lub duże rany</Polish>
                 <Russian>Применяется при ранениях среднего и большого размера</Russian>
                 <Spanish>Aplicar en heridas medianas o grandes</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_REMOVE_TOURNIQUET">
                 <Original>Remove Tourniquet</Original>
+                <Polish>Zdejmij stazę</Polish>
                 <Russian>Снять жгут</Russian>
                 <Spanish>Quitar Torniquete</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_REMOVE_TOURNIQUET_TOOLTIP">
                 <Original>Remove applied Tourniquet</Original>
+                <Polish>Zdejmij założoną na kończynę stazę</Polish>
                 <Russian>Снять ранее наложенный жгут</Russian>
                 <Spanish>Quitar Torniquetes</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_APPLY_TOURNIQUET">
                 <Original>Tourniquet</Original>
+                <Polish>Staza</Polish>
                 <Russian>Жгут</Russian>
                 <Spanish>Torniquete</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_APPLY_TOURNIQUET_TOOLTIP">
                 <Original>Apply on limbs only. Limits blood loss on limb.</Original>
+                <Polish>Stosuj tylko na kończyny. Zmniejsza ubytek krwi z kończyny.</Polish>
                 <Russian>Накладывается только на конечности. Ограничивает кровопотерю из конечности.</Russian>
                 <Spanish>Aplicar sólo en las extremidades. Limita la pérdida de sangre en las extremidades.</Spanish>
             </Key>
@@ -335,61 +349,73 @@
         <Container name="CMS_OptionsDrag">
             <Key ID="STR_CSE_ACTION_DRAG_PATIENT">
                 <Original>Drag</Original>
+                <Polish>Ciąg</Polish>
                 <Russian>Тащить</Russian>
                 <Spanish>Arrastrar</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_DRAG_PATIENT_TOOLTIP">
                 <Original>Drag %1</Original>
+                <Polish>Ciąg %1</Polish>
                 <Russian>Тащить раненого %1</Russian>
                 <Spanish>Arrastrar a %1r</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CARRY_PATIENT">
                 <Original>Carry</Original>
+                <Polish>Nieś</Polish>
                 <Russian>Нести</Russian>
                 <Spanish>Cargar</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CARRY_PATIENT_TOOLTIP">
                 <Original>Carry %1</Original>
+                <Polish>Nieś %1</Polish>
                 <Russian>Нести раненого %1</Russian>
                 <Spanish>Cargar a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BODYBAG">
                 <Original>Bodybag</Original>
+                <Polish>Worek na zwłoki</Polish>
                 <Russian>Мешок для трупов</Russian>
                 <Spanish>Bolsa para cadáveres</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_BODYBAG_TOOLTIP">
                 <Original>Put body in bodybag</Original>
+                <Polish>Wkłada ciało do worka na zwłoki</Polish>
                 <Russian>Поместить труп в мешок</Russian>
                 <Spanish>Meter cuerpo en la bolsa para cadáveres</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_DROP_PATIENT">
                 <Original>Drop</Original>
+                <Polish>Puść</Polish>
                 <Russian>Положить</Russian>
                 <Spanish>Soltar</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_DROP_PATIENT_TOOLTIP">
                 <Original>Drop %1</Original>
+                <Polish>Puść %1</Polish>
                 <Russian>Положить %1</Russian>
                 <Spanish>Soltar a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_LOAD_PATIENT">
                 <Original>Load in Vehicle</Original>
+                <Polish>Załaduj do pojazdu</Polish>
                 <Russian>Погрузить в транспорт</Russian>
                 <Spanish>Meter en vehículo</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_LOAD_PATIENT_TOOLTIP">
                 <Original>Load %1</Original>
+                <Polish>Załaduj %1</Polish>
                 <Russian>Погрузить раненого %1</Russian>
                 <Spanish>Cargar a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_UNLOAD_PATIENT">
                 <Original>Unload</Original>
+                <Polish>Wyładuj</Polish>
                 <Russian>Выгрузить</Russian>
                 <Spanish>Descargar</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_UNLOAD_PATIENT_TOOLTIP">
                 <Original>Unload %1</Original>
+                <Polish>Wyładuj %1</Polish>
                 <Russian>Выгрузить раненого %1</Russian>
                 <Spanish>Descargar a %1</Spanish>
             </Key>
@@ -397,32 +423,37 @@
         <Container name="CMS_OptionsExamine">
             <Key ID="STR_CSE_ACTION_CHECK_PULSE">
                 <Original>Check Pulse</Original>
+                <Polish>Sprawdź puls</Polish>
                 <Russian>Проверить пульс</Russian>
                 <Spanish>Comprobar Pulso</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_PULSE_TOOLTIP">
                 <Original>Find the Heart Rate</Original>
+                <Polish>Sprawdź tętno</Polish>
                 <Russian>Нащупать пульс</Russian>
                 <Spanish>Encontrar el ritmo cardiaco</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_BP">
                 <Original>Check Blood Pressure</Original>
+                <Polish>Sprawdź ciśnienie krwi</Polish>
                 <Russian>Проверить давление</Russian>
                 <Spanish>Comprobar Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_BP_TOOLTIP">
                 <Original>Find out what Blood Pressure patient has</Original>
+                <Polish>Sprawdź ciśnienie krwi u pacjenta</Polish>
                 <Russian>Узнать артериальное давление раненого</Russian>
                 <Spanish>Comprobar Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_RESPONSE">
                 <Original>Check Response</Original>
+                <Polish>Sprawdź przytomność</Polish>
                 <Russian>Проверить реакцию</Russian>
                 <Spanish>Comprobar Respuesta</Spanish>
-                
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_RESPONSE_TOOLTIP">
                 <Original>Check if patient is responsive</Original>
+                <Polish>Sprawdź w jakim stanie przytomności znajduje się pacjent</Polish>
                 <Russian>Проверить, реагирует ли раненый на раздражители</Russian>
                 <Spanish>Comprobar si el paciente reacciona</Spanish>
             </Key>
@@ -430,31 +461,37 @@
         <Container name="CMS_OptionsMedication">
             <Key ID="STR_CSE_ACTION_MORPHINE">
                 <Original>Morphine</Original>
+                <Polish>Morfina</Polish>
                 <Russian>Морфин</Russian>
                 <Spanish>Morfina</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_MORPHINE_TOOLTIP">
                 <Original>Good to counter pain</Original>
+                <Polish>Zwalcza ból</Polish>
                 <Russian>Эффективное обезболивающее средство</Russian>
                 <Spanish>Alivia el dolor</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_ATROPINE">
                 <Original>Atropine</Original>
+                <Polish>Atropina</Polish>
                 <Russian>Атропин</Russian>
                 <Spanish>Atropina</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_ATROPINE_TOOLTIP">
                 <Original>Relaxes mussles</Original>
+                <Polish>Rozluźnia mięśnie</Polish>
                 <Russian>Расслабляет мышцы</Russian>
                 <Spanish>Antiarrítmico</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_EPINEPHRINE">
                 <Original>Epinephrine</Original>
+                <Polish>Epinefryna</Polish>
                 <Russian>Адреналин</Russian>
                 <Spanish>Epinefrina</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_EPINEPHRINE_TOOLTIP">
                 <Original>Adrenaline to get the heart going</Original>
+                <Polish>Adrenalina do pobudzenia akcji serca</Polish>
                 <Russian>Для возобновления сердечной деятельности</Russian>
                 <Spanish>Incrementa la frecuencia cardiaca</Spanish>
             </Key>
@@ -1216,31 +1253,37 @@
             </Key>
             <Key ID="STR_CSE_MAG_SURGICALKIT_DISPLAY">
                 <Original>Surgical Kit</Original>
+                <Polish>Zestaw do szycia ran</Polish>
                 <Russian>Хирургический набор</Russian>
                 <Spanish>Kit Quirúrgico</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_SURGICALKIT_DESC_SHORT">
                 <Original>Surgical Kit for in field advanced medical treatment</Original>
+                <Polish>Zestaw pozwalający na zszywanie ran w polu</Polish>
                 <Russian>Набор для хирургической помощи в полевых условиях</Russian>
                 <Spanish>Kit Quirúrgico para el tratamiento avanzado en el campo de batalla</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_SURGICALKIT_DESC_USE">
                 <Original>Surgical Kit for in field advanced medical treatment</Original>
+                <Polish>Zestaw pozwalający na zszywanie ran w polu</Polish>
                 <Russian>Набор для хирургической помощи в полевых условиях</Russian>
                 <Spanish>Kit Quirúrgico para el tratamiento avanzado en el campo de batalla</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_BODYBAG_DISPLAY">
                 <Original>Bodybag</Original>
+                <Polish>Worek na zwłoki</Polish>
                 <Russian>Мешок для трупов</Russian>
                 <Spanish>Bolsa para cadáveres</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_BODYBAG_DESC_SHORT">
                 <Original>A bodybag for dead bodies</Original>
+                <Polish>Worek do pakowania zwłok</Polish>
                 <Russian>Мешок для упаковки трупов</Russian>
                 <Spanish>Bolsa para cadáveres</Spanish>
             </Key>
             <Key ID="STR_CSE_MAG_BODYBAG_DESC_USE">
                 <Original>A bodybag for dead bodies</Original>
+                <Polish>Worek do pakowania zwłok</Polish>
                 <Russian>Мешок для упаковки трупов</Russian>
                 <Spanish>Bolsa para cadáveres</Spanish>
             </Key>
@@ -1248,172 +1291,206 @@
         <Container name="CMS_Localization_scripts">
             <Key ID="STR_CSE_CMS_CANCELED">
                 <Original>Canceled</Original>
+                <Polish>Przerwano</Polish>
                 <Russian>Отменено</Russian>
                 <Spanish>Cancelado</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_ACTION_CANCELED">
                 <Original>Action has been canceled</Original>
+                <Polish>Akcja została przerwana</Polish>
                 <Russian>Действие отменено</Russian>
                 <Spanish>Acción cancelada</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_YOU_MOVED_AWAY">
                 <Original>You moved away    </Original>
+                <Polish>Ruszyłeś się     </Polish>
                 <Russian>Вы отошли от раненого    </Russian>
                 <Spanish>Te estás alejando    </Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE">
                 <Original>Blood Pressure</Original>
+                <Polish>Ciśnienie krwi</Polish>
                 <Russian>Артериальное давление</Russian>
                 <Spanish>Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_CONTENT">
-                <Original>Checking Blood Pressure..</Original>
+                <Original>Checking Blood Pressure...</Original>
+                <Polish>Sprawdzanie ciśnienia krwi...</Polish>
                 <Russian>Проверка артериального давления...</Russian>
                 <Spanish>Comprobando Presión Arterial...</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_CHECKED_MEDIC">
                 <Original>You checked %1</Original>
+                <Polish>Zbadałeś %1</Polish>
                 <Russian>Вы осмотрели раненого %1</Russian>
                 <Spanish>Examinando a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_1">
                 <Original>You find a blood pressure of %2/%3</Original>
+                <Polish>Ciśnienie krwi wynosi %2/%3</Polish>
                 <Russian>Артериальное давление %2/%3</Russian>
                 <Spanish>La Presión Arterial es %2/%3</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_2">
                 <Original>You find a low blood pressure</Original>
+                <Polish>Wyczuwasz niskie ciśnienie krwi</Polish>
                 <Russian>Давление низкое</Russian>
                 <Spanish>La Presión Arterial es baja</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_3">
                 <Original>You find a normal blood pressure</Original>
+                <Polish>Wyczuwasz normalne ciśnienie krwi</Polish>
                 <Russian>Давление нормальное</Russian>
                 <Spanish>La Presión Arterial es normal</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_4">
                 <Original>You find a high blood pressure</Original>
+                <Polish>Wyczuwasz wysokie ciśnienie krwi</Polish>
                 <Russian>Давление высокое</Russian>
                 <Spanish>La Presión Arterial es alta</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_5">
                 <Original>You find no blood pressure</Original>
+                <Polish>Nie wyczuwasz ciśnienia krwi</Polish>
                 <Russian>Давления нет</Russian>
                 <Spanish>No hay Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_BLOODPRESSURE_OUTPUT_6">
                 <Original>You fail to find a blood pressure</Original>
+                <Polish>Nie udało Ci się sprawdzić ciśnienia krwi</Polish>
                 <Russian>Артериальное давление не определяется</Russian>
                 <Spanish>No puedes encontrar Presión Arterial</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE">
                 <Original>Pulse</Original>
+                <Polish>Tętno</Polish>
                 <Russian>Пульс</Russian>
                 <Spanish>Pulso</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_CONTENT">
-                <Original>Checking Heart Rate..</Original>
+                <Original>Checking Heart Rate...</Original>
+                <Polish>Sprawdzanie tętna...</Polish>
                 <Russian>Проверка пульса...</Russian>
                 <Spanish>Comprobando Pulso...</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_CHECKED_MEDIC">
                 <Original>You checked %1</Original>
+                <Polish>Zbadałeś %1</Polish>
                 <Russian>Вы осмотрели раненого %1</Russian>
                 <Spanish>Examinando a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_1">
                 <Original>You find a Heart Rate of %2</Original>
+                <Polish>Wyczuwasz tętno o wartości %2</Polish>
                 <Russian>Пульс %2 уд./мин.</Russian>
                 <Spanish>El Pulso es %2</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_2">
                 <Original>You find a weak Heart Rate</Original>
+                <Polish>Wyczuwasz słabe tętno</Polish>
                 <Russian>Пульс слабый</Russian>
                 <Spanish>El Pulso es débil</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_3">
                 <Original>You find a strong Heart Rate</Original>
+                <Polish>Wyczuwasz silne tętno</Polish>
                 <Russian>Пульс учащенный</Russian>
                 <Spanish>El Pulso está acelerado</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_4">
                 <Original>You find a normal Heart Rate</Original>
+                <Polish>Wyczuwasz normalne tętno</Polish>
                 <Russian>Пульс в норме</Russian>
                 <Spanish>El Pulso es bueno</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_PULSE_OUTPUT_5">
                 <Original>You find no Heart Rate</Original>
+                <Polish>Wyczuwasz brak tętna</Polish>
                 <Russian>Пульс не прощупывается</Russian>
                 <Spanish>No tiene Pulso</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_RESPONSE">
                 <Original>Response</Original>
+                <Polish>Przytomność</Polish>
                 <Russian>Реакция</Russian>
                 <Spanish>Reacciona</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_RESPONSE_CONTENT">
                 <Original>You check response of patient</Original>
+                <Polish>Sprawdzasz przytomność pacjenta</Polish>
                 <Russian>Вы проверяете реакцию раненого</Russian>
                 <Spanish>Compruebas si el paciente reacciona</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_REPONSE_RESPONSIVE">
                 <Original>%1 is responsive</Original>
+                <Polish>%1 jest przytomny</Polish>
                 <Russian>%1 реагирует на раздражители</Russian>
                 <Spanish>%1 ha reaccionado</Spanish>
                 
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_REPONSE_UNRESPONSIVE">
                 <Original>%1 is not responsive</Original>
+                <Polish>%1 jest nieprzytomny</Polish>
                 <Russian>%1 не реагирует</Russian>
                 <Spanish>%1 no reacciona</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_CHECK_REPONSE_YOU_CHECKED">
                 <Original>You checked %1    </Original>
+                <Polish>Zbadałeś %1</Polish>
                 <Russian>Вы осмотрели раненого %1    </Russian>
                 <Spanish>Examinas a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_BANDAGING">
                 <Original>Bandaging</Original>
+                <Polish>Bandażowanie</Polish>
                 <Russian>Перевязка...</Russian>
                 <Spanish>Vendando</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_BANDAGED">
                 <Original>Bandaged</Original>
+                <Polish>Zabandażowano</Polish>
                 <Russian>Повязка наложена</Russian>
                 <Spanish>Vendado</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_APPLY_BANDAGE">
                 <Original>You apply a bandage on %1 - %2</Original>
+                <Polish>Zakładasz bandaż %1 - %2</Polish>
                 <Russian>Вы перевязали раненого %1 (%2)</Russian>
                 <Spanish>Aplicas vendaje a %1 en %2</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_IS_BANDAGING_YOU">
                 <Original>%1 is bandaging you</Original>
+                <Polish>%1 bandażuje Ciebie</Polish>
                 <Russian>%1 перевязывает вас</Russian>
                 <Spanish>%1 te está vendando</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_START_STITCHING_INJURIES">
                 <Original>You start stitching injures from %1 - %2</Original>
+                <Polish>Zszywasz rany %1 - %2</Polish>
                 <Russian>Вы зашиваете ранения от %1 (%2)</Russian>
                 <Spanish>Estás suturando heridas de %1 en %2</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_STITCHING">
                 <Original>Stitching</Original>
+                <Polish>Szycie</Polish>
                 <Russian>Наложение швов</Russian>
                 <Spanish>Suturando</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_YOU_TREAT_AIRWAY">
                 <Original>You treat the airway of %1</Original>
+                <Polish>Udrażniasz drogi oddechowe %1</Polish>
                 <Russian>Вы интубируете раненого %1</Russian>
                 <Spanish>Estás intubando a %1</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_AIRWAY">
                 <Original>Airway</Original>
+                <Polish>Drogi oddechowe</Polish>
                 <Russian>Дыхательные пути</Russian>
                 <Spanish>Vías Aéreas</Spanish>
             </Key>
             <Key ID="STR_CSE_CMS_IS_TREATING_YOUR_AIRWAY">
-                <Original>%1 is treating your aiway</Original>
+                <Original>%1 is treating your airway</Original>
+                <Polish>%1 udrażnia Twoje drogi oddechowe</Polish>
                 <Russian>%1 проводит вам интубацию</Russian>
                 <Spanish>%1 te está intubando</Spanish>
             </Key>
